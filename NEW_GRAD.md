@@ -4,7 +4,7 @@
 
 **New-grad and early-career postings pulled straight from company career boards — auto-updated, ranked by application intelligence, direct apply links.**
 
-![Open roles](https://img.shields.io/badge/open_roles-55-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-13-orange) ![Apply today](https://img.shields.io/badge/apply_today-1-brightgreen) ![Last updated](https://img.shields.io/badge/updated-2026--06--12-blue)
+![Open roles](https://img.shields.io/badge/open_roles-54-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-13-orange) ![Apply today](https://img.shields.io/badge/apply_today-1-brightgreen) ![Last updated](https://img.shields.io/badge/updated-2026--06--12-blue)
 
 ⭐ **Star this repo** so new postings are always one click away.
 
@@ -16,7 +16,7 @@
 |---|---:|
 | [🚀 Apply Today](#-apply-today) | 1 |
 | [💻 Tech New Grad Roles](#-tech-new-grad-roles) | 16 |
-| [🧰 Other New Grad Roles](#-other-new-grad-roles) | 39 |
+| [🧰 Other New Grad Roles](#-other-new-grad-roles) | 38 |
 | [💼 Internships](README.md) | 468 |
 
 ## 🧮 How ROI is scored
@@ -48,10 +48,10 @@ $$\mathrm{ROI} \;=\; \min\Bigl(100,\; \max\Bigl(0,\;\; \underbrace{\tfrac{H}{2}}
 | Trend Micro | 3 |
 | Aptiv | 2 |
 | AtkinsRéalis | 2 |
-| Aviva | 2 |
+| BMO | 2 |
 | Capital One | 2 |
-| Circle K | 2 |
 | General Motors | 2 |
+| Johnson Controls | 2 |
 
 ## 🚀 Apply Today
 
@@ -88,8 +88,8 @@ _Highest expected-value roles first: fresh, direct ATS verified, easier applicat
 |---|---|---|---|---|---:|---|---|---|
 | Circle K | 🆕 Junior Consultant in HR Administration Germany team | Support Office Riga BC &amp; BU | — | — | 99 | review requirements, new grad, canada location | 0d | <a href="https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Riga-BC--BU/Consultant-in-HR-Administration-Germany-team_R588914-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:280018-->
 | Colliers | 🆕 Junior Payroll &amp; Compensation Accountant | Vancouver, British Columbia, Canada | — | — | 99 | review requirements, new grad, canada location | 0d | <a href="https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Vancouver-British-Columbia-Canada/Junior-Payroll---Compensation-Accountant_JR17954" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:279995-->
+| BMO | 🆕 Personal &amp; Business Banking Development Program (New Graduate) | Toronto, ON, CAN | — | — | 99 | review requirements, new grad, canada location | 0d | <a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Personal---Business-Banking-Development-Program--New-Graduate-_R260017863-3" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:280102-->
 | Aviva | 🆕 Jr Underwriter P&amp;C CL, Programs | Vancouver | — | — | 99 | review requirements, new grad, canada location | 1d | <a href="https://aviva.wd1.myworkdayjobs.com/External/job/Vancouver/Jr-Underwriter-P-C-CL--Programs_R-169112-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:279462-->
-| Circle K | 🆕 German Speaking Junior Logistics Support Specialist | Support Office Riga BC &amp; BU | — | — | 99 | review requirements, new grad, canada location | 1d | <a href="https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Riga-BC--BU/German-Speaking-Junior-Logistics-Support-Specialist_R583701-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:279461-->
 | Brookfield | 🆕 Junior Law Clerk | Toronto, Ontario | — | — | 77 | review requirements, new grad, canada location | 1d | <a href="https://brookfield.wd5.myworkdayjobs.com/brookfieldprivate/job/Toronto-Ontario/Junior-Law-Clerk_R2045408-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:183792-->
 | Johnson Controls | 🆕 Junior Fire Alarm Technician | Brampton-Ontario-Canada | — | — | 99 | review requirements, new grad, canada location | 2d | <a href="https://jci.wd5.myworkdayjobs.com/jci/job/Brampton-Ontario-Canada/Junior-Fire-Alarm-Technician_WD30271529" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:255466-->
 | Johnson Controls | 🆕 Junior Fire Alarm Technician | Brampton-Ontario-Canada | — | — | 99 | review requirements, new grad, canada location | 2d | <a href="https://jci.wd5.myworkdayjobs.com/JCI/job/Brampton-Ontario-Canada/Junior-Fire-Alarm-Technician_WD30271529" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:123093-->
@@ -122,18 +122,19 @@ _Highest expected-value roles first: fresh, direct ATS verified, easier applicat
 | First Canadian Title | Junior Title Officer - Residential Lending Solutions | CAN, Ontario, Oakville | — | — | 72 | review requirements, new grad, canada location | 30d | <a href="https://firstam.wd1.myworkdayjobs.com/fctcareers/job/CAN-Ontario-Oakville/Junior-Title-Officer---Residential-Lending-Solutions_R027103-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:150077-->
 | RTX | Junior Accountant | CA-NS-HALIFAX-PLANT 41 ~ 189 Pratt &amp; Whitney Dr ~ PLANT 41 | — | — | 72 | review requirements, new grad, canada location | 30d | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Senior-Financial-Analyst_01827555" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:92520-->
 | RTX | Junior Accountant | CA-NS-HALIFAX-PLANT 41 ~ 189 Pratt &amp; Whitney Dr ~ PLANT 41 | — | — | 72 | review requirements, new grad, canada location | 30d | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Senior-Financial-Analyst_01827555" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:68990-->
-| Aviva | Souscripteur·trice commercial Junior | Canada - Montreal QC 630 boul René Lévesque Ouest | — | — | 72 | review requirements, new grad, canada location | 30d | <a href="https://aviva.wd1.myworkdayjobs.com/External/job/Canada---Montreal-QC-630-boul-Ren-Lvesque-Ouest/Souscripteurtrice-commercial-Junior_R-167816" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:151532-->
 | Larian Studios | Junior Scripter \| Scripteur Junior | Quebec | — | — | 76 | review requirements, new grad, canada location | 56d | <a href="https://jobs.lever.co/larian/ce00ebea-9552-457e-9e71-1baf3b70c68a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:31029-->
 | DRW | Junior Strategy and Operations Analyst, Flow Macro (European Market Hours) | Montreal | — | — | 64 | maybe, new grad, canada location | 136d | <a href="https://job-boards.greenhouse.io/drweng/jobs/7560394" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:18159-->
 
 <details>
-<summary>🔒 Recently closed — 3 role(s) taken down in the last 7 days</summary>
+<summary>🔒 Recently closed — 5 role(s) taken down in the last 7 days</summary>
 
 | Company | Role | Location | Term | 💰 Pay | ROI | Signals | Age | Apply |
 |---|---|---|---|---|---:|---|---|---|
+| ~~Circle K~~ | ~~German Speaking Junior Logistics Support Specialist~~ | ~~Support Office Riga BC &amp; BU~~ | ~~—~~ | ~~—~~ | ~~99~~ | ~~review requirements, new grad, canada location~~ | ~~1d~~ | Closed | <!--id:279461-->
 | ~~Bird Construction~~ | ~~Junior Project Coordinator - Electrical~~ | ~~Sudbury, ON~~ | ~~—~~ | ~~—~~ | ~~77~~ | ~~review requirements, new grad, canada location~~ | ~~1d~~ | Closed | <!--id:145062-->
 | ~~Capital One~~ | ~~Associate, Process Management- New Grad 2026~~ | ~~Toronto, ON~~ | ~~—~~ | ~~—~~ | ~~77~~ | ~~review requirements, new grad, canada location~~ | ~~1d~~ | Closed | <!--id:139669-->
 | ~~Capital One~~ | ~~Associate, Software Engineer, New Grad Card Expansion~~ | ~~Toronto, ON~~ | ~~—~~ | ~~—~~ | ~~77~~ | ~~review requirements, new grad, canada location~~ | ~~1d~~ | Closed | <!--id:139177-->
+| ~~Aviva~~ | ~~Souscripteur·trice commercial Junior~~ | ~~Canada - Montreal QC 630 boul René Lévesque Ouest~~ | ~~—~~ | ~~—~~ | ~~72~~ | ~~review requirements, new grad, canada location~~ | ~~30d~~ | Closed | <!--id:151532-->
 
 </details>
 
