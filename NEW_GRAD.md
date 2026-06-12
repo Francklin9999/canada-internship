@@ -19,6 +19,23 @@
 | [🧰 Other New Grad Roles](#-other-new-grad-roles) | 37 |
 | [💼 Internships](README.md) | 453 |
 
+## 🧮 How ROI is scored
+
+Every role gets a 0–100 expected-value score — apply to high scores first:
+
+$$\mathrm{ROI} \;=\; \min\Bigl(100,\; \max\Bigl(0,\;\; \underbrace{\tfrac{H}{2}}_{\text{hiring reality}} \;+\; \underbrace{\tfrac{E}{3}}_{\text{application ease}} \;+\; F_{\mathrm{age}} \;+\; T \;+\; \Sigma G \;-\; \Sigma W \Bigr)\Bigr)$$
+
+| Term | What it measures | Key values |
+|---|---|---|
+| $H$ | **Hiring reality** — is this a real, fillable opening? | base 82 · fresh post +12 · stale &gt;45d −12 · evergreen/talent-pool −28 · unpaid or PhD-required −18 |
+| $E$ | **Application ease** by ATS and extras | Lever 92 · Greenhouse 86 · Ashby 80 · Workday 56 · transcript −18 · cover letter −10 · assessment −8 |
+| $F_{\mathrm{age}}$ | **Freshness** of the posting date | ≤2d +22 · ≤7d +16 · ≤21d +8 · &gt;60d −10 |
+| $T$ | **Term clarity** (states a season like Fall 2026) | +7 |
+| $\Sigma G$ | **Geography fit** | Canada location / remote-Canada +4 each |
+| $\Sigma W$ | **Eligibility friction &amp; warnings** | co-op enrollment, bilingual, clearance −6 · grad-year/work-auth −3 · evergreen −18 · repost −8 |
+
+**Buckets:** 🚀 apply today = ROI ≥ 78 and ease ≥ 65 · review requirements = ROI ≥ 68 · skip = evergreen, unpaid, PhD-required, or hiring reality &lt; 55.
+
 **Legend:** 🆕 posted in the last 7 days · **ROI** ranks roles by freshness, direct-ATS confidence, estimated effort, and eligibility friction · **Signals** preview term, eligibility, friction, and warning flags · **Age** = days since the company posted it (falls back to first detection when the board hides dates)
 
 ## 🏆 Hiring the most right now
