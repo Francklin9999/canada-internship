@@ -4,7 +4,7 @@
 
 **New-grad and early-career postings pulled straight from company career boards — auto-updated, ranked by application intelligence, direct apply links.**
 
-![Open roles](https://img.shields.io/badge/open_roles-54-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-13-orange) ![Apply today](https://img.shields.io/badge/apply_today-1-brightgreen) ![Last updated](https://img.shields.io/badge/updated-2026--06--12-blue)
+![Open roles](https://img.shields.io/badge/open_roles-54-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-13-orange) ![Apply today](https://img.shields.io/badge/apply_today-1-brightgreen) ![Last updated](https://img.shields.io/badge/updated-2026--06--13-blue)
 
 ⭐ **Star this repo** so new postings are always one click away.
 
@@ -17,7 +17,7 @@
 | [🚀 Apply Today](#-apply-today) | 1 |
 | [💻 Tech New Grad Roles](#-tech-new-grad-roles) | 16 |
 | [🧰 Other New Grad Roles](#-other-new-grad-roles) | 38 |
-| [💼 Internships](README.md) | 468 |
+| [💼 Internships](README.md) | 466 |
 
 ## 🧮 How ROI is scored
 
