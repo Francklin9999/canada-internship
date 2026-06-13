@@ -2,7 +2,7 @@
 
 # 🎓 Canada New Grad Roles
 
-**New-grad and early-career postings pulled straight from company career boards — auto-updated, ranked by application intelligence, direct apply links.**
+**Fresh Canadian new-grad and early-career postings — auto-updated daily, ranked by application intelligence, with direct apply links.**
 
 ![Open roles](https://img.shields.io/badge/open_roles-54-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-13-orange) ![Apply today](https://img.shields.io/badge/apply_today-1-brightgreen) ![Last updated](https://img.shields.io/badge/updated-2026--06--13-blue)
 
@@ -28,7 +28,7 @@ $$\mathrm{ROI} \;=\; \min\Bigl(100,\; \max\Bigl(0,\;\; \underbrace{\tfrac{H}{2}}
 | Term | What it measures | Key values |
 |---|---|---|
 | $H$ | **Hiring reality** — is this a real, fillable opening? | base 82 · fresh post +12 · stale &gt;45d −12 · evergreen/talent-pool −28 · unpaid or PhD-required −18 |
-| $E$ | **Application ease** by ATS and extras | Lever 92 · Greenhouse 86 · Ashby 80 · Workday 56 · transcript −18 · cover letter −10 · assessment −8 |
+| $E$ | **Application ease** of the form | streamlined 80–92 · multi-step 56 · transcript −18 · cover letter −10 · assessment −8 |
 | $F_{\mathrm{age}}$ | **Freshness** of the posting date | ≤2d +22 · ≤7d +16 · ≤21d +8 · &gt;60d −10 |
 | $T$ | **Term clarity** (states a season like Fall 2026) | +7 |
 | $\Sigma G$ | **Geography fit** | Canada location / remote-Canada +4 each |
@@ -36,7 +36,7 @@ $$\mathrm{ROI} \;=\; \min\Bigl(100,\; \max\Bigl(0,\;\; \underbrace{\tfrac{H}{2}}
 
 **Buckets:** 🚀 apply today = ROI ≥ 78 and ease ≥ 65 · review requirements = ROI ≥ 68 · skip = evergreen, unpaid, PhD-required, or hiring reality &lt; 55.
 
-**Legend:** 🆕 posted in the last 7 days · **ROI** ranks roles by freshness, direct-ATS confidence, estimated effort, and eligibility friction · **Signals** preview term, eligibility, friction, and warning flags · **Age** = days since the company posted it (falls back to first detection when the board hides dates)
+**Legend:** 🆕 posted in the last 7 days · **ROI** ranks roles by freshness, posting confidence, estimated effort, and eligibility friction · **Signals** preview term, eligibility, friction, and warning flags · **Age** = days since the company posted it (falls back to first detection when the date is not stated)
 
 ## 🏆 Hiring the most right now
 
@@ -55,7 +55,7 @@ $$\mathrm{ROI} \;=\; \min\Bigl(100,\; \max\Bigl(0,\;\; \underbrace{\tfrac{H}{2}}
 
 ## 🚀 Apply Today
 
-_Highest expected-value roles first: fresh, direct ATS verified, easier applications, and fewer hard eligibility warnings._
+_Highest expected-value roles first: fresh, verified-live, easier applications, and fewer hard eligibility warnings._
 
 | Company | Role | Location | Term | 💰 Pay | ROI | Signals | Age | Apply |
 |---|---|---|---|---|---:|---|---|---|
@@ -141,5 +141,5 @@ _Highest expected-value roles first: fresh, direct ATS verified, easier applicat
 ---
 
 <div align="center">
-<sub>Every listing links to the company's official application page — no aggregators, no stale links. When a posting disappears from the board it is marked closed here within two polls. Spotted a problem? Open an issue.</sub>
+<sub>Every listing links to the company's official application page — no aggregators, no stale links. Postings that are taken down are marked closed here promptly. Spotted a problem? Open an issue.</sub>
 </div>
