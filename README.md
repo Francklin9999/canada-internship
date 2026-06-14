@@ -4,7 +4,7 @@
 
 **Fresh Canadian internship postings — auto-updated daily, newest first, with direct apply links.**
 
-![Open roles](https://img.shields.io/badge/open_internships-400-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-142-orange) ![Last updated](https://img.shields.io/badge/updated-2026--06--14-blue)
+![Open roles](https://img.shields.io/badge/open_internships-401-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-142-orange) ![Last updated](https://img.shields.io/badge/updated-2026--06--14-blue)
 
 ⭐ **Star this repo** so new postings are always one click away.
 
@@ -15,8 +15,8 @@
 | Section | Open roles |
 |---|---:|
 | [💻 Tech Internships](#-tech-internships) | 124 |
-| [🧰 Other Internships](#-other-internships) | 276 |
-| [🎓 New Grad Roles](NEW_GRAD.md) | 106 |
+| [🧰 Other Internships](#-other-internships) | 277 |
+| [🎓 New Grad Roles](NEW_GRAD.md) | 107 |
 
 **Legend:** 🆕 posted in the last 7 days · **Pay / Signals** shows disclosed pay when available, plus term, eligibility, friction, and warning flags · **Age** = days since the company posted it (falls back to first detection when the date is not stated). Newest postings are listed first.
 
@@ -88,7 +88,7 @@
 | Tenstorrent | 🆕 Applied AI Intern, People Operations | Toronto, Ontario, Canada | — | canada location | 4d | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5106644007" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:4215-->
 | TribalScale | 🆕 Agile Test Engineer (QA) - Co-op | Toronto, Ontario, Canada | — | canada location, coop enrollment | 4d | <a href="https://job-boards.greenhouse.io/tribalscale/jobs/4687353006" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:42849-->
 | TribalScale | 🆕 Agile Software Engineer - Co-op | Toronto, Ontario, Canada | — | canada location, coop enrollment | 4d | <a href="https://job-boards.greenhouse.io/tribalscale/jobs/4687337006" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:42847-->
-| Zip | 🆕 Software Engineer Intern (Fall 2026) | Toronto | Fall 2026 | fall 2026, canada location | 4d | <a href="https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:3809-->
+| Zip | 🆕 Software Engineer Intern (Fall 2026) | Toronto | Fall 2026 | fall 2026, canada location | 5d | <a href="https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:3809-->
 | Kobo | 🆕 Business Operations Intern - Content QA | Toronto, Canada | — | canada location | 5d | <a href="https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Business-Operations-Intern---Content-QA_1034278" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:216586-->
 | 1Password | 🆕 Data Intern, Enterprise Analytics - Fall 2026 | Remote (United States \| Canada) | Fall 2026 | fall 2026, canada location | 5d | <a href="https://jobs.ashbyhq.com/1password/c502ea19-dc77-4955-8797-6f8b64ccf52f" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:24408-->
 | CAE | 🆕 C-GE-055 - Software Developer Intern– Operating System Image &amp; Configuration | Montreal (St. Laurent) | — | canada location | 6d | <a href="https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Software-Developer-Intern--Operating-System-Image---Configuration-_122204" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:57293-->
@@ -427,6 +427,7 @@
 | Equativ | Stagiaire – Recouvrement et Trésorerie (Stage 1 an) | Montreal | — | $20–$22/hr CAD · canada location | 37d | <a href="https://jobs.lever.co/equativ/83ddead7-0ee1-48da-96ad-33ddb011bee2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:15618-->
 | Equativ | Treasury and Cash Collection Intern (1 year Internship) | Montreal | — | $20–$22/hr CAD · canada location | 37d | <a href="https://jobs.lever.co/equativ/97e58b46-986a-4f8a-aebd-686d76d286cc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:15623-->
 | Kepler Communications | Finance &amp; Accounting Intern (September 2026) (8+ months) | Toronto, Ontario | — | canada location, coop enrollment | 38d | <a href="https://jobs.lever.co/kepler/339d7009-f4b4-4f56-9540-41d1f5105578" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:285154-->
+| D2L | Knowledge Specialist - Fall 2026 Co-op | Kitchener, Ontario | Fall 2026 | $788–$996 CAD · fall 2026, canada location, coop enrollment | 39d | <a href="https://www.d2l.com/careers/jobs/?job_id=7875384&amp;gh_jid=7875384" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:285178-->
 | Cohere | Research Internship (Fall, 2026) | Canada, United Kingdom, Europe, United States, Toronto, San Francisco, London, Montreal | — | canada location | 43d | <a href="https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:4119-->
 | Magnet Forensics | Desktop Support Co-op (Fall 2026) | Waterloo / Ontario | Fall 2026 | fall 2026, canada location, coop enrollment | 59d | <a href="https://jobs.lever.co/magnetforensics/ef65e553-24eb-43c6-9e3c-9e26e2d3c744" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:26008-->
 | Magnet Forensics | Technical Writer Co-op (Fall 2026) | Waterloo / Ottawa / Ontario | Fall 2026 | fall 2026, canada location, coop enrollment | 59d | <a href="https://jobs.lever.co/magnetforensics/c6768213-6219-4e5a-afe8-a4b6563d2d52" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:26080-->
@@ -437,7 +438,7 @@
 | GoMaterials | Operations &amp; Quoting Intern - Fall 2026 | Montreal, QC | Fall 2026 | $19/hr CAD · fall 2026, canada location | 150d | <a href="https://jobs.lever.co/gomaterials/7cf4b1ec-6d68-4050-854f-ac3eb2e16267" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:23907-->
 | Waabi | Research Internship/Co-op | Toronto, ON | — | canada location, coop enrollment | 177d | <a href="https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:18829-->
 | Waabi | 2026 Intern, PhD Research Scientist | Toronto, ON | — | canada location | 177d | <a href="https://jobs.lever.co/waabi/62700386-b9db-4c78-aec3-5ef59cbe841e" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:18809-->
-| Astera Labs | Design Verification Engineer (Intern 2026) | Toronto, Ontario, Canada | — | canada location | 264d | <a href="https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:3540-->
+| Astera Labs | Design Verification Engineer (Intern 2026) | Toronto, Ontario, Canada | — | canada location | 265d | <a href="https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:3540-->
 | Tenstorrent | Mechanical Engineer, Intern | Toronto, Ontario, Canada | — | canada location | 274d | <a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873587007" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:4229-->
 | GoMaterials | Supply Chain Operations Intern - Fall 2026 | Montreal, QC | Fall 2026 | fall 2026, canada location | 353d | <a href="https://jobs.lever.co/gomaterials/10575072-15b7-4886-a85e-6e6ef4aaf1d4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:23913-->
 | Sezzle | Product Intern | Canada, Remote | — | $20–$25 CAD · canada location | 375d | <a href="https://job-boards.greenhouse.io/sezzle/jobs/6599073003" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:7989-->

@@ -4,7 +4,7 @@
 
 **Fresh Canadian new-grad and early-career postings — auto-updated daily, newest first, with direct apply links.**
 
-![Open roles](https://img.shields.io/badge/open_roles-106-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-26-orange) ![Last updated](https://img.shields.io/badge/updated-2026--06--14-blue)
+![Open roles](https://img.shields.io/badge/open_roles-107-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-26-orange) ![Last updated](https://img.shields.io/badge/updated-2026--06--14-blue)
 
 ⭐ **Star this repo** so new postings are always one click away.
 
@@ -14,9 +14,9 @@
 
 | Section | Open roles |
 |---|---:|
-| [💻 Tech New Grad Roles](#-tech-new-grad-roles) | 10 |
+| [💻 Tech New Grad Roles](#-tech-new-grad-roles) | 11 |
 | [🧰 Other New Grad Roles](#-other-new-grad-roles) | 96 |
-| [💼 Internships](README.md) | 400 |
+| [💼 Internships](README.md) | 401 |
 
 **Legend:** 🆕 posted in the last 7 days · **Pay / Signals** shows disclosed pay when available, plus term, eligibility, friction, and warning flags · **Age** = days since the company posted it (falls back to first detection when the date is not stated). Newest postings are listed first.
 
@@ -48,6 +48,7 @@
 | Kardium Inc. | Junior/Intermediate FPGA Engineer (Hybrid) | Kardium Inc., 155-8518 Glenlyon Parkway, Burnaby, British Columbia, Canada, Burnaby, BC, Canada | — | new grad, canada location, hybrid or onsite | 37d | <a href="https://jobs.dayforcehcm.com/en-US/kardium/CANDIDATEPORTAL/jobs/4181" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:285152-->
 | AltaML | Associate Data Operations Specialist (Brilliant Harvest) (8mth internship) | Canada | — | new grad, canada location | 52d | <a href="https://jobs.lever.co/altaml/238a3e1b-b76f-4265-83e9-e9d22ec27e03" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:21058-->
 | AltaML | Associate Software Developer (Brilliant Harvest) (Fall 2026) | Calgary | Fall 2026 | fall 2026, canada location | 52d | <a href="https://jobs.lever.co/altaml/16fb8a7b-e12d-4436-b21e-f33a38bc31bc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:283153-->
+| D2L | Software Developer - New Graduate | Kitchener, ON, Canada, Toronto, ON, Canada, Vancouver, British Columbia, Canada, Winnipeg, MB, Canada | — | $75K–$85K CAD · new grad, canada location | 187d | <a href="https://www.d2l.com/careers/jobs/?job_id=7455458&amp;gh_jid=7455458" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:285179-->
 | Veeva Systems | Associate Software Engineer In Test | Canada - Toronto | — | new grad, canada location | 2452d | <a href="https://jobs.lever.co/veeva/eea03b21-0e9e-467b-957d-31ba416b4016" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:283093-->
 
 ## 🧰 Other New Grad Roles
