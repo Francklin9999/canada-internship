@@ -16,7 +16,7 @@
 |---|---:|
 | [💻 Tech New Grad Roles](#-tech-new-grad-roles) | 38 |
 | [🧰 Other New Grad Roles](#-other-new-grad-roles) | 253 |
-| [💼 Internships](README.md) | 728 |
+| [💼 Internships](README.md) | 743 |
 
 **Legend:** 🆕 posted in the last 7 days · **Pay / Signals** shows disclosed pay when available, plus term, eligibility, friction, and warning flags · **Age** = days since the company posted it (falls back to first detection when the date is not stated). Newest postings are listed first.
 
