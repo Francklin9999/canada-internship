@@ -4,7 +4,7 @@
 
 **Fresh Canadian new-grad and early-career postings — auto-updated daily, newest first, with direct apply links.**
 
-![Open roles](https://img.shields.io/badge/open_roles-333-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-107-orange) ![Last updated](https://img.shields.io/badge/updated-2026--06--17-blue)
+![Open roles](https://img.shields.io/badge/open_roles-335-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-108-orange) ![Last updated](https://img.shields.io/badge/updated-2026--06--17-blue)
 
 ⭐ **Star this repo** so new postings are always one click away.
 
@@ -14,9 +14,9 @@
 
 | Section | Open roles |
 |---|---:|
-| [💻 Tech New Grad Roles](#-tech-new-grad-roles) | 48 |
+| [💻 Tech New Grad Roles](#-tech-new-grad-roles) | 50 |
 | [🧰 Other New Grad Roles](#-other-new-grad-roles) | 285 |
-| [💼 Internships](README.md) | 815 |
+| [💼 Internships](README.md) | 831 |
 
 **Legend:** 🆕 posted in the last 7 days · **Pay / Signals** shows disclosed pay when available, plus term, eligibility, friction, and warning flags · **Age** = days since the company posted it (falls back to first detection when the date is not stated). Newest postings are listed first.
 
@@ -58,7 +58,9 @@
 | The Boeing Company | 🆕 Junior Data Scientist | CAN - Richmond, Canada | — | new grad, canada location | 2d | <a href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Junior-Data-Scientist_JR2026514878" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:287889-->
 | The Boeing Company | 🆕 Junior Data Scientist | CAN - Richmond, Canada | — | new grad, canada location | 2d | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Junior-Data-Scientist_JR2026514878-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:287629-->
 | Trane Technologies | 🆕 Jr Software Engineer | Montreal, Quebec, Canada | — | new grad, canada location | 3d | <a href="https://www.linkedin.com/jobs/view/4427211287" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:0-->
+| Cushman &amp; Wakefield | 🆕 Mechatronics &amp; Robotics Apprentice | Client Site - USA - CA - Ontario - 8900 Merrill Ave | — | new grad, canada location | 6d | <a href="https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Ontario---8900-Merrill-Ave/Mechatronics---Robotics-Apprentice_R322232" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:284791-->
 | TD Bank | 🆕 Associate Data Engineer | Toronto, Ontario | — | new grad, canada location | 6d | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Data-Engineer_R_1486096" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:285204-->
+| Cushman &amp; Wakefield | Mechatronics &amp; Robotics Apprentice | Client Site - USA - CA - Ontario - 8900 Merrill Ave | — | new grad, canada location | 7d | <a href="https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Ontario---8900-Merrill-Ave/Mechatronics---Robotics-Apprentice_R322229-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:284775-->
 | Ultra Maritime | Systems Engineer I | Dartmouth, NS, Canada | — | new grad, canada location | 12d | <a href="https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Dartmouth-NS-Canada/Systems-Engineer-I_REQ-12055" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:284074-->
 | BMO | Audit Analytics and AI Analyst - Data Science, 6 Month Contract (New or Recent Graduate Opportunity) Immediate Start Date | Toronto, ON, CAN | — | 6 month, canada location | 12d | <a href="https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Audit-Analytics-and-AI-Analyst---Data-Science--6-Month-Contract--New-or-Recent-Graduate-Opportunity---Immediate-Start-Date_R260015936-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:279146-->
 | Bank of Montreal | Audit Analytics and AI Analyst - Data Science, 6 Month Contract (New or Recent Graduate Opportunity) Immediate Start Date | Toronto, ON, CAN | — | 6 month, canada location | 12d | <a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Audit-Analytics-and-AI-Analyst---Data-Science--6-Month-Contract--New-or-Recent-Graduate-Opportunity---Immediate-Start-Date_R260015936" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:278798-->
@@ -376,14 +378,15 @@
 | RTX | Junior Accountant | CA-NS-HALIFAX-PLANT 41 ~ 189 Pratt &amp; Whitney Dr ~ PLANT 41 | — | new grad, canada location | 32d | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-NS-HALIFAX-PLANT-41--189-Pratt--Whitney-Dr--PLANT-41/Senior-Financial-Analyst_01827555" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:68990-->
 | Ciena | Photonics Technical Prime - Junior role | Ottawa | — | new grad, canada location | 32d | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Photonics-Technical-Prime---Junior-role_R030656" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:285185-->
 | Larian Studios | Junior Scripter \| Scripteur Junior | Quebec | — | new grad, canada location, portfolio or github | 61d | <a href="https://jobs.lever.co/larian/ce00ebea-9552-457e-9e71-1baf3b70c68a" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:31029-->
-| DRW | Junior Strategy and Operations Analyst, Flow Macro (European Market Hours) | Montreal | — | new grad, canada location | 140d | <a href="https://job-boards.greenhouse.io/drweng/jobs/7560394" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:18159-->
+| DRW | Junior Strategy and Operations Analyst, Flow Macro (European Market Hours) | Montreal | — | new grad, canada location | 141d | <a href="https://job-boards.greenhouse.io/drweng/jobs/7560394" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:18159-->
 
 <details>
-<summary>🔒 Recently closed — 9 role(s) taken down in the last 7 days</summary>
+<summary>🔒 Recently closed — 10 role(s) taken down in the last 7 days</summary>
 
 | Company | Role | Location | Term | 💰 Pay / Signals | Age | Apply |
 |---|---|---|---|---|---|---|
 | ~~ASHBY~~ | ~~Junior Design Engineer, Canada~~ | ~~Remote - Canada, Vancouver, Toronto, Montreal~~ | ~~—~~ | ~~CA$98K – CA$138K • Offers Equity • Multiple Ranges · full time, canada location~~ | ~~4d~~ | Closed | <!--id:285150-->
+| ~~1Password~~ | ~~Jr Developer, Trust Platforms~~ | ~~Remote (United States \| Canada)~~ | ~~—~~ | ~~$100K/yr · new grad, canada location~~ | ~~7d~~ | Closed | <!--id:279482-->
 | ~~TD Bank~~ | ~~Personal Banking Associate Trainee~~ | ~~Red Deer, Alberta~~ | ~~—~~ | ~~new grad, canada location~~ | ~~7d~~ | Closed | <!--id:280292-->
 | ~~TD Bank~~ | ~~Personal Banker Trainee~~ | ~~Calgary, Alberta~~ | ~~—~~ | ~~new grad, canada location~~ | ~~7d~~ | Closed | <!--id:280264-->
 | ~~Circle K~~ | ~~Junior Accountant~~ | ~~Support Office Riga BC &amp; BU~~ | ~~—~~ | ~~new grad, canada location~~ | ~~12d~~ | Closed | <!--id:283508-->
