@@ -4,7 +4,7 @@
 
 **Fresh Canadian new-grad and early-career postings — auto-updated daily, newest first, with direct apply links.**
 
-![Open roles](https://img.shields.io/badge/open_roles-375-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-125-orange) ![Last updated](https://img.shields.io/badge/updated-2026--06--19-blue)
+![Open roles](https://img.shields.io/badge/open_roles-378-2ea44f) ![New this week](https://img.shields.io/badge/new_this_week-126-orange) ![Last updated](https://img.shields.io/badge/updated-2026--06--19-blue)
 
 ⭐ **Star this repo** so new postings are always one click away.
 
@@ -14,9 +14,9 @@
 
 | Section | Open roles |
 |---|---:|
-| [💻 Tech New Grad Roles](#-tech-new-grad-roles) | 50 |
+| [💻 Tech New Grad Roles](#-tech-new-grad-roles) | 53 |
 | [🧰 Other New Grad Roles](#-other-new-grad-roles) | 325 |
-| [💼 Internships](README.md) | 881 |
+| [💼 Internships](README.md) | 900 |
 
 **Legend:** 🆕 posted in the last 7 days · **Pay / Signals** shows disclosed pay when available, plus term, eligibility, friction, and warning flags · **Age** = days since the company posted it (falls back to first detection when the date is not stated). Newest postings are listed first.
 
@@ -42,6 +42,7 @@
 | RTX | 🆕 Junior Software Engineer Co-Op (Onsite) | CA-ON-OTTAWA-030 ~ 30 Edgewater St ~ EDGEWATER | — | co op, canada location, coop enrollment, hybrid or onsite | 0d | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-ON-OTTAWA-030--30-Edgewater-St--EDGEWATER/Junior-Software-Engineer-Co-Op--Onsite-_01853388" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:290971-->
 | RTX | 🆕 Junior Software Engineer Co-Op (Onsite) | CA-ON-OTTAWA-030 ~ 30 Edgewater St ~ EDGEWATER | — | co op, canada location, coop enrollment, hybrid or onsite | 0d | <a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-OTTAWA-030--30-Edgewater-St--EDGEWATER/Junior-Software-Engineer-Co-Op--Onsite-_01853388" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:290968-->
 | BMO | 🆕 Junior Software Developer, Fall 2026 (Co-op/Internship) - 4 Months | Toronto, ON, CAN, BMOPLACE | Fall 2026 | $50.1K–$93K/yr · 4 month, co op, canada location, coop enrollment | 0d | <a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Fall-2026--Co-op-Internship----4-Months_R260013614" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:290931-->
+| Cushman &amp; Wakefield | 🆕 Mechatronics &amp; Robotics Apprentice | Client Site - USA - CA - Ontario - 8900 Merrill Ave | — | new grad, canada location | 1d | <a href="https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Ontario---8900-Merrill-Ave/Mechatronics---Robotics-Apprentice_R322233" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:290482-->
 | Enbridge | 🆕 Junior Developer - Marketing &amp; Risk Management Systems | Calgary, AB, CAN | — | 12 week, 20 week, canada location, hybrid or onsite | 1d | <a href="https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Junior-Developer---Marketing---Risk-Management-Systems_71526-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:290051-->
 | Kruger Inc. | 🆕 Développeur de projet junior | Montreal, Quebec, Canada | — | new grad, canada location, french or bilingual | 2d | <a href="https://www.linkedin.com/jobs/view/4429718283" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:0-->
 | Boeing | 🆕 Junior Data Scientist | Richmond, British Columbia, Canada | — | $69K/yr · new grad, canada location, canada work authorization, hybrid or onsite | 2d | <a href="https://www.linkedin.com/jobs/view/4427315669" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:0-->
@@ -62,7 +63,9 @@
 | The Boeing Company | 🆕 Junior Data Scientist | CAN - Richmond, Canada | — | new grad, canada location | 4d | <a href="https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/CAN---Richmond-Canada/Junior-Data-Scientist_JR2026514878" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:287889-->
 | The Boeing Company | 🆕 Junior Data Scientist | CAN - Richmond, Canada | — | new grad, canada location | 4d | <a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Junior-Data-Scientist_JR2026514878-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:287629-->
 | Trane Technologies | 🆕 Jr Software Engineer | Montreal, Quebec, Canada | — | new grad, canada location | 6d | <a href="https://www.linkedin.com/jobs/view/4427211287" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:0-->
+| Cushman &amp; Wakefield | Mechatronics &amp; Robotics Apprentice | Client Site - USA - CA - Ontario - 8900 Merrill Ave | — | new grad, canada location | 8d | <a href="https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Ontario---8900-Merrill-Ave/Mechatronics---Robotics-Apprentice_R322232" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:284791-->
 | TD Bank | Associate Data Engineer | Toronto, Ontario | — | new grad, canada location | 8d | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Data-Engineer_R_1486096" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:285204-->
+| Cushman &amp; Wakefield | Mechatronics &amp; Robotics Apprentice | Client Site - USA - CA - Ontario - 8900 Merrill Ave | — | new grad, canada location | 9d | <a href="https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Ontario---8900-Merrill-Ave/Mechatronics---Robotics-Apprentice_R322229-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:284775-->
 | Ultra Maritime | Systems Engineer I | Dartmouth, NS, Canada | — | new grad, canada location | 14d | <a href="https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Dartmouth-NS-Canada/Systems-Engineer-I_REQ-12055" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:284074-->
 | BMO | Audit Analytics and AI Analyst - Data Science, 6 Month Contract (New or Recent Graduate Opportunity) Immediate Start Date | Toronto, ON, CAN | — | 6 month, canada location | 14d | <a href="https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Audit-Analytics-and-AI-Analyst---Data-Science--6-Month-Contract--New-or-Recent-Graduate-Opportunity---Immediate-Start-Date_R260015936-1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:279146-->
 | Bank of Montreal | Audit Analytics and AI Analyst - Data Science, 6 Month Contract (New or Recent Graduate Opportunity) Immediate Start Date | Toronto, ON, CAN | — | 6 month, canada location | 14d | <a href="https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Audit-Analytics-and-AI-Analyst---Data-Science--6-Month-Contract--New-or-Recent-Graduate-Opportunity---Immediate-Start-Date_R260015936" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:278798-->
@@ -421,11 +424,12 @@
 | DRW | Junior Strategy and Operations Analyst, Flow Macro (European Market Hours) | Montreal | — | new grad, canada location | 143d | <a href="https://job-boards.greenhouse.io/drweng/jobs/7560394" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Apply-2ea44f" alt="Apply"></a> | <!--id:18159-->
 
 <details>
-<summary>🔒 Recently closed — 6 role(s) taken down in the last 7 days</summary>
+<summary>🔒 Recently closed — 7 role(s) taken down in the last 7 days</summary>
 
 | Company | Role | Location | Term | 💰 Pay / Signals | Age | Apply |
 |---|---|---|---|---|---|---|
 | ~~ASHBY~~ | ~~Junior Design Engineer, Canada~~ | ~~Remote - Canada, Vancouver, Toronto, Montreal~~ | ~~—~~ | ~~CA$98K – CA$138K • Offers Equity • Multiple Ranges · full time, canada location~~ | ~~6d~~ | Closed | <!--id:285150-->
+| ~~1Password~~ | ~~Jr Developer, Trust Platforms~~ | ~~Remote (United States \| Canada)~~ | ~~—~~ | ~~$100K/yr · new grad, canada location~~ | ~~9d~~ | Closed | <!--id:279482-->
 | ~~TD Bank~~ | ~~Personal Banker Trainee~~ | ~~Calgary, Alberta~~ | ~~—~~ | ~~new grad, canada location~~ | ~~10d~~ | Closed | <!--id:280264-->
 | ~~TD Bank~~ | ~~Personal Banking Associate Trainee~~ | ~~Red Deer, Alberta~~ | ~~—~~ | ~~new grad, canada location~~ | ~~10d~~ | Closed | <!--id:280292-->
 | ~~Circle K~~ | ~~Junior Accountant~~ | ~~Support Office Riga BC &amp; BU~~ | ~~—~~ | ~~new grad, canada location~~ | ~~14d~~ | Closed | <!--id:283508-->
