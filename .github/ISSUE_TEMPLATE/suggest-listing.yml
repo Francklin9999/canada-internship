@@ -1,0 +1,93 @@
+name: Suggest or report a listing
+description: Share a Canadian opportunity or report a closed, duplicate, or incorrect row.
+title: "[Listing report]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping students discover opportunities. Please submit one role per issue and use the employer's direct application page when possible.
+
+  - type: dropdown
+    id: report-type
+    attributes:
+      label: What should we change?
+      options:
+        - Add a new listing
+        - Mark a listing closed or fix its link
+        - Correct listing details
+        - Remove a duplicate
+    validations:
+      required: true
+
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: Example Company
+    validations:
+      required: true
+
+  - type: input
+    id: role
+    attributes:
+      label: Role title
+      placeholder: Software Engineering Intern
+    validations:
+      required: true
+
+  - type: dropdown
+    id: role-type
+    attributes:
+      label: Role type
+      options:
+        - Internship
+        - Co-op
+        - New grad or early career
+        - Apprenticeship or trainee
+        - Other student opportunity
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Canadian location
+      description: Include the city and province, or state that the role is remote within Canada.
+      placeholder: Toronto, Ontario or Remote — Canada
+    validations:
+      required: true
+
+  - type: input
+    id: apply-url
+    attributes:
+      label: Application URL
+      description: Prefer the employer's direct careers page over an aggregator or tracking link.
+      placeholder: https://company.example/careers/role
+    validations:
+      required: true
+
+  - type: input
+    id: deadline
+    attributes:
+      label: Application deadline
+      description: Optional. Add it only when the employer publishes one.
+      placeholder: YYYY-MM-DD
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional details such as the term, duration, or eligibility requirements.
+      placeholder: Fall 2026, four-month co-op term
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I checked the role's location and described its Canadian eligibility accurately.
+          required: true
+        - label: I checked the current application status and described it accurately.
+          required: true
+        - label: I removed personal information, referral codes, and tracking parameters from the link.
+          required: true
