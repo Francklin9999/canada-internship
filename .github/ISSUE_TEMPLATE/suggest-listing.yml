@@ -53,7 +53,7 @@ body:
     attributes:
       label: Canadian location
       description: Include the city and province, or state that the role is remote within Canada.
-      placeholder: Toronto, Ontario or Remote — Canada
+      placeholder: Toronto, Ontario or Remote - Canada
     validations:
       required: true
 

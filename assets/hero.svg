@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="hero-title hero-description">
-  <title id="hero-title">Intern Radar — Canada’s early-career opportunity tracker</title>
+  <title id="hero-title">Intern Radar - Canada's early-career opportunity tracker</title>
   <desc id="hero-description">A navy banner with Intern Radar typography, Canadian job-search highlights, and a red maple leaf at the centre of a radar display.</desc>
   <defs>
     <linearGradient id="background" x1="80" y1="20" x2="1190" y2="390" gradientUnits="userSpaceOnUse">
