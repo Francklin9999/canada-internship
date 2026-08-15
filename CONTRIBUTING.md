@@ -21,6 +21,6 @@ Use the same [listing report form](../../issues/new?template=suggest-listing.yml
 
 ## About pull requests
 
-The job tables are generated from automated collection and validation. Direct edits to `README.md` will be replaced by the next refresh, so issues are the most reliable way to suggest listing changes.
+The job tables are generated from automated collection and validation. Direct edits to `README.md` or `NEW_GRAD.md` will be replaced by the next refresh, so issues are the most reliable way to suggest listing changes.
 
 Small documentation and accessibility improvements are welcome as pull requests. Keep changes focused and explain the user-facing benefit in the description.
