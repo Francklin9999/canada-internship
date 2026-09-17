@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/updated-2026--09--17-6e7781" alt="Updated September 17, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Sep 17, 2026 at 03:07 UTC</sub></p>
+<p align="center"><sub>Last refreshed Sep 17, 2026 at 03:13 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Start with what changed.</strong> NEW marks roles posted in the last 7 days. The Posted column shows both the exact date and age, and roles posted more than 180 days ago are hidden. Use <code>Ctrl+F</code> or <code>Cmd+F</code> to scan for a city, company, or skill.</div>
