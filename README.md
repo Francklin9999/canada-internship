@@ -7,12 +7,12 @@
 <p align="center"><strong>Canada-only internships, co-ops, and early-career roles - one overview, two focused lists.</strong></p>
 
 <p align="center">
-  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>404 open</sub>
+  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>407 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
   <a href="NEW_GRAD.md#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>64 open</sub><br>
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1572 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1582 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>295 open</sub>
+  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>298 open</sub>
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_internships-1572-238636" alt="1572 open internships">
-  <img src="https://img.shields.io/badge/open_new_grad-295-8250df" alt="295 open new-grad roles">
-  <img src="https://img.shields.io/badge/new_last_7_days-407-d97706" alt="407 new roles in the last 7 days">
-  <img src="https://img.shields.io/badge/hiring_companies-340-0969da" alt="340 hiring companies">
+  <img src="https://img.shields.io/badge/open_internships-1582-238636" alt="1582 open internships">
+  <img src="https://img.shields.io/badge/open_new_grad-298-8250df" alt="298 open new-grad roles">
+  <img src="https://img.shields.io/badge/new_last_7_days-415-d97706" alt="415 new roles in the last 7 days">
+  <img src="https://img.shields.io/badge/hiring_companies-341-0969da" alt="341 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--09--18-6e7781" alt="Updated September 18, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Sep 18, 2026 at 20:15 UTC</sub></p>
+<p align="center"><sub>Last refreshed Sep 18, 2026 at 22:59 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Pick a list, then start with what changed.</strong> NEW marks roles posted in the last 7 days, and roles posted more than 180 days ago are hidden automatically. Every row is re-checked for a Canadian location before it is published.</div>
@@ -39,23 +39,24 @@
 
 | | Internships & co-ops | New grad & early career |
 |---|---:|---:|
-| Open roles | [1572](INTERNSHIPS.md) | [295](NEW_GRAD.md) |
-| Tech roles | [404](INTERNSHIPS.md#tech-internships) | [64](NEW_GRAD.md#tech-new-grad-roles) |
-| Other roles | [1168](INTERNSHIPS.md#other-internships) | [231](NEW_GRAD.md#other-early-career-roles) |
-| Posted in the last 7 days | 354 | 53 |
-| Hiring companies | 279 | 113 |
-| Pay disclosed | 34% | 32% |
+| Open roles | [1582](INTERNSHIPS.md) | [298](NEW_GRAD.md) |
+| Tech roles | [407](INTERNSHIPS.md#tech-internships) | [64](NEW_GRAD.md#tech-new-grad-roles) |
+| Other roles | [1175](INTERNSHIPS.md#other-internships) | [234](NEW_GRAD.md#other-early-career-roles) |
+| Posted in the last 7 days | 362 | 53 |
+| Hiring companies | 280 | 113 |
+| Pay disclosed | 33% | 32% |
 | Remote-friendly | 2 | 3 |
-| Closed in the last 7 days | 158 | 28 |
+| Closed in the last 7 days | 150 | 26 |
 
 ## Newest roles
 
 ### Newest tech internships
 
-**The 50 newest of 404 open tech internships**
+**The 50 newest of 407 open tech internships**
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
+| Achievers | NEW Software Engineering Co-op - Winter 2027 | Toronto | Winter 2027 - Co-op enrollment - Hybrid / on-site | Sep 18, 2026<br><sub>today</sub> | <a href="https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181"><strong>Apply</strong></a> | <!--id:318806-->
 | Rockwell Automation | NEW Co-op, Robotics Integration and Development (OTTO by Rockwell Automation) | Waterloo, Ontario, Canada, Canada-Ontario-Waterloo | $20-$32/hr - Co-op enrollment - Graduating 2027 - Hybrid / on-site | Sep 18, 2026<br><sub>today</sub> | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721"><strong>Apply</strong></a> | <!--id:318798-->
 | Rockwell Automation | NEW Co-op, Robotics Research - Data Engineering (OTTO at Rockwell Automation) | Waterloo, Ontario, Canada, Canada-Ontario-Waterloo | $20-$32/hr - Co-op enrollment - Hybrid / on-site | Sep 18, 2026<br><sub>today</sub> | <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Waterloo-Ontario-Canada/Co-op--Robotics-Research---Data-Engineering--OTTO-at-Rockwell-Automation-_R26-6871"><strong>Apply</strong></a> | <!--id:318764-->
 | Genesys | NEW Software Developer in Test, Intern (Agent Development) | Toronto (Flexible) | 16 month term - Co-op enrollment - Hybrid / on-site | Sep 18, 2026<br><sub>today</sub> | <a href="https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Software-Developer-in-Test--Intern--Agent-Development-_JR112174-1"><strong>Apply</strong></a> | <!--id:318754-->
@@ -66,6 +67,7 @@
 | Genesys | NEW Web Software Developer Intern (WFM) | Toronto (Flexible) | 16 month term - Co-op enrollment - Hybrid / on-site | Sep 18, 2026<br><sub>today</sub> | <a href="https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-1"><strong>Apply</strong></a> | <!--id:318756-->
 | Genesys | NEW Software Developer, Intern (Genesys Cloud) | Toronto (Flexible) | 16 month term - Co-op enrollment - Hybrid / on-site | Sep 18, 2026<br><sub>today</sub> | <a href="https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Software-Developer--Intern--Genesys-Cloud-_JR112244-1"><strong>Apply</strong></a> | <!--id:318751-->
 | Genesys | NEW Web Software Developer, Intern (WFM) | Toronto (Flexible) | 16 month term - Co-op enrollment - Hybrid / on-site | Sep 18, 2026<br><sub>today</sub> | <a href="https://genesys.wd1.myworkdayjobs.com/Genesys/job/Toronto-Flexible/Web-Software-Developer--Intern--WFM-_JR112295-1"><strong>Apply</strong></a> | <!--id:318759-->
+| Zaber Technologies | NEW Mechanical Test Engineer (Co-op) | Vancouver, British Columbia, Canada | Co-op enrollment | Sep 18, 2026<br><sub>today</sub> | <a href="https://apply.workable.com/zaber/j/2B9D01953E/"><strong>Apply</strong></a> | <!--id:318808-->
 | Tower Research | NEW Stagiaire en developpement de logiciels (ete 2027) / Software Developer Intern (Summer 2027) | Montreal | Summer 2027 - French / bilingual - Portfolio / GitHub - Possible repost | Sep 17, 2026<br><sub>1 day old</sub> | <a href="https://www.tower-research.com/open-positions/?gh_jid=8212179"><strong>Apply</strong></a> | <!--id:318781-->
 | Western Camps, Inc. | NEW AI Co-op Student (Winter 2027) | Salmon Arm, Canada | Winter 2027 - Co-op enrollment | Sep 17, 2026<br><sub>1 day old</sub> | <a href="https://ats.rippling.com/4ag/jobs/921801f5-ae83-4a49-a234-221a87d94fe7"><strong>Apply</strong></a> | <!--id:318738-->
 | Western Camps, Inc. | NEW Robotics Software Co-op Student (Winter 2027) | Salmon Arm, Canada | Winter 2027 - Co-op enrollment | Sep 17, 2026<br><sub>1 day old</sub> | <a href="https://ats.rippling.com/4ag/jobs/71d97d10-87f2-4f53-88b7-97f27f392d24"><strong>Apply</strong></a> | <!--id:318739-->
@@ -104,10 +106,8 @@
 | M31 AI | NEW Machine Learning Research Intern | Toronto, Ontario, Canada | $32/hr - Hybrid / on-site - Cover letter - Portfolio / GitHub | Sep 17, 2026<br><sub>1 day old</sub> | <a href="https://www.linkedin.com/jobs/view/4467125077"><strong>Apply</strong></a> | <!--id:0-->
 | RBC | NEW 2027 Investor Services, PEY Data Analyst   (12-16 months) | Toronto, Ontario, Canada | 16 month term - Co-op enrollment | Sep 17, 2026<br><sub>1 day old</sub> | <a href="https://www.linkedin.com/jobs/view/4468330122"><strong>Apply</strong></a> | <!--id:0-->
 | RBC | NEW 2027 Winter - GRM, Commercial Portfolio Risk &amp; Credit Analytics Intern (4 Months) | Toronto, Ontario, Canada | Winter 2027 - 4 month term - Co-op enrollment - Graduating 2027 | Sep 17, 2026<br><sub>1 day old</sub> | <a href="https://www.linkedin.com/jobs/view/4459016614"><strong>Apply</strong></a> | <!--id:0-->
-| International Air Transport Association (IATA) | NEW Intern Aviation Information Security | Montreal, Quebec, Canada | 6 month term - Hybrid / on-site - Assessment likely | Sep 17, 2026<br><sub>1 day old</sub> | <a href="https://www.linkedin.com/jobs/view/4449065817"><strong>Apply</strong></a> | <!--id:0-->
-| FCC / FAC | NEW Etudiant ou etudiante, analyste de donnees (Rapports d&#39;entreprise) | Regina, Saskatchewan, Canada | Fall 2027 - Co-op enrollment - French / bilingual | Sep 17, 2026<br><sub>1 day old</sub> | <a href="https://www.linkedin.com/jobs/view/4468306465"><strong>Apply</strong></a> | <!--id:0-->
 
-<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 404 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1572 open</sub></p>
+<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 407 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1582 open</sub></p>
 
 ### Newest tech new-grad roles
 
@@ -133,7 +133,7 @@
 | Scotiabank | NEW Junior Software Engineer-Global Payments Engineering | Toronto, Ontario, Canada | - | Sep 14, 2026<br><sub>4 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4437568012"><strong>Apply</strong></a> | <!--id:0-->
 | Hunter Bond | NEW Graduate Software Engineer / Quant Developer / Quant Researcher - Up to $150,000 + Bonus + Benefits | Montreal, Quebec, Canada | $150K/yr - Hybrid / on-site | Sep 14, 2026<br><sub>4 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4464748322"><strong>Apply</strong></a> | <!--id:0-->
 | Hunter Bond | NEW Junior Front-End Engineer - Montreal - Up to $130,000 CAD Starting Base + Exceptional Bonuses/Benefits | Montreal, Quebec, Canada | $130K/yr - Hybrid / on-site | Sep 14, 2026<br><sub>4 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4464749360"><strong>Apply</strong></a> | <!--id:0-->
-| Affirm | NEW Software Engineer I, Frontend (Upfunnel) | Remote Canada | Remote | Sep 11, 2026<br><sub>7 days old</sub> | <a href="https://job-boards.greenhouse.io/affirm/jobs/7985907003"><strong>Apply</strong></a> | <!--id:318297-->
+| Affirm | Software Engineer I, Frontend (Upfunnel) | Remote Canada | Remote | Sep 11, 2026<br><sub>7 days old</sub> | <a href="https://job-boards.greenhouse.io/affirm/jobs/7985907003"><strong>Apply</strong></a> | <!--id:318297-->
 | Capital One | Associate, Data Scientist - New Grad, 2027 Start | Toronto, ON, Toronto, Ontario | $110K/yr - Hybrid / on-site - Transcript | Sep 11, 2026<br><sub>7 days old</sub> | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1"><strong>Apply</strong></a> | <!--id:318263-->
 | CIMA+ | Civil Infrastructure EIT | Vancouver, British Columbia, Canada, Vancouver, British Columbia, Canada | - | Sep 11, 2026<br><sub>7 days old</sub> | <a href="https://jobs.smartrecruiters.com/CIMA2/744000149089539"><strong>Apply</strong></a> | <!--id:318293-->
 | TD Bank | Software Engineer I (Enterprise Marketing Technology) | Toronto, Ontario, TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | $69.7K-$98.4K/yr - Hybrid / on-site - Cover letter - Possible repost | Sep 11, 2026<br><sub>7 days old</sub> | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I---Enterprise-Marketing-Technology-_R_1508276"><strong>Apply</strong></a> | <!--id:317981-->
@@ -166,24 +166,24 @@
 | AltaML | Associate Software Engineer (Winter 2027) | Edmonton | Winter 2027 - $15K-$20K CAD - 8 month term - Student status | Aug 27, 2026<br><sub>22 days old</sub> | <a href="https://jobs.lever.co/altaml/bd8167f5-e84c-48b1-9cad-2831bf71dea1"><strong>Apply</strong></a> | <!--id:317305-->
 | AltaML | Associate Software Developer (Brilliant Harvest) (Winter 2027) | Calgary | Winter 2027 - Co-op enrollment - Hybrid / on-site | Aug 27, 2026<br><sub>22 days old</sub> | <a href="https://jobs.lever.co/altaml/abed5ba5-8cbe-46b1-beae-25fe30bc4c91"><strong>Apply</strong></a> | <!--id:317438-->
 
-<p><a href="NEW_GRAD.md#tech-new-grad-roles"><strong>See all 64 tech new-grad roles</strong></a> - <a href="NEW_GRAD.md"><strong>Browse every new-grad &amp; early-career role</strong></a> <sub>295 open</sub></p>
+<p><a href="NEW_GRAD.md#tech-new-grad-roles"><strong>See all 64 tech new-grad roles</strong></a> - <a href="NEW_GRAD.md"><strong>Browse every new-grad &amp; early-career role</strong></a> <sub>298 open</sub></p>
 
 ## Where the roles are
 
 | City or region | Internships | New grad |
 |---|---:|---:|
-| Greater Toronto Area | 734 | 95 |
-| Greater Montreal | 297 | 17 |
-| Metro Vancouver | 69 | 26 |
+| Greater Toronto Area | 738 | 95 |
+| Greater Montreal | 298 | 17 |
+| Metro Vancouver | 70 | 26 |
 | Ottawa-Gatineau | 70 | 21 |
-| Calgary | 51 | 27 |
+| Calgary | 52 | 27 |
 | Waterloo Region | 66 | 6 |
-| Edmonton | 16 | 19 |
+| Edmonton | 17 | 19 |
 | Halifax | 25 | 5 |
 | Winnipeg | 12 | 5 |
 | Quebec City | 7 | 0 |
 | Remote-friendly | 2 | 3 |
-| Other Canadian locations | 241 | 71 |
+| Other Canadian locations | 243 | 74 |
 
 <sub>A role that lists several places counts once in each.</sub>
 
@@ -193,7 +193,7 @@
 |---|---:|---:|---:|
 | RTX | 132 | 3 | 135 |
 | TD Bank | 93 | 13 | 106 |
-| Royal Bank of Canada | 88 | 2 | 90 |
+| Royal Bank of Canada | 90 | 2 | 92 |
 | PricewaterhouseCoopers (PwC) | 86 | 0 | 86 |
 | BDO Canada | 46 | 17 | 63 |
 | BMO | 56 | 2 | 58 |
@@ -208,7 +208,7 @@
 |---|---:|
 | Fall 2026 | 26 |
 | Fall/Winter 2026 | 1 |
-| Winter 2027 | 680 |
+| Winter 2027 | 681 |
 | Winter/Summer 2027 | 4 |
 | Spring 2027 | 3 |
 | Summer 2027 | 110 |
@@ -230,9 +230,9 @@
 </div>
 
 <p align="center">
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1572 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1582 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>295 open</sub>
+  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>298 open</sub>
 </p>
 
 ---
