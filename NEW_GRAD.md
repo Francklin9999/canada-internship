@@ -7,9 +7,9 @@
 <p align="center"><strong>Canada-only new-grad and early-career roles, newest employer posting date first.</strong></p>
 
 <p align="center">
-  <a href="#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>82 open</sub>
+  <a href="#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>83 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="#other-early-career-roles"><strong>Other early career</strong></a> <sub>260 open</sub>
+  <a href="#other-early-career-roles"><strong>Other early career</strong></a> <sub>264 open</sub>
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_new_grad-342-8250df" alt="342 open new-grad roles">
-  <img src="https://img.shields.io/badge/new_last_7_days-60-d97706" alt="60 new roles in the last 7 days">
-  <img src="https://img.shields.io/badge/hiring_companies-143-0969da" alt="143 hiring companies">
+  <img src="https://img.shields.io/badge/open_new_grad-347-8250df" alt="347 open new-grad roles">
+  <img src="https://img.shields.io/badge/new_last_7_days-62-d97706" alt="62 new roles in the last 7 days">
+  <img src="https://img.shields.io/badge/hiring_companies-144-0969da" alt="144 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--10--06-6e7781" alt="Updated October 6, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Oct 6, 2026 at 19:18 UTC</sub></p>
+<p align="center"><sub>Last refreshed Oct 6, 2026 at 23:31 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Start with what changed.</strong> NEW marks roles posted in the last 7 days. The Posted column shows both the exact date and age, and roles posted more than 180 days ago are hidden. Use <code>Ctrl+F</code> or <code>Cmd+F</code> to scan for a city, company, or skill.</div>
@@ -35,17 +35,17 @@
 
 ## Tech new-grad roles
 
-**82 open role(s)** - newest employer posting date first
+**83 open role(s)** - newest employer posting date first
 
 <details>
 <summary><strong>Companies with the most tech new-grad openings</strong></summary>
 
 | Company | Open roles |
 |---|---:|
+| Capital One | 4 |
 | Ciena | 4 |
 | Motorola Solutions | 4 |
 | Amazon | 3 |
-| Capital One | 3 |
 | RBC | 3 |
 | TD Bank | 3 |
 
@@ -53,6 +53,7 @@
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
+| Capital One | NEW Associate, Software Engineer, New Grad | Toronto, ON, Toronto, Ontario | Hybrid / on-site - Transcript | Oct 6, 2026<br><sub>today</sub> | <a href="https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046"><strong>Apply</strong></a> | <!--id:320502-->
 | Sun Life | NEW Associate Software Engineer | 2 Locations, Toronto Ontario | - | Oct 6, 2026<br><sub>today</sub> | <a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Associate-Software-Engineer_JR00127248"><strong>Apply</strong></a> | <!--id:320480-->
 | Nokia | NEW Jr. Embedded BSP SW Engineer | Canada | - | Oct 6, 2026<br><sub>today</sub> | <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40110"><strong>Apply</strong></a> | <!--id:320493-->
 | Motorola Solutions | NEW Jr. Software Engineer, AI Agent Platform | Ontario Remote Work, More... | - | Oct 5, 2026<br><sub>1 day old</sub> | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300"><strong>Apply</strong></a> | <!--id:320410-->
@@ -74,13 +75,13 @@
 | AlayaCare | NEW Junior Fullstack Developer (Python) | Montreal, Quebec, Canada | French / bilingual - Hybrid / on-site | Sep 30, 2026<br><sub>6 days old</sub> | <a href="https://alayacare.com/open-positions?gh_jid=8858343002"><strong>Apply</strong></a> | <!--id:320137-->
 | FluidAI Medical | NEW Jr. Software Engineer - Health Systems | Kitchener, Canada | $75K-$85K/yr - Portfolio / GitHub | Sep 30, 2026<br><sub>6 days old</sub> | <a href="https://ats.rippling.com/fluidai-medical-careers/jobs/68057679-c967-4707-9423-ea2db74de7c5"><strong>Apply</strong></a> | <!--id:320145-->
 | EvenUp | NEW Software Engineer (New Grad), AI Entities | Toronto, Ontario, Canada | $130K/yr | Sep 30, 2026<br><sub>6 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4472308332"><strong>Apply</strong></a> | <!--id:0-->
-| Superhuman | NEW Software Engineer, Full-Stack - GPTZero, Early Career | Hub - Toronto | CA$125K - CA$130K - Graduating 2026 - Hybrid / on-site | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/134c282c-2837-44a8-9f7c-74ca39486490"><strong>Apply</strong></a> | <!--id:320287-->
+| Superhuman | Software Engineer, Full-Stack - GPTZero, Early Career | Hub - Toronto | CA$125K - CA$130K - Graduating 2026 - Hybrid / on-site | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/134c282c-2837-44a8-9f7c-74ca39486490"><strong>Apply</strong></a> | <!--id:320287-->
 | Motorola Solutions | Junior Software Engineer, Emergency Call Handling | Gatineau, Canada, More... | - | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731"><strong>Apply</strong></a> | <!--id:320103-->
 | Motorola Solutions | Jr. Software Engineer - Java, Angular, JavaScript | Gatineau, Canada, More... | - | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/Gatineau-Canada/Jr-Software-Engineer---Java--Angular--JavaScript_R69279-1"><strong>Apply</strong></a> | <!--id:320104-->
 | Ciena | Hardware Engineer - New Grad | Ottawa, Canada- Ottawa- 383 Terry Fox- Bldg C | $62.6K-$100K/yr - Co-op enrollment | Sep 28, 2026<br><sub>8 days old</sub> | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R031783"><strong>Apply</strong></a> | <!--id:320017-->
 | University of British Columbia | Junior NLP Data Scientist | UBC Vancouver Campus - Vancouver, BC, Canada, UBCV \| UBC Hospital - Detwiller Pavilion (DPAV) | - | Sep 28, 2026<br><sub>8 days old</sub> | <a href="https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Junior-NLP-Data-Scientist_JR26186"><strong>Apply</strong></a> | <!--id:320075-->
-| Intact | New Grad Tech Development Program - Cybersecurity Stream | 2 Locations, Toronto Ontario CAN | - | Sep 28, 2026<br><sub>8 days old</sub> | <a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Cybersecurity-Stream_R155808"><strong>Apply</strong></a> | <!--id:319984-->
 | Intact | New Grad Tech Development Program - Software Development &amp; Cloud Stream | 2 Locations, Toronto Ontario CAN | - | Sep 28, 2026<br><sub>8 days old</sub> | <a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934"><strong>Apply</strong></a> | <!--id:319983-->
+| Intact | New Grad Tech Development Program - Cybersecurity Stream | 2 Locations, Toronto Ontario CAN | - | Sep 28, 2026<br><sub>8 days old</sub> | <a href="https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Cybersecurity-Stream_R155808"><strong>Apply</strong></a> | <!--id:319984-->
 | RBC | Developer, RBC Amplify 2027, Halifax | Halifax, Nova Scotia, Canada | Co-op enrollment - Graduating 2027 - Student status | Sep 28, 2026<br><sub>8 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4464308183"><strong>Apply</strong></a> | <!--id:0-->
 | RBC | Data Engineer, RBC Amplify 2027, Halifax | Halifax, Nova Scotia, Canada | Co-op enrollment - Graduating 2027 - Student status | Sep 28, 2026<br><sub>8 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4464090301"><strong>Apply</strong></a> | <!--id:0-->
 | Revature | Entry Level Software Developer | Halifax, Nova Scotia, Canada | $65K/yr - Canadian work authorization - Assessment likely | Sep 28, 2026<br><sub>8 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4471349268"><strong>Apply</strong></a> | <!--id:0-->
@@ -138,16 +139,20 @@
 
 ## Other early-career roles
 
-**260 open role(s)** - newest employer posting date first
+**264 open role(s)** - newest employer posting date first
 
 <details>
-<summary><strong>Show 260 other early-career role(s)</strong></summary>
+<summary><strong>Show 264 other early-career role(s)</strong></summary>
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
+| BMO | NEW Operations Analyst (New or Recent Graduate) | Barrie, ON, CAN, BCC | $45K-$100K/yr | Oct 6, 2026<br><sub>today</sub> | <a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Barrie-ON-CAN/Operations-Analyst--New-or-Recent-Graduate-_R260027503"><strong>Apply</strong></a> | <!--id:320494-->
+| Thinkingbox | NEW Junior Motion Designer - The Heist | Vancouver | $60K-$70K CAD | Oct 6, 2026<br><sub>today</sub> | <a href="https://jobs.lever.co/thinkingbox/e747f7e9-f56c-41fb-94fe-128fdbf34a26"><strong>Apply</strong></a> | <!--id:320501-->
+| Thinkingbox | NEW Junior Motion Designer - The Heist | Toronto | $60K-$70K CAD | Oct 6, 2026<br><sub>today</sub> | <a href="https://jobs.lever.co/thinkingbox/e1cab55c-3de0-40af-9e38-fdde2e876220"><strong>Apply</strong></a> | <!--id:320498-->
 | AtkinsRealis | NEW Junior Human Factors Engineer | CA.ON.Mississauga.2251 Speakman Drive | - | Oct 6, 2026<br><sub>today</sub> | <a href="https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Junior-Human-Factors-Engineer_R-163916-1"><strong>Apply</strong></a> | <!--id:320465-->
 | Ciena | NEW Signal and Power Integrity Engineer - New Grad | Ottawa, Canada- Ottawa- 383 Terry Fox- Bldg C | $75.1K-$119.9K/yr - Co-op enrollment | Oct 6, 2026<br><sub>today</sub> | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Signal-and-Power-Integrity-Engineer---New-Grad_R031795"><strong>Apply</strong></a> | <!--id:320444-->
 | CIMA+ | NEW EIT | Vancouver, British Columbia, Canada, Vancouver, British Columbia, Canada | - | Oct 6, 2026<br><sub>today</sub> | <a href="https://jobs.smartrecruiters.com/CIMA2/744000153825380"><strong>Apply</strong></a> | <!--id:320483-->
+| McElhanney | NEW Geomatics (Survey) New Graduate - May 2027 | Calgary, AB, Canada, Calgary, AB, Canada | Graduating 2027 | Oct 6, 2026<br><sub>today</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9408"><strong>Apply</strong></a> | <!--id:320506-->
 | SSR Mining | NEW Mine Geologist, Junior | Saskatoon, SK, Canada | Talent pool | Oct 6, 2026<br><sub>today</sub> | <a href="https://ssrmining.wd108.myworkdayjobs.com/SSR_Mining_Careers/job/Saskatoon-SK-Canada/Resource-Development-Beat-Geologist_R3121"><strong>Apply</strong></a> | <!--id:316031-->
 | EXP | NEW Junior Hazardous Materials Technician (Bilingual) | Ottawa, ON, Canada | French / bilingual | Oct 6, 2026<br><sub>today</sub> | <a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113268"><strong>Apply</strong></a> | <!--id:320476-->
 | CBC/Radio-Canada | NEW Junior Specialist, Employee Engagement (T &amp; I) (Telework/Hybrid) | 2 Locations, Montreal QC | Hybrid / on-site | Oct 5, 2026<br><sub>1 day old</sub> | <a href="https://cbcrc.wd3.myworkdayjobs.com/CBC_Radio-Canada_Jobs/job/Montreal-QC/Spcialiste-junior--Mobilisation--T-et-I---tltravail-hybride-_JR00009141"><strong>Apply</strong></a> | <!--id:320387-->
@@ -173,16 +178,16 @@
 | RTX | NEW Engineer In Training | CA-AB-CALGARY-111 ~ 919 72nd Ave NE ~ 72ND AVE, Ste A | Security clearance - Student status - Assessment likely | Oct 1, 2026<br><sub>5 days old</sub> | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-AB-CALGARY-111--919-72nd-Ave-NE--72ND-AVE-Ste-A/Engineer-In-Training_01879615"><strong>Apply</strong></a> | <!--id:320236-->
 | Uline | NEW Customer Service Management Trainee | 4 Locations, Ontario CA | - | Oct 1, 2026<br><sub>5 days old</sub> | <a href="https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Ontario-CA/Customer-Service-Management-Trainee_R267903-2"><strong>Apply</strong></a> | <!--id:320169-->
 | Hatch | NEW Controls Engineering Trainee | Mississauga, Ontario, Canada | $81K/yr - Graduating 2027 | Oct 1, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4463540081"><strong>Apply</strong></a> | <!--id:0-->
-| PepsiCo Canada | NEW PepsiCo Canada: Sales 2026 New Grad | CA-SK-Saskatoon | - | Oct 1, 2026<br><sub>5 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/477748/pepsico-canada%3a-sales-2026-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:320285-->
 | PepsiCo Canada | NEW PepsiCo Canada: Sales 2026 New Grad | CA-BC-Delta | - | Oct 1, 2026<br><sub>5 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/477746/pepsico-canada%3a-sales-2026-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:320286-->
 | PepsiCo Canada | NEW PepsiCo Canada: Sales 2026 New Grad | CA-AB-Edmonton | - | Oct 1, 2026<br><sub>5 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/477749/pepsico-canada%3a-sales-2026-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:320284-->
+| PepsiCo Canada | NEW PepsiCo Canada: Sales 2026 New Grad | CA-SK-Saskatoon | - | Oct 1, 2026<br><sub>5 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/477748/pepsico-canada%3a-sales-2026-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:320285-->
 | ATCO | NEW Customer Service Advisor, Entry Level | Whitehorse, YT, Canada | - | Oct 1, 2026<br><sub>5 days old</sub> | <a href="https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20735"><strong>Apply</strong></a> | <!--id:320200-->
 | Eaton | NEW Early Career Development Program | Burlington, Ontario, CAN, L7L 5Z1, Milton, Ontario, CAN, L9T 5C3, Mississauga, Ontario, CAN, L5R 1B8, Toronto, Ontario, CAN, M9W 5X9, Burlington, ON, CA, Milton, ON, CA, Mississauga, ON, CA, Toronto, ON, CA | $70K-$80K/yr - 8 month term - Canadian work authorization - Co-op enrollment | Sep 30, 2026<br><sub>6 days old</sub> | <a href="https://eaton.eightfold.ai/careers/job/687239312162"><strong>Apply</strong></a> | <!--id:320165-->
 | Woodbine Entertainment | NEW Junior Graphic Designer | Etobicoke, Ontario, Woodbine HQ | $50K-$55K/yr - Hybrid / on-site - Student status - Portfolio / GitHub | Sep 30, 2026<br><sub>6 days old</sub> | <a href="https://woodbineentertainment.wd10.myworkdayjobs.com/EXT/job/Etobicoke-Ontario/Junior-Graphic-Designer_JR1344"><strong>Apply</strong></a> | <!--id:320143-->
 | NAV CANADA | NEW Technical Services Technologist Trainee Level (2 positions available - Anticipatory Staffing) | Montreal | $56.785K-$91.597K/yr - French / bilingual | Sep 30, 2026<br><sub>6 days old</sub> | <a href="https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Montreal/Technical-Services-Technologist-Trainee-Level--2-positions-available---Anticipatory-Staffing-_JR-8412"><strong>Apply</strong></a> | <!--id:320135-->
 | Canadian Tire | NEW Associate Analyst, BP Controls Input | Toronto, ON, 2180 Yonge | $53K-$88K/yr - Hybrid / on-site - Portfolio / GitHub | Sep 30, 2026<br><sub>6 days old</sub> | <a href="https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/Associate-Analyst--BP-Controls-Input_JR166187-1"><strong>Apply</strong></a> | <!--id:320134-->
-| Bank of Montreal | NEW Credit Analyst Trainee | 2 Locations, Mississauga ON CAN | - | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://bmo.wd3.myworkdayjobs.com/External/job/Mississauga-ON-CAN/Credit-Analyst-Trainee_R260027876"><strong>Apply</strong></a> | <!--id:320110-->
-| CIMA+ | NEW Junior Urban Planner | Edmonton, Alberta, Canada, Edmonton, Alberta, Canada | - | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://jobs.smartrecruiters.com/CIMA2/744000152543489"><strong>Apply</strong></a> | <!--id:320128-->
+| Bank of Montreal | Credit Analyst Trainee | 2 Locations, Mississauga ON CAN | - | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://bmo.wd3.myworkdayjobs.com/External/job/Mississauga-ON-CAN/Credit-Analyst-Trainee_R260027876"><strong>Apply</strong></a> | <!--id:320110-->
+| CIMA+ | Junior Urban Planner | Edmonton, Alberta, Canada, Edmonton, Alberta, Canada | - | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://jobs.smartrecruiters.com/CIMA2/744000152543489"><strong>Apply</strong></a> | <!--id:320128-->
 | Mastercard | Technical Program Management Analyst, Launch Program 2027 - Toronto, Canada | Toronto, Canada | Spring 2027 - 18 month term - Co-op enrollment - Graduating 2027 | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Toronto-Canada/Technical-Program-Management-Analyst--Launch-Program-2027---Toronto--Canada_R-287626"><strong>Apply</strong></a> | <!--id:320072-->
 | Mastercard | Technical Program Management Analyst, Launch Program 2027 - Vancouver - Canada | Vancouver, Canada | 18 month term - Student status - Portfolio / GitHub | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://mastercard.wd1.myworkdayjobs.com/Campus/job/Vancouver-Canada/Technical-Program-Management-Analyst--Launch-Program-2027---Vancouver---Canada_R-285956"><strong>Apply</strong></a> | <!--id:320071-->
 | Questrade Financial Group | Junior Risk &amp; Credit Analyst | 5700 Yonge St, North York, ON M2M 4K2, Canada, Toronto, ON, Canada | - | Sep 29, 2026<br><sub>7 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/qfg/CANDIDATEPORTAL/jobs/17951"><strong>Apply</strong></a> | <!--id:320081-->
@@ -242,15 +247,15 @@
 | General Dynamics Mission Systems | Junior System Integration - Qualification &amp; Verification Engineer | Ottawa, ON, Canada, Ottawa, ON, Canada | - | Sep 16, 2026<br><sub>20 days old</sub> | <a href="https://jobs.smartrecruiters.com/GDMSI/744000149889730"><strong>Apply</strong></a> | <!--id:318578-->
 | McElhanney | Junior Civil Engineer (EIT) - Land Development - May 2027 | Kamloops, BC, Canada, Kamloops, BC, Canada | - | Sep 16, 2026<br><sub>20 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9112"><strong>Apply</strong></a> | <!--id:318639-->
 | McElhanney | Junior Biologist /Junior Environmental Professional (BIT) - May 2027 | Calgary, AB, Canada, Calgary, AB, Canada | - | Sep 16, 2026<br><sub>20 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9087"><strong>Apply</strong></a> | <!--id:318618-->
-| McElhanney | Geomatics (Survey) New Graduate - May 2027 | Terrace, BC, Canada, Terrace, BC, Canada | Graduating 2027 | Sep 16, 2026<br><sub>20 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9092"><strong>Apply</strong></a> | <!--id:318617-->
 | McElhanney | Geomatics (Survey) New Graduate - May 2027 | Edmonton, AB, Canada, Edmonton, AB, Canada | Graduating 2027 | Sep 16, 2026<br><sub>20 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9108"><strong>Apply</strong></a> | <!--id:318616-->
+| McElhanney | Geomatics (Survey) New Graduate - May 2027 | Terrace, BC, Canada, Terrace, BC, Canada | Graduating 2027 | Sep 16, 2026<br><sub>20 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9092"><strong>Apply</strong></a> | <!--id:318617-->
 | McElhanney | 2027 Early Talent Expression of Interest Form - Internships &amp; New Graduates | Alberta, Canada, AB, Canada, British Columbia, Canada, BC | Talent pool | Sep 16, 2026<br><sub>20 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9118"><strong>Apply</strong></a> | <!--id:318677-->
 | Analog Devices | Associate Analog Design Engineer | Canada, Toronto | - | Sep 16, 2026<br><sub>20 days old</sub> | <a href="https://analogdevices.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Associate-Analog-Design-Engineer_R266122"><strong>Apply</strong></a> | <!--id:319884-->
 | CLV Group Inc. | New Grad - Community Leasing Agent | St Catharine&#39;s, Ontario, Canada | Portfolio / GitHub | Sep 16, 2026<br><sub>20 days old</sub> | <a href="https://clvgroup.bamboohr.com/careers/229"><strong>Apply</strong></a> | <!--id:318575-->
 | Ryder System | Operations Management Trainee | CAN - Etobicoke ON M8Z 5G3, CAN - Etobicoke ON Kipling Ave | $55K/yr - Assessment likely | Sep 15, 2026<br><sub>21 days old</sub> | <a href="https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/CAN---Etobicoke-ON-M8Z-5G3/Operations-Management-Trainee--Mon---Fri--_R183553"><strong>Apply</strong></a> | <!--id:318497-->
 | Colliers | Junior Analyst | 2 Locations, Fredericton New Brunswick Canada | - | Sep 15, 2026<br><sub>21 days old</sub> | <a href="https://colliers.wd3.myworkdayjobs.com/Colliers-External-Career-Site/job/Fredericton-New-Brunswick-Canada/Analyst-Valuation---Advisory-services_JR18233"><strong>Apply</strong></a> | <!--id:319777-->
-| McElhanney | Civil Engineering Technologist / Engineer-in-Training (EIT) | Calgary, AB, Canada, Calgary, AB, Canada | - | Sep 15, 2026<br><sub>21 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9007"><strong>Apply</strong></a> | <!--id:318623-->
 | McElhanney | Junior Survey Technologist | Lloydminster, AB, Canada, Lloydminster, AB, Canada | - | Sep 15, 2026<br><sub>21 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9025"><strong>Apply</strong></a> | <!--id:318622-->
+| McElhanney | Civil Engineering Technologist / Engineer-in-Training (EIT) | Calgary, AB, Canada, Calgary, AB, Canada | - | Sep 15, 2026<br><sub>21 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/mcelhanney/CANDIDATEPORTAL/jobs/9007"><strong>Apply</strong></a> | <!--id:318623-->
 | PepsiCo Canada | PepsiCo Canada: Supply Chain 2027 New Grad | CA-NS-New Minas | - | Sep 15, 2026<br><sub>21 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/474951/pepsico-canada%3a-supply-chain-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319405-->
 | BDO Canada | New Grad: Junior Accountant, Canadian Tax Services (Fall 2027) Vancouver | Vancouver | Fall 2027 - $55K-$63K/yr - Possible repost | Sep 14, 2026<br><sub>22 days old</sub> | <a href="https://bdo.wd3.myworkdayjobs.com/BDO/job/Vancouver/New-Grad--Junior-Accountant--Canadian-Tax-Services--Fall-2027--Vancouver_JR7054"><strong>Apply</strong></a> | <!--id:318391-->
 | SLR Consulting | Environmental Planner - Early Career | Winnipeg, Canada, Winnipeg | Student status - Assessment likely | Sep 14, 2026<br><sub>22 days old</sub> | <a href="https://slrconsulting.wd103.myworkdayjobs.com/SLRCareers/job/Winnipeg-Canada/Environmental-Planner---Early-Career_JR102544-1"><strong>Apply</strong></a> | <!--id:320209-->
@@ -343,16 +348,16 @@
 | Thinkingbox | Junior Accountant - Thinkingbox | Vancouver | $50K-$60K CAD | Aug 6, 2026<br><sub>61 days old</sub> | <a href="https://jobs.lever.co/thinkingbox/ea1accbe-20d9-4234-90e6-bee2b91f34fd"><strong>Apply</strong></a> | <!--id:314621-->
 | PepsiCo Canada | PepsiCo Canada: Health and Safety New Grad - Move/Sell | CA-ON-Mississauga | $72.5K-$78.7K/yr - Graduating 2026 | Aug 6, 2026<br><sub>61 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/468629/pepsico-canada%3a-health-and-safety-new-grad---move-sell/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319520-->
 | Phasor Engineering | Electrical Engineer-in-Training (EIT) | Burnaby, British Columbia, Canada | - | Aug 6, 2026<br><sub>61 days old</sub> | <a href="https://apply.workable.com/phasorengineering/j/F2C2A81E23/"><strong>Apply</strong></a> | <!--id:316252-->
-| PepsiCo Canada | PepsiCo Canada: Sales 2027 New Grad | CA-ON-Ancaster | $70K/yr | Aug 5, 2026<br><sub>62 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/465784/pepsico-canada%3a-sales-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319533-->
 | PepsiCo Canada | PepsiCo Canada: Sales 2027 New Grad | CA-ON-Sudbury | $70K/yr | Aug 5, 2026<br><sub>62 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467316/pepsico-canada%3a-sales-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319528-->
+| PepsiCo Canada | PepsiCo Canada: Sales 2027 New Grad | CA-ON-Ancaster | $70K/yr | Aug 5, 2026<br><sub>62 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/465784/pepsico-canada%3a-sales-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319533-->
 | PepsiCo Canada | PepsiCo Canada: Sales 2027 New Grad | CA-ON-Scarborough | $70K/yr | Aug 5, 2026<br><sub>62 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467302/pepsico-canada%3a-sales-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319532-->
 | Amazon | Workplace Health and Safety Specialist, Early Career - (2027) - Canada | Barrhaven, Ontario, Canada, Bolton, Ontario, Canada, Calgary, Alberta, Canada, Hamilton, Ontario, Canada, Richmond, British Columbia, Canada, St. Thomas, Ontario, Canada, Ottawa, Ontario, Canada, Tsawwassen First Nation, British Columbia, Canada | - | Aug 5, 2026<br><sub>62 days old</sub> | <a href="https://www.amazon.jobs/en/jobs/10493332"><strong>Apply</strong></a> | <!--id:319101-->
 | PepsiCo Canada | PepsiCo Canada: Sales 2027 New Grad | CA-MB-Winnipeg | - | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467313/pepsico-canada%3a-sales-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319530-->
-| PepsiCo Canada | PepsiCo Canada: Sales 2027 New Grad | CA-NS-Bedford | - | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467304/pepsico-canada%3a-sales-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319531-->
-| PepsiCo Canada | PepsiCo Canada: Away From Home (AFH) 2027 New Grad | CA-ON-Mississauga | $51.8K-$84.42K/yr | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/468285/pepsico-canada%3a-away-from-home-%28afh%29-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319521-->
-| PepsiCo Canada | PepsiCo Canada: Supply Chain 2027 New Grad | CA-AB-Calgary | - | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467350/pepsico-canada%3a-supply-chain-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319527-->
 | PepsiCo Canada | PepsiCo Canada: Territory Sales Representative 2027 New Grad | CA-ON-Mississauga | $51.8K-$84.42K/yr | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467383/pepsico-canada%3a-territory-sales-representative-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319525-->
+| PepsiCo Canada | PepsiCo Canada: Supply Chain 2027 New Grad | CA-AB-Calgary | - | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467350/pepsico-canada%3a-supply-chain-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319527-->
+| PepsiCo Canada | PepsiCo Canada: Away From Home (AFH) 2027 New Grad | CA-ON-Mississauga | $51.8K-$84.42K/yr | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/468285/pepsico-canada%3a-away-from-home-%28afh%29-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319521-->
 | PepsiCo Canada | PepsiCo Canada: Supply Chain 2027 New Grad | CA-BC-Delta | $73.6K-$80.7K/yr | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467620/pepsico-canada%3a-supply-chain-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319524-->
+| PepsiCo Canada | PepsiCo Canada: Sales 2027 New Grad | CA-NS-Bedford | - | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467304/pepsico-canada%3a-sales-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319531-->
 | PepsiCo Canada | PepsiCo Canada: Supply Chain 2027 New Grad | CA-MB-Winnipeg | - | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467625/pepsico-canada%3a-supply-chain-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319522-->
 | PepsiCo Canada | PepsiCo Canada: Supply Chain 2027 New Grad | CA-AB-Taber | - | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467621/pepsico-canada%3a-supply-chain-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319523-->
 | PepsiCo Canada | PepsiCo Canada: Sales 2027 New Grad | CA-BC-Delta | - | Aug 4, 2026<br><sub>63 days old</sub> | <a href="https://globalcampus-pepsico.icims.com/jobs/467315/pepsico-canada%3a-sales-2027-new-grad/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:319529-->
@@ -376,8 +381,8 @@
 | First Canadian Title | Junior Title Officer - Residential Lending Solutions | CAN, Ontario, Oakville, Oakville, ON | Hybrid / on-site - Unpaid | Jul 16, 2026<br><sub>82 days old</sub> | <a href="https://firstam.wd1.myworkdayjobs.com/fctcareers/job/CAN-Ontario-Oakville/Junior-Title-Officer---Residential-Lending-Solutions_R027103-1"><strong>Apply</strong></a> | <!--id:150077-->
 | Teledyne | Project Coordinator (Entry Level for Technical Grads) | Canada - Edmonton, AB | Talent pool | Jul 16, 2026<br><sub>82 days old</sub> | <a href="https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Edmonton-AB/Project-Coordinator--Entry-Level-for-Technical-Grads-_REQ34761"><strong>Apply</strong></a> | <!--id:279081-->
 | TD Bank | Quality Engineer I-2 | Toronto, Ontario, 310/320 Front Street West Corporate, Toronto, Ontario | $69.7K-$98.4K/yr | Jul 16, 2026<br><sub>82 days old</sub> | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I-2_R_1469786"><strong>Apply</strong></a> | <!--id:280263-->
-| WSP | Electrical Engineer-in-Training (EIT) | Vancouver, BC, Canada, Canada | - | Jul 16, 2026<br><sub>82 days old</sub> | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91305"><strong>Apply</strong></a> | <!--id:315584-->
 | WSP | Junior Building Science Technician | Calgary, AB, Canada, Canada | - | Jul 16, 2026<br><sub>82 days old</sub> | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/87148"><strong>Apply</strong></a> | <!--id:315582-->
+| WSP | Electrical Engineer-in-Training (EIT) | Vancouver, BC, Canada, Canada | - | Jul 16, 2026<br><sub>82 days old</sub> | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/91305"><strong>Apply</strong></a> | <!--id:315584-->
 | AtkinsRealis | Junior Mechanical Machine CAD Designer | CA.ON.Mississauga.2251 Speakman Drive | Hybrid / on-site | Jul 15, 2026<br><sub>83 days old</sub> | <a href="https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Junior-Mechanical-Machine-CAD-Designer_R-159293"><strong>Apply</strong></a> | <!--id:302880-->
 | CRB | HVAC Design Engineer (Entry Level) | Mississauga, ON, Canada, Mississauga, ON, Canada | - | Jul 10, 2026<br><sub>88 days old</sub> | <a href="https://jobs.smartrecruiters.com/CRB/744000137194437"><strong>Apply</strong></a> | <!--id:299659-->
 | EXP | CPI/Ing. junior civil, Surveillance d&#39;infrastructures urbaines | Quebec, QC, Canada | - | Jul 9, 2026<br><sub>89 days old</sub> | <a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112825"><strong>Apply</strong></a> | <!--id:315245-->
@@ -388,8 +393,8 @@
 | WSP | Junior Mining Engineer | Calgary, AB, Canada, Canada | - | Jul 3, 2026<br><sub>95 days old</sub> | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/90494"><strong>Apply</strong></a> | <!--id:315590-->
 | VO2 GROUP | [VO2 Canada] - Business Analyst (BA) Junior - Tremplin Salesforce &amp; IA | Montreal, Canada | - | Jun 30, 2026<br><sub>98 days old</sub> | <a href="https://jobs.lever.co/vo2-group/4a1ba40c-9aee-40c5-b0f8-9940734b895e"><strong>Apply</strong></a> | <!--id:299717-->
 | AtkinsRealis | Junior Process Engineering Assistant | CA.ON.Mississauga.2251 Speakman Drive | - | Jun 29, 2026<br><sub>99 days old</sub> | <a href="https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Junior-Process-Engineering-Assistant_R-158416-1"><strong>Apply</strong></a> | <!--id:294951-->
-| EXP | Technicienne ou technicien junior en infrastructures urbaines | Sherbrooke, QC, Canada | - | Jun 26, 2026<br><sub>102 days old</sub> | <a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112571"><strong>Apply</strong></a> | <!--id:315247-->
 | EXP | Civil Engineer-in-Training (EIT) / Project Coordinator - Water &amp; Wastewater | Brampton, ON, Canada | - | Jun 26, 2026<br><sub>102 days old</sub> | <a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112772"><strong>Apply</strong></a> | <!--id:315248-->
+| EXP | Technicienne ou technicien junior en infrastructures urbaines | Sherbrooke, QC, Canada | - | Jun 26, 2026<br><sub>102 days old</sub> | <a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/112571"><strong>Apply</strong></a> | <!--id:315247-->
 | HTS Engineering - Heat Transfer Solutions | Junior HVAC Sales Specialist | Chelmsford, Greater Sudbury, ON, Canada, Greater Sudbury, ON, Canada | - | Jun 25, 2026<br><sub>103 days old</sub> | <a href="https://jobs.dayforcehcm.com/en-US/htseng/CANDIDATEPORTAL/jobs/8356"><strong>Apply</strong></a> | <!--id:299541-->
 | BGIS | Junior Interior Designer | Ottawa, ON, Canada | - | Jun 25, 2026<br><sub>103 days old</sub> | <a href="https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/231543"><strong>Apply</strong></a> | <!--id:315368-->
 | WSP | Junior Geotechnical Engineer-in-Training | Terrace, BC, Canada, Canada | - | Jun 23, 2026<br><sub>105 days old</sub> | <a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/81087"><strong>Apply</strong></a> | <!--id:315592-->
@@ -409,7 +414,7 @@
 </details>
 
 <details>
-<summary><strong>Show 45 recently closed new-grad role(s)</strong></summary>
+<summary><strong>Show 43 recently closed new-grad role(s)</strong></summary>
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
@@ -418,14 +423,12 @@
 | ~~Huron~~ | ~~Consulting Analyst, Digital (Montreal Bilingual French and English) - Start Dates Q3/Q4 2027 (Spring 2027 Graduates)~~ | ~~Montreal Canada~~ | Spring 2027 - $75K/yr - Canadian work authorization - French / bilingual | Aug 7, 2026<br><sub>60 days old</sub> | Closed | <!--id:314654-->
 | ~~Egis~~ | ~~Junior Environmental Scientist~~ | ~~Hamilton, ON, Canada, Hamilton, ON, Canada~~ | - | Oct 2, 2026<br><sub>4 days old</sub> | Closed | <!--id:320321-->
 | ~~ATCO~~ | ~~Junior Proposal Specialist~~ | ~~Calgary, AB, Canada~~ | - | Oct 1, 2026<br><sub>5 days old</sub> | Closed | <!--id:320255-->
-| ~~University of Alberta~~ | ~~Junior Research Associate~~ | ~~Edmonton, AB, Canada~~ | - | Sep 22, 2026<br><sub>14 days old</sub> | Closed | <!--id:319689-->
 | ~~Elk Valley Resources~~ | ~~Engineer or Engineer in Training, Projects~~ | ~~Elkford, BC~~ | Portfolio / GitHub | Sep 11, 2026<br><sub>25 days old</sub> | Closed | <!--id:318723-->
 | ~~Alma Mater Society of UBC Vancouver~~ | ~~Junior Events Coordinator - Conferences and Catering~~ | ~~6133 University Boulevard, 6133 University Boulevard, Vancouver, British Columbia, Canada, Vancouver, BC, Canada~~ | - | Sep 10, 2026<br><sub>26 days old</sub> | Closed | <!--id:318246-->
 | ~~Knix~~ | ~~Junior Producer~~ | ~~Toronto, ON~~ | - | Aug 28, 2026<br><sub>39 days old</sub> | Closed | <!--id:316970-->
 | ~~Walmart~~ | ~~Software Developer I~~ | ~~Mississauga, ON, (CAN) ON MISSISSAUGA Home Office 09026 TECHNOLOGY INFRASTRUCTURE~~ | $64.7K-$88.99K/yr | Sep 29, 2026<br><sub>7 days old</sub> | Closed | <!--id:320223-->
 | ~~Loblaw Companies~~ | ~~Machine Learning Software Developer I~~ | ~~1 Presidents Choice Circle, Brampton, ON~~ | - | Sep 28, 2026<br><sub>8 days old</sub> | Closed | <!--id:320040-->
 | ~~Sun Life~~ | ~~Student, Junior Financial Analyst (Winter 2027)~~ | ~~Toronto, Ontario, Sun Life Toronto One York~~ | Winter 2027 - Hybrid / on-site | Sep 23, 2026<br><sub>13 days old</sub> | Closed | <!--id:319743-->
-| ~~Sun Life~~ | ~~Student, Jr. Analytics and Automation Developer (Winter 2027)~~ | ~~2 Locations, North York Ontario~~ | Winter 2027 | Sep 21, 2026<br><sub>15 days old</sub> | Closed | <!--id:318862-->
 | ~~Bank of Montreal~~ | ~~Service Representative (New or Recent Graduate) - 1 Year Contract~~ | ~~Toronto, ON, CAN, YNG~~ | $35.5K-$65K/yr - Student status | Sep 16, 2026<br><sub>20 days old</sub> | Closed | <!--id:318585-->
 | ~~NAV CANADA~~ | ~~Technical Services Technologist Trainee - Edmonton, Alberta~~ | ~~Edmonton~~ | $56.785K-$91.597K/yr | Sep 10, 2026<br><sub>26 days old</sub> | Closed | <!--id:318139-->
 | ~~Rival Technologies~~ | ~~Junior Helpdesk Support~~ | ~~Toronto, ON~~ | $45K-$55K/yr - Canadian work authorization - Co-op enrollment - Hybrid / on-site | Sep 3, 2026<br><sub>33 days old</sub> | Closed | <!--id:317401-->
@@ -433,8 +436,8 @@
 | ~~Kraft Heinz~~ | ~~2027 Canada Trainee Program~~ | ~~Toronto - Queen&#39;s Quay - Headquarters~~ | 4 month term - Hybrid / on-site - Assessment likely | Jul 31, 2026<br><sub>67 days old</sub> | Closed | <!--id:312289-->
 | ~~Capital Power~~ | ~~Accounting Specialist (CPA Student) Finance Development Program~~ | ~~Edmonton, AB, Edmonton - EPCOR Tower 11th Floor~~ | Hybrid / on-site - Cover letter | Sep 18, 2026<br><sub>18 days old</sub> | Closed | <!--id:318747-->
 | ~~NAV CANADA~~ | ~~Technical Services Technologist Trainee - Montreal~~ | ~~Montreal~~ | $56.785K-$91.597K/yr - French / bilingual | Sep 11, 2026<br><sub>25 days old</sub> | Closed | <!--id:318237-->
-| ~~BDO Canada~~ | ~~Business Analyst - BizApps - New Grad (January 2027)~~ | ~~2 Locations, Toronto Bay St~~ | - | Sep 14, 2026<br><sub>22 days old</sub> | Closed | <!--id:318887-->
 | ~~BDO Canada~~ | ~~Business Analyst , Data &amp; Analytics - New Grad (January 2027)~~ | ~~7 Locations, Toronto Bay St~~ | - | Sep 15, 2026<br><sub>21 days old</sub> | Closed | <!--id:318884-->
+| ~~BDO Canada~~ | ~~Business Analyst - BizApps - New Grad (January 2027)~~ | ~~2 Locations, Toronto Bay St~~ | - | Sep 14, 2026<br><sub>22 days old</sub> | Closed | <!--id:318887-->
 | ~~BP~~ | ~~Supply, Trading, and Shipping Graduate Program- Trading &amp; Analytics- Calgary~~ | ~~Canada - Calgary, CA: Calgary~~ | Canadian work authorization - Graduating 2026 - Portfolio / GitHub | Aug 31, 2026<br><sub>36 days old</sub> | Closed | <!--id:317040-->
 | ~~BDO Canada~~ | ~~New Grad: Junior Accountant, Canadian Tax Services (2027) Toronto Bay Street~~ | ~~Toronto - Bay St~~ | $59K-$67K/yr - Possible repost | Sep 9, 2026<br><sub>27 days old</sub> | Closed | <!--id:317932-->
 | ~~CIBC~~ | ~~Career Programs Networking Event, October 28th 2026 Graduate Leadership Development Program (GLDP)-Risk Management~~ | ~~Toronto, ON, Toronto-81 Bay, 33rd Floor~~ | Summer 2027 - Graduating 2026 - Assessment likely | Sep 25, 2026<br><sub>11 days old</sub> | Closed | <!--id:319921-->
@@ -451,13 +454,13 @@
 | ~~CIBC~~ | ~~Associate, Private Wealth Rotational Program (Saskatoon)~~ | ~~Saskatoon, SK, 410 22nd Street East~~ | Spring 2027 - Graduating 2026 - Hybrid / on-site - Student status | Sep 11, 2026<br><sub>25 days old</sub> | Closed | <!--id:318336-->
 | ~~CIBC~~ | ~~Associate, Private Wealth Rotational Program~~ | ~~Edmonton, AB, Edmonton-10180-101st Street~~ | Spring 2027 - Graduating 2026 - Hybrid / on-site - Student status | Sep 11, 2026<br><sub>25 days old</sub> | Closed | <!--id:318338-->
 | ~~Royal Bank of Canada~~ | ~~Developer, RBC Amplify 2027, Toronto~~ | ~~TORONTO, Ontario, Canada, 180 WELLINGTON ST W:TORONTO~~ | Co-op enrollment - Graduating 2027 - Student status | Sep 8, 2026<br><sub>28 days old</sub> | Closed | <!--id:318904-->
-| ~~Royal Bank of Canada~~ | ~~Data Engineer, RBC Amplify 2027, Halifax~~ | ~~HALIFAX, Nova Scotia, Canada, 120 WESTERN PKY:BEDFORD~~ | Co-op enrollment - Graduating 2027 - Student status | Sep 7, 2026<br><sub>29 days old</sub> | Closed | <!--id:319773-->
 | ~~Royal Bank of Canada~~ | ~~Business Analyst, RBC Amplify 2027, Halifax~~ | ~~HALIFAX, Nova Scotia, Canada, 120 WESTERN PKY:BEDFORD~~ | Co-op enrollment - Graduating 2027 - Student status | Sep 7, 2026<br><sub>29 days old</sub> | Closed | <!--id:319772-->
-| ~~Royal Bank of Canada~~ | ~~Data Engineer, RBC Amplify 2027, Toronto~~ | ~~TORONTO, Ontario, Canada, 180 WELLINGTON ST W:TORONTO~~ | Co-op enrollment - Graduating 2027 - Student status | Sep 7, 2026<br><sub>29 days old</sub> | Closed | <!--id:319771-->
-| ~~Royal Bank of Canada~~ | ~~Developer, RBC Amplify 2027, Halifax~~ | ~~HALIFAX, Nova Scotia, Canada, 120 WESTERN PKY:BEDFORD~~ | Co-op enrollment - Graduating 2027 - Student status | Sep 7, 2026<br><sub>29 days old</sub> | Closed | <!--id:319774-->
+| ~~Royal Bank of Canada~~ | ~~Data Engineer, RBC Amplify 2027, Halifax~~ | ~~HALIFAX, Nova Scotia, Canada, 120 WESTERN PKY:BEDFORD~~ | Co-op enrollment - Graduating 2027 - Student status | Sep 7, 2026<br><sub>29 days old</sub> | Closed | <!--id:319773-->
 | ~~Royal Bank of Canada~~ | ~~Business Analyst, RBC Amplify 2027, Toronto~~ | ~~TORONTO, Ontario, Canada, 180 WELLINGTON ST W:TORONTO~~ | Co-op enrollment - Graduating 2027 - Student status | Sep 7, 2026<br><sub>29 days old</sub> | Closed | <!--id:319770-->
-| ~~CIBC~~ | ~~Associate, Private Wealth Rotational Program~~ | ~~London, ON, London-255 Queens, 2200~~ | Spring 2027 - $48.88K-$56.98K/yr - Graduating 2026 - Hybrid / on-site | Sep 11, 2026<br><sub>25 days old</sub> | Closed | <!--id:318334-->
+| ~~Royal Bank of Canada~~ | ~~Developer, RBC Amplify 2027, Halifax~~ | ~~HALIFAX, Nova Scotia, Canada, 120 WESTERN PKY:BEDFORD~~ | Co-op enrollment - Graduating 2027 - Student status | Sep 7, 2026<br><sub>29 days old</sub> | Closed | <!--id:319774-->
+| ~~Royal Bank of Canada~~ | ~~Data Engineer, RBC Amplify 2027, Toronto~~ | ~~TORONTO, Ontario, Canada, 180 WELLINGTON ST W:TORONTO~~ | Co-op enrollment - Graduating 2027 - Student status | Sep 7, 2026<br><sub>29 days old</sub> | Closed | <!--id:319771-->
 | ~~CIBC~~ | ~~Associate, Private Wealth Rotational Program~~ | ~~Vancouver, BC, Vancouver-1055 Dunsmuir-2500~~ | Spring 2027 - $50.84K-$59.35K/yr - Graduating 2026 - Hybrid / on-site | Sep 11, 2026<br><sub>25 days old</sub> | Closed | <!--id:318337-->
+| ~~CIBC~~ | ~~Associate, Private Wealth Rotational Program~~ | ~~London, ON, London-255 Queens, 2200~~ | Spring 2027 - $48.88K-$56.98K/yr - Graduating 2026 - Hybrid / on-site | Sep 11, 2026<br><sub>25 days old</sub> | Closed | <!--id:318334-->
 
 </details>
 
