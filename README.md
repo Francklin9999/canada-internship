@@ -24,11 +24,11 @@
   <img src="https://img.shields.io/badge/open_internships-1705-238636" alt="1705 open internships">
   <img src="https://img.shields.io/badge/open_new_grad-403-8250df" alt="403 open new-grad roles">
   <img src="https://img.shields.io/badge/new_last_7_days-432-d97706" alt="432 new roles in the last 7 days">
-  <img src="https://img.shields.io/badge/hiring_companies-415-0969da" alt="415 hiring companies">
+  <img src="https://img.shields.io/badge/hiring_companies-416-0969da" alt="416 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--10--10-6e7781" alt="Updated October 10, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Oct 10, 2026 at 20:09 UTC</sub></p>
+<p align="center"><sub>Last refreshed Oct 10, 2026 at 20:33 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Pick a list, then start with what changed.</strong> NEW marks roles posted in the last 7 days, and roles posted more than 180 days ago are hidden automatically. Every row is re-checked for a Canadian location before it is published.</div>
@@ -43,7 +43,7 @@
 | Tech roles | [454](INTERNSHIPS.md#tech-internships) | [97](NEW_GRAD.md#tech-new-grad-roles) |
 | Other roles | [1251](INTERNSHIPS.md#other-internships) | [306](NEW_GRAD.md#other-early-career-roles) |
 | Posted in the last 7 days | 376 | 56 |
-| Hiring companies | 341 | 159 |
+| Hiring companies | 342 | 159 |
 | Pay disclosed | 21% | 27% |
 | Remote-friendly | 1 | 3 |
 | Closed in the last 7 days | 177 | 47 |
@@ -172,16 +172,16 @@
 
 | City or region | Internships | New grad |
 |---|---:|---:|
-| Greater Toronto Area | 566 | 138 |
-| Greater Montreal | 361 | 38 |
+| Greater Toronto Area | 564 | 138 |
+| Greater Montreal | 363 | 38 |
 | Calgary | 115 | 40 |
 | Ottawa-Gatineau | 107 | 37 |
-| Metro Vancouver | 89 | 42 |
+| Metro Vancouver | 90 | 42 |
 | Waterloo Region | 60 | 7 |
 | Halifax | 37 | 15 |
 | Edmonton | 20 | 18 |
 | Winnipeg | 14 | 9 |
-| Quebec City | 5 | 0 |
+| Quebec City | 4 | 0 |
 | Remote-friendly | 1 | 3 |
 | Other Canadian locations | 413 | 98 |
 
@@ -208,7 +208,7 @@
 |---|---:|
 | Fall 2026 | 16 |
 | Fall/Winter 2026 | 1 |
-| Winter 2027 | 667 |
+| Winter 2027 | 668 |
 | Winter/Fall 2027 | 2 |
 | Winter/Summer 2027 | 4 |
 | Spring 2027 | 3 |
