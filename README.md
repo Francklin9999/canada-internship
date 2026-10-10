@@ -7,10 +7,10 @@
 <p align="center"><strong>Canada-only internships, co-ops, and early-career roles - one overview, two focused lists.</strong></p>
 
 <p align="center">
-  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>454 open</sub>
+  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>456 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
   <a href="NEW_GRAD.md#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>97 open</sub><br>
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1706 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1709 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
   <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>403 open</sub>
 </p>
@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_internships-1706-238636" alt="1706 open internships">
+  <img src="https://img.shields.io/badge/open_internships-1709-238636" alt="1709 open internships">
   <img src="https://img.shields.io/badge/open_new_grad-403-8250df" alt="403 open new-grad roles">
   <img src="https://img.shields.io/badge/new_last_7_days-432-d97706" alt="432 new roles in the last 7 days">
   <img src="https://img.shields.io/badge/hiring_companies-417-0969da" alt="417 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--10--10-6e7781" alt="Updated October 10, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Oct 10, 2026 at 20:35 UTC</sub></p>
+<p align="center"><sub>Last refreshed Oct 10, 2026 at 22:14 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Pick a list, then start with what changed.</strong> NEW marks roles posted in the last 7 days, and roles posted more than 180 days ago are hidden automatically. Every row is re-checked for a Canadian location before it is published.</div>
@@ -39,9 +39,9 @@
 
 | | Internships & co-ops | New grad & early career |
 |---|---:|---:|
-| Open roles | [1706](INTERNSHIPS.md) | [403](NEW_GRAD.md) |
-| Tech roles | [454](INTERNSHIPS.md#tech-internships) | [97](NEW_GRAD.md#tech-new-grad-roles) |
-| Other roles | [1252](INTERNSHIPS.md#other-internships) | [306](NEW_GRAD.md#other-early-career-roles) |
+| Open roles | [1709](INTERNSHIPS.md) | [403](NEW_GRAD.md) |
+| Tech roles | [456](INTERNSHIPS.md#tech-internships) | [97](NEW_GRAD.md#tech-new-grad-roles) |
+| Other roles | [1253](INTERNSHIPS.md#other-internships) | [306](NEW_GRAD.md#other-early-career-roles) |
 | Posted in the last 7 days | 376 | 56 |
 | Hiring companies | 343 | 159 |
 | Pay disclosed | 21% | 27% |
@@ -52,7 +52,7 @@
 
 ### Newest tech internships
 
-**The 50 newest of 454 open tech internships**
+**The 50 newest of 456 open tech internships**
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
@@ -107,7 +107,7 @@
 | Bank of America | NEW Canada \| Toronto \| Global Technology Summer Analyst - Software Engineer \| 2027 | Toronto, Ontario, Canada | Graduating 2027 - Possible repost | Oct 8, 2026<br><sub>2 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4475707928"><strong>Apply</strong></a> | <!--id:0-->
 | CM Labs Simulations | NEW Stagiaire developpeur infonuagique/ Cloud Developer Intern | Montreal, Quebec, Canada | - | Oct 8, 2026<br><sub>2 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4474485684"><strong>Apply</strong></a> | <!--id:0-->
 
-<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 454 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1706 open</sub></p>
+<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 456 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1709 open</sub></p>
 
 ### Newest tech new-grad roles
 
@@ -173,7 +173,7 @@
 | City or region | Internships | New grad |
 |---|---:|---:|
 | Greater Toronto Area | 564 | 138 |
-| Greater Montreal | 364 | 38 |
+| Greater Montreal | 367 | 38 |
 | Calgary | 115 | 40 |
 | Ottawa-Gatineau | 107 | 37 |
 | Metro Vancouver | 90 | 42 |
@@ -208,7 +208,7 @@
 |---|---:|
 | Fall 2026 | 16 |
 | Fall/Winter 2026 | 1 |
-| Winter 2027 | 668 |
+| Winter 2027 | 671 |
 | Winter/Fall 2027 | 2 |
 | Winter/Summer 2027 | 4 |
 | Spring 2027 | 3 |
@@ -230,7 +230,7 @@
 </div>
 
 <p align="center">
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1706 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1709 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
   <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>403 open</sub>
 </p>

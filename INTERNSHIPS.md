@@ -7,9 +7,9 @@
 <p align="center"><strong>Canada-only internships and co-ops, newest employer posting date first.</strong></p>
 
 <p align="center">
-  <a href="#tech-internships"><strong>Tech internships</strong></a> <sub>454 open</sub>
+  <a href="#tech-internships"><strong>Tech internships</strong></a> <sub>456 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="#other-internships"><strong>Other internships</strong></a> <sub>1252 open</sub>
+  <a href="#other-internships"><strong>Other internships</strong></a> <sub>1253 open</sub>
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_internships-1706-238636" alt="1706 open internships">
+  <img src="https://img.shields.io/badge/open_internships-1709-238636" alt="1709 open internships">
   <img src="https://img.shields.io/badge/new_last_7_days-376-d97706" alt="376 new roles in the last 7 days">
   <img src="https://img.shields.io/badge/hiring_companies-343-0969da" alt="343 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--10--10-6e7781" alt="Updated October 10, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Oct 10, 2026 at 20:35 UTC</sub></p>
+<p align="center"><sub>Last refreshed Oct 10, 2026 at 22:14 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Start with what changed.</strong> NEW marks roles posted in the last 7 days. The Posted column shows both the exact date and age, and roles posted more than 180 days ago are hidden. Use <code>Ctrl+F</code> or <code>Cmd+F</code> to scan for a city, company, or skill.</div>
@@ -35,7 +35,7 @@
 
 ## Tech internships
 
-**454 open role(s)** - newest employer posting date first
+**456 open role(s)** - newest employer posting date first
 
 <details>
 <summary><strong>Companies with the most tech internship openings</strong></summary>
@@ -361,11 +361,13 @@
 | Geotab | Embedded Developer Intern, Engine Data Reliability ( Winter/ January 2027, 12-16 months) | Oakville, Ontario - Canada | $33-$39 CAD - 16 month term - Hybrid / on-site | Sep 10, 2026<br><sub>30 days old</sub> | <a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008"><strong>Apply</strong></a> | <!--id:319089-->
 | Kinaxis | Co-op/Intern IT Support Technician | CA-ON-Ottawa | Co-op enrollment | Sep 10, 2026<br><sub>30 days old</sub> | <a href="https://careers-kinaxis.icims.com/jobs/35352/co-op-intern-it-support-technician/job?in_iframe=1"><strong>Apply</strong></a> | <!--id:318913-->
 | Matrox | Intern, Software (S-01-02) Winter 2027 | Dorval, QC, Canada | Winter 2027 - Hybrid / on-site | Sep 10, 2026<br><sub>30 days old</sub> | <a href="https://recruiting.ultipro.ca/MAT5002MARX/JobBoard/69a03e48-0d5a-46df-9cba-fbcc2c7a9dbc/OpportunityDetail?opportunityId=621fe50f-3927-436c-af65-54f170651468"><strong>Apply</strong></a> | <!--id:321298-->
+| Matrox | Intern, Software Quality Assurance (S-02-11) Winter 2027 | Dorval, QC, Canada | Winter 2027 | Sep 10, 2026<br><sub>30 days old</sub> | <a href="https://recruiting.ultipro.ca/MAT5002MARX/JobBoard/69a03e48-0d5a-46df-9cba-fbcc2c7a9dbc/OpportunityDetail?opportunityId=5d3c3530-7ef4-4f2d-918b-79e18981643c"><strong>Apply</strong></a> | <!--id:321299-->
 | Definity | Test Automation Developer - Winter 2027 Co-op/Intern | Waterloo, ONT, Canada | Winter 2027 - Co-op enrollment | Sep 10, 2026<br><sub>30 days old</sub> | <a href="https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9341"><strong>Apply</strong></a> | <!--id:318196-->
 | Definity | Business Intelligence Professional - Winter 2027 Co-op | Waterloo, ONT, Canada | Winter 2027 - Co-op enrollment | Sep 10, 2026<br><sub>30 days old</sub> | <a href="https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9351"><strong>Apply</strong></a> | <!--id:318204-->
 | Bombardier | Intern, Extended Reality Programmer (Winter 2027) | St-Laurent, QC, Canada | Winter 2027 | Sep 10, 2026<br><sub>30 days old</sub> | <a href="https://jobs.bombardier.com/job/Intern%2C-Extended-Reality-Programmer-%28Winter-2027%29/15285-en_US"><strong>Apply</strong></a> | <!--id:321294-->
 | Bombardier | Intern, Data Visualization (Winter 2027) | Dorval, QC, Canada | Winter 2027 | Sep 10, 2026<br><sub>30 days old</sub> | <a href="https://jobs.bombardier.com/job/Intern%2C-Data-Visualization-%28Winter-2027%29/15378-en_US"><strong>Apply</strong></a> | <!--id:321292-->
 | RTX | Stage - Hiver 2027 - Gestion et strategie du reseau de service/ Internship - Winter 2027 - Service Network Management and Strategy | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Winter 2027 | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Gestion-et-strategie-du-reseau-de-service--Internship---Winter-2027---Service-Network-Management-and-Strategy_01873147"><strong>Apply</strong></a> | <!--id:317928-->
+| Matrox | Intern, Software Quality Assurance (S-01-03) Winter 2027 | Dorval, QC, Canada | Winter 2027 | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://recruiting.ultipro.ca/MAT5002MARX/JobBoard/69a03e48-0d5a-46df-9cba-fbcc2c7a9dbc/OpportunityDetail?opportunityId=2dc61798-9c1d-4642-a02f-258a2099fdc9"><strong>Apply</strong></a> | <!--id:321300-->
 | TJX | Winter Term (8 month) Business Intelligence &amp; Automation Analyst Co-op | Mississauga, ON L5R 0G1, CAN Home Office Mississauga ON | $61.5825K-$86.2155K/yr - 8 month term - Co-op enrollment - Hybrid / on-site | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mississauga-ON-L5R-0G1/Business-Intelligence---Automation-Analyst-Co-op_REQ145459"><strong>Apply</strong></a> | <!--id:317910-->
 | TJX | Winter Term (4 month) Network Flow Support Analyst Co-op/Intern | Mississauga, ON L5R 0G1, CAN Home Office Mississauga ON | $52.23K-$73.122K/yr - 4 month term - Co-op enrollment - Hybrid / on-site | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Mississauga-ON-L5R-0G1/Winter-Term-Network-Flow-Support-Analyst-Co-op-Intern_REQ138675"><strong>Apply</strong></a> | <!--id:317848-->
 | GoMaterials | Data Quality Intern - Winter 2027 | Montreal, QC | Winter 2027 | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://jobs.lever.co/gomaterials/be3fb0e8-54a1-43de-b998-99dd071eed19"><strong>Apply</strong></a> | <!--id:317873-->
@@ -510,10 +512,10 @@
 
 ## Other internships
 
-**1252 open role(s)** - newest employer posting date first
+**1253 open role(s)** - newest employer posting date first
 
 <details>
-<summary><strong>Show 1252 other internship role(s)</strong></summary>
+<summary><strong>Show 1253 other internship role(s)</strong></summary>
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
@@ -1359,6 +1361,7 @@
 | RTX | Stage - Hiver 2027 - Agent de methode developpement / Internship - Winter 2027 - Development Planner | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victorin ~ J01 BLDG | Winter 2027 | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Agent-de-mthode-dveloppement---Internship---Winter-2027---Development-Planner_01867387"><strong>Apply</strong></a> | <!--id:317929-->
 | Lumentum | Advanced Packaging &amp; Integration Co-op Student | Canada - Ottawa (Bill Leathem) | $24-$35/hr - 16 month term - 8 month term - Co-op enrollment | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Advanced-Packaging---Integration-Co-op-Student_20261236-1"><strong>Apply</strong></a> | <!--id:317927-->
 | Langan Engineering and Environmental Services | Intern/Co-op - Environmental (Summer 2027) | Calgary, AB, Canada | Summer 2027 - Co-op enrollment | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://job-boards.greenhouse.io/langanengineeringandenvironmentalservicesllc/jobs/4386100009"><strong>Apply</strong></a> | <!--id:317943-->
+| Matrox | Intern, Quality and Conformity (S-09-03) Winter 2027 | Dorval, QC, Canada | Winter 2027 | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://recruiting.ultipro.ca/MAT5002MARX/JobBoard/69a03e48-0d5a-46df-9cba-fbcc2c7a9dbc/OpportunityDetail?opportunityId=8e4216dd-27c5-47f4-9f9a-5aa97d575c61"><strong>Apply</strong></a> | <!--id:321301-->
 | Astera Labs | Product Applications Engineer Intern (Scorpio) | Vancouver, B.C. | $35-$55/hr | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732364005"><strong>Apply</strong></a> | <!--id:320693-->
 | Astera Labs | Physical Design Engineer Intern (Toronto) | Toronto, Ontario, Canada | - | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005"><strong>Apply</strong></a> | <!--id:320690-->
 | Astera Labs | Digital Design Engineer Intern (Toronto) | Toronto, Ontario, Canada | - | Sep 9, 2026<br><sub>31 days old</sub> | <a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005"><strong>Apply</strong></a> | <!--id:320688-->
