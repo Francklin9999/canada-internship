@@ -7,12 +7,12 @@
 <p align="center"><strong>Canada-only internships, co-ops, and early-career roles - one overview, two focused lists.</strong></p>
 
 <p align="center">
-  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>441 open</sub>
+  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>440 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
   <a href="NEW_GRAD.md#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>77 open</sub><br>
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1810 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1797 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>407 open</sub>
+  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>403 open</sub>
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_internships-1810-238636" alt="1810 open internships">
-  <img src="https://img.shields.io/badge/open_new_grad-407-8250df" alt="407 open new-grad roles">
-  <img src="https://img.shields.io/badge/new_last_7_days-454-d97706" alt="454 new roles in the last 7 days">
+  <img src="https://img.shields.io/badge/open_internships-1797-238636" alt="1797 open internships">
+  <img src="https://img.shields.io/badge/open_new_grad-403-8250df" alt="403 open new-grad roles">
+  <img src="https://img.shields.io/badge/new_last_7_days-452-d97706" alt="452 new roles in the last 7 days">
   <img src="https://img.shields.io/badge/hiring_companies-413-0969da" alt="413 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--10--25-6e7781" alt="Updated October 25, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Oct 25, 2026 at 17:22 UTC</sub></p>
+<p align="center"><sub>Last refreshed Oct 25, 2026 at 20:12 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Pick a list, then start with what changed.</strong> NEW marks roles posted in the last 7 days, and roles posted more than 180 days ago are hidden automatically. Every row is re-checked for a Canadian location before it is published.</div>
@@ -39,20 +39,20 @@
 
 | | Internships & co-ops | New grad & early career |
 |---|---:|---:|
-| Open roles | [1810](INTERNSHIPS.md) | [407](NEW_GRAD.md) |
-| Tech roles | [441](INTERNSHIPS.md#tech-internships) | [77](NEW_GRAD.md#tech-new-grad-roles) |
-| Other roles | [1369](INTERNSHIPS.md#other-internships) | [330](NEW_GRAD.md#other-early-career-roles) |
-| Posted in the last 7 days | 369 | 85 |
-| Hiring companies | 346 | 145 |
-| Pay disclosed | 23% | 24% |
+| Open roles | [1797](INTERNSHIPS.md) | [403](NEW_GRAD.md) |
+| Tech roles | [440](INTERNSHIPS.md#tech-internships) | [77](NEW_GRAD.md#tech-new-grad-roles) |
+| Other roles | [1357](INTERNSHIPS.md#other-internships) | [326](NEW_GRAD.md#other-early-career-roles) |
+| Posted in the last 7 days | 367 | 85 |
+| Hiring companies | 345 | 145 |
+| Pay disclosed | 22% | 24% |
 | Remote-friendly | 1 | 4 |
-| Closed in the last 7 days | 227 | 50 |
+| Closed in the last 7 days | 202 | 49 |
 
 ## Newest roles
 
 ### Newest tech internships
 
-**The 50 newest of 441 open tech internships**
+**The 50 newest of 440 open tech internships**
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
@@ -107,7 +107,7 @@
 | SYSTRA Canada | NEW AI &amp; Innovation Specialist (Internship) - ALTO project / Cadence | Montreal, Quebec, Canada | French / bilingual - Hybrid / on-site - Portfolio / GitHub | Oct 21, 2026<br><sub>4 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482146578"><strong>Apply</strong></a> | <!--id:0-->
 | Altera Corporation | NEW FPGA IP Design Engineer - Intern | Toronto, Ontario, Canada | $95K-$100K/yr | Oct 20, 2026<br><sub>5 days old</sub> | <a href="https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer---Intern_R03299"><strong>Apply</strong></a> | <!--id:321955-->
 
-<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 441 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1810 open</sub></p>
+<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 440 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1797 open</sub></p>
 
 ### Newest tech new-grad roles
 
@@ -166,24 +166,24 @@
 | Quora | Software Engineer New Grad, Machine Learning Platform - Quora (Remote) | Remote - Multiple Locations, United States, Canada | Graduating 2026 - Hybrid / on-site - Possible repost | Sep 25, 2026<br><sub>30 days old</sub> | <a href="https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0"><strong>Apply</strong></a> | <!--id:319947-->
 | Loblaw Companies | Supply Chain, Business Intelligence Developer | 1 Presidents Choice Circle, Brampton, ON | $52K-$71.5K/yr - Hybrid / on-site | Sep 25, 2026<br><sub>30 days old</sub> | <a href="https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Supply-Chain--Business-Intelligence-Developer_R2000708428"><strong>Apply</strong></a> | <!--id:319904-->
 
-<p><a href="NEW_GRAD.md#tech-new-grad-roles"><strong>See all 77 tech new-grad roles</strong></a> - <a href="NEW_GRAD.md"><strong>Browse every new-grad &amp; early-career role</strong></a> <sub>407 open</sub></p>
+<p><a href="NEW_GRAD.md#tech-new-grad-roles"><strong>See all 77 tech new-grad roles</strong></a> - <a href="NEW_GRAD.md"><strong>Browse every new-grad &amp; early-career role</strong></a> <sub>403 open</sub></p>
 
 ## Where the roles are
 
 | City or region | Internships | New grad |
 |---|---:|---:|
-| Greater Toronto Area | 650 | 120 |
-| Greater Montreal | 341 | 46 |
-| Metro Vancouver | 109 | 42 |
-| Calgary | 104 | 47 |
-| Ottawa-Gatineau | 110 | 34 |
-| Waterloo Region | 56 | 5 |
-| Edmonton | 24 | 20 |
-| Halifax | 25 | 15 |
+| Greater Toronto Area | 645 | 119 |
+| Greater Montreal | 340 | 45 |
+| Metro Vancouver | 109 | 41 |
+| Calgary | 103 | 47 |
+| Ottawa-Gatineau | 109 | 34 |
+| Waterloo Region | 55 | 5 |
+| Edmonton | 23 | 19 |
+| Halifax | 24 | 15 |
 | Winnipeg | 15 | 9 |
-| Quebec City | 5 | 0 |
+| Quebec City | 6 | 0 |
 | Remote-friendly | 1 | 4 |
-| Other Canadian locations | 449 | 108 |
+| Other Canadian locations | 446 | 108 |
 
 <sub>A role that lists several places counts once in each.</sub>
 
@@ -194,13 +194,13 @@
 | Bombardier | 216 | 2 | 218 |
 | PepsiCo Canada | 34 | 22 | 56 |
 | MNP | 52 | 1 | 53 |
-| RTX | 49 | 3 | 52 |
+| RTX | 48 | 3 | 51 |
 | Stantec | 22 | 29 | 51 |
 | Canadian Natural | 50 | 0 | 50 |
-| CIBC | 32 | 1 | 33 |
 | Fleetway | 33 | 0 | 33 |
 | Kent Building Supplies | 33 | 0 | 33 |
-| Royal Bank of Canada | 32 | 0 | 32 |
+| CIBC | 31 | 1 | 32 |
+| Royal Bank of Canada | 31 | 0 | 31 |
 
 ## Upcoming internship terms
 
@@ -208,7 +208,7 @@
 |---|---:|
 | Fall 2026 | 10 |
 | Fall/Winter 2026 | 2 |
-| Winter 2027 | 625 |
+| Winter 2027 | 618 |
 | Winter/Fall 2027 | 2 |
 | Winter/Summer 2027 | 6 |
 | Spring 2027 | 7 |
@@ -230,9 +230,9 @@
 </div>
 
 <p align="center">
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1810 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1797 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>407 open</sub>
+  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>403 open</sub>
 </p>
 
 ---
