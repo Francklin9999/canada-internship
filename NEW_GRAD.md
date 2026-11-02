@@ -7,7 +7,7 @@
 <p align="center"><strong>Canada-only new-grad and early-career roles, newest employer posting date first.</strong></p>
 
 <p align="center">
-  <a href="#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>90 open</sub>
+  <a href="#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>89 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
   <a href="#other-early-career-roles"><strong>Other early career</strong></a> <sub>333 open</sub>
 </p>
@@ -20,13 +20,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_new_grad-423-8250df" alt="423 open new-grad roles">
-  <img src="https://img.shields.io/badge/new_last_7_days-50-d97706" alt="50 new roles in the last 7 days">
+  <img src="https://img.shields.io/badge/open_new_grad-422-8250df" alt="422 open new-grad roles">
+  <img src="https://img.shields.io/badge/new_last_7_days-49-d97706" alt="49 new roles in the last 7 days">
   <img src="https://img.shields.io/badge/hiring_companies-155-0969da" alt="155 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--11--02-6e7781" alt="Updated November 2, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Nov 2, 2026 at 02:45 UTC</sub></p>
+<p align="center"><sub>Last refreshed Nov 2, 2026 at 02:47 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Start with what changed.</strong> NEW marks roles posted in the last 7 days. The Posted column shows both the exact date and age, and roles posted more than 180 days ago are hidden. Use <code>Ctrl+F</code> or <code>Cmd+F</code> to scan for a city, company, or skill.</div>
@@ -35,15 +35,15 @@
 
 ## Tech new-grad roles
 
-**90 open role(s)** - newest employer posting date first
+**89 open role(s)** - newest employer posting date first
 
 <details>
 <summary><strong>Companies with the most tech new-grad openings</strong></summary>
 
 | Company | Open roles |
 |---|---:|
-| Royal Bank of Canada | 6 |
 | General Dynamics Mission Systems | 5 |
+| Royal Bank of Canada | 5 |
 | Amazon | 4 |
 | Ciena | 4 |
 | BDO Canada | 3 |
@@ -62,13 +62,12 @@
 | Hootsuite | NEW Junior Cyber Incident Response Analyst | Vancouver, British Columbia, Canada; Toronto, Ontario, Canada; Ottawa, Ontario, Canada | $68K-$95K CAD - Hybrid / on-site | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://job-boards.greenhouse.io/hootsuite/jobs/8331544"><strong>Apply</strong></a> | <!--id:322566-->
 | Ciena | NEW Routing/IP Software Engineer  - New Grad | Ottawa, Canada- Ottawa- 385 Terry Fox- Bldg B | $71.9K-$114.9K/yr - Co-op enrollment - Hybrid / on-site - Portfolio / GitHub | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006"><strong>Apply</strong></a> | <!--id:322517-->
 | American Express | NEW Campus Graduate Full-Time Engineer - 2027 AI Engineering, Enterprise Technology Services- Toronto, Ontario, CN | Toronto, ON, Canada | - | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465"><strong>Apply</strong></a> | <!--id:322551-->
-| Deloitte | NEW Junior Software Engineer | Toronto, Ontario, Canada | $58K-$96K/yr - Hybrid / on-site - Portfolio / GitHub | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4484496029"><strong>Apply</strong></a> | <!--id:0-->
-| Hunter Bond | NEW Graduate Quant Developer / Quant Researcher - Up to $150,000 + Bonus + Benefits | Montreal, Quebec, Canada | $150K/yr - Hybrid / on-site | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482541843"><strong>Apply</strong></a> | <!--id:0-->
 | Tower Research Capital | NEW Developpeur de logiciels C++ nouvellement diplome / New Grad C++ Software Developer | Montreal, Quebec, Canada | - | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4466523490"><strong>Apply</strong></a> | <!--id:0-->
+| Hunter Bond | NEW Graduate Quant Developer / Quant Researcher - Up to $150,000 + Bonus + Benefits | Montreal, Quebec, Canada | $150K/yr - Hybrid / on-site | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482541843"><strong>Apply</strong></a> | <!--id:0-->
+| Deloitte | NEW Junior Software Engineer | Toronto, Ontario, Canada | $58K-$96K/yr - Hybrid / on-site - Portfolio / GitHub | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4484496029"><strong>Apply</strong></a> | <!--id:0-->
 | Royal Bank of Canada | NEW developpeur, RBC amplifie 2027, Montreal / Developer, RBC Amplify 2027, Montreal | MONTREAL, Quebec, Canada, 1 PLACE VILLE MARIE:MONTREAL | - | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1"><strong>Apply</strong></a> | <!--id:322399-->
 | Royal Bank of Canada | NEW Data Engineer, RBC Amplify 2027, Toronto | TORONTO, Ontario, Canada, 180 WELLINGTON ST W:TORONTO | Co-op enrollment - Graduating 2027 - Student status | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Data-Engineer--RBC-Amplify-2027--Toronto_R-0000191192-1"><strong>Apply</strong></a> | <!--id:322402-->
 | Walmart | NEW (CAN) Asset Protection Associate SECURITY LICENSE REQUIRED | (CAN) ON SCARBOROUGH 03159 WM SUPERCENTER | - | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/CAN-ON-SCARBOROUGH-03159-WM-SUPERCENTER/XMLNAME--CAN--Asset-Protection-Associate-SECURITY-LICENSE-REQUIRED_R-2689051"><strong>Apply</strong></a> | <!--id:322376-->
-| Royal Bank of Canada | NEW Developer, RBC Amplify 2027, Vancouver | VANCOUVER, British Columbia, Canada, 410 GEORGIA ST W, FLOOR 3:VANCOUVER | Co-op enrollment - Graduating 2027 - Student status | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199"><strong>Apply</strong></a> | <!--id:322361-->
 | Royal Bank of Canada | NEW Developer, RBC Amplify 2027, Calgary | CALGARY, Alberta, Canada, 335 8 AVE SW:CALGARY | Co-op enrollment - Graduating 2027 - Student status | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1"><strong>Apply</strong></a> | <!--id:322358-->
 | Royal Bank of Canada | NEW Developer, RBC Amplify 2027, Toronto | TORONTO, Ontario, Canada, 180 WELLINGTON ST W:TORONTO | Co-op enrollment - Graduating 2027 - Student status | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1"><strong>Apply</strong></a> | <!--id:322357-->
 | Royal Bank of Canada | NEW Data Engineer, RBC Amplify 2027, Calgary | CALGARY, Alberta, Canada, 335 8 AVE SW:CALGARY | Co-op enrollment - Graduating 2027 - Student status | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201"><strong>Apply</strong></a> | <!--id:322359-->
@@ -84,19 +83,19 @@
 | BMO | Climate Risk Analytics &amp; Reporting, Analyst ( New or Recent Graduate Opportunity) Immediate Start Date | Toronto, ON, CAN, FCP | $55.5K-$120K/yr - Student status - Portfolio / GitHub - Possible repost | Oct 22, 2026<br><sub>11 days old</sub> | <a href="https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Climate-Risk-Analytics---Reporting--Analyst---New-or-Recent-Graduate-Opportunity--Immediate-Start-Date_R260028351"><strong>Apply</strong></a> | <!--id:322177-->
 | Aptiv | Associate Cloud Engineer | CAN Kanata (2), ON - WR | $65K-$80K/yr | Oct 22, 2026<br><sub>11 days old</sub> | <a href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Engineer---Cloud---CD1_J000701887"><strong>Apply</strong></a> | <!--id:322336-->
 | TD Bank | Software Engineer I - Full Stack | 2 Locations, Mississauga Ontario | - | Oct 21, 2026<br><sub>12 days old</sub> | <a href="https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Software-Engineer-I---Full-Stack_R_1516937"><strong>Apply</strong></a> | <!--id:322065-->
-| FDM Group | Junior Software Engineer | Halifax, Nova Scotia, Canada | $18.35/hr - 12 week term - Canadian work authorization - Hybrid / on-site | Oct 21, 2026<br><sub>12 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482174745"><strong>Apply</strong></a> | <!--id:0-->
-| GuestTek Interactive Entertainment Ltd. | Junior Software Developer | Calgary, Alberta, Canada | Hybrid / on-site | Oct 21, 2026<br><sub>12 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4479429596"><strong>Apply</strong></a> | <!--id:0-->
-| Agility PR Solutions | Junior AI Software Developer | Ottawa, Ontario, Canada | $65K-$75K/yr | Oct 21, 2026<br><sub>12 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482191208"><strong>Apply</strong></a> | <!--id:0-->
 | TD | Software Engineer I - Full Stack | Mississauga, Ontario, Canada | $69.7K-$98.4K/yr - Assessment likely | Oct 21, 2026<br><sub>12 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482171540"><strong>Apply</strong></a> | <!--id:0-->
 | CGI | Developpeur .NET JR | Quebec, Quebec, Canada | - | Oct 21, 2026<br><sub>12 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482160757"><strong>Apply</strong></a> | <!--id:0-->
+| GuestTek Interactive Entertainment Ltd. | Junior Software Developer | Calgary, Alberta, Canada | Hybrid / on-site | Oct 21, 2026<br><sub>12 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4479429596"><strong>Apply</strong></a> | <!--id:0-->
+| Agility PR Solutions | Junior AI Software Developer | Ottawa, Ontario, Canada | $65K-$75K/yr | Oct 21, 2026<br><sub>12 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482191208"><strong>Apply</strong></a> | <!--id:0-->
+| FDM Group | Junior Software Engineer | Halifax, Nova Scotia, Canada | $18.35/hr - 12 week term - Canadian work authorization - Hybrid / on-site | Oct 21, 2026<br><sub>12 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482174745"><strong>Apply</strong></a> | <!--id:0-->
 | Quora | Full Stack Software Engineer, New Grad - Quora (Remote) | Remote - Multiple Locations, United States, Canada | $97.6K-$139K/yr - Graduating 2026 - Possible repost | Oct 20, 2026<br><sub>13 days old</sub> | <a href="https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52"><strong>Apply</strong></a> | <!--id:321957-->
 | General Dynamics Mission Systems | Junior Systems Engineer - Networking | Ottawa, ON, Canada | - | Oct 20, 2026<br><sub>13 days old</sub> | <a href="https://jobs.smartrecruiters.com/GDMSI/744000156643355"><strong>Apply</strong></a> | <!--id:321943-->
 | Bank of Montreal | Specialist II-IC Infrastructure Engineering (New or Recent Graduate) | Barrie, ON, CAN, BCC | $55.5K-$120K/yr - Co-op enrollment - Hybrid / on-site - Student status | Oct 20, 2026<br><sub>13 days old</sub> | <a href="https://bmo.wd3.myworkdayjobs.com/External/job/Barrie-ON-CAN/Specialist-II-IC-Infrastructure-Engineering--New-or-Recent-Graduate-_R260028509-1"><strong>Apply</strong></a> | <!--id:321889-->
 | GIRO | Junior C++ Developer | Montreal, Rosemont | - | Oct 19, 2026<br><sub>14 days old</sub> | <a href="https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346"><strong>Apply</strong></a> | <!--id:321872-->
 | Cenovus Energy | New Grad, Process Data Solutions, Calgary (June 2027) | CA-AB-Calgary, Calgary | 12 month term - Canadian work authorization - Talent pool | Oct 19, 2026<br><sub>14 days old</sub> | <a href="https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/New-Grad--Process-Data-Solutions--Calgary--June-2027-_R-411229-1"><strong>Apply</strong></a> | <!--id:321904-->
 | Amazon | Software Development Engineer, Early Career - 2027 (CAN) | Vancouver, British Columbia, Canada | - | Oct 19, 2026<br><sub>14 days old</sub> | <a href="https://www.amazon.jobs/en/jobs/10583004"><strong>Apply</strong></a> | <!--id:321873-->
-| Veriforce Canada | Jr. QA Engineer | Montreal, Quebec, Canada | Hybrid / on-site | Oct 19, 2026<br><sub>14 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4480980548"><strong>Apply</strong></a> | <!--id:0-->
 | Ontario Power Generation | Junior Software Engineer, Full Stack | Oshawa, Ontario, Canada | - | Oct 19, 2026<br><sub>14 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4478294281"><strong>Apply</strong></a> | <!--id:0-->
+| Veriforce Canada | Jr. QA Engineer | Montreal, Quebec, Canada | Hybrid / on-site | Oct 19, 2026<br><sub>14 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4480980548"><strong>Apply</strong></a> | <!--id:0-->
 | BDO Canada | Analyste d&#39;affaires, Donnees et analytique - Nouveau diplome (janvier 2027) | Toronto, Ontario, Canada | - | Oct 18, 2026<br><sub>15 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4477635114"><strong>Apply</strong></a> | <!--id:0-->
 | Affirm | Software Engineer I, Fullstack (Search) | Remote Canada | $101K-$151K/yr - Remote | Oct 15, 2026<br><sub>18 days old</sub> | <a href="https://job-boards.greenhouse.io/affirm/jobs/8017342003"><strong>Apply</strong></a> | <!--id:321647-->
 | IQVIA | Scientifique des donnees associe, confidentialite et desidentification/ Associate Data Scientist, Privacy and De-identification | Ottawa, Ontario, Canada | - | Oct 15, 2026<br><sub>18 days old</sub> | <a href="https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Ottawa-Ontario-Canada/Scientifique-des-donnes-associ--confidentialit-et-dsidentification--Associate-Data-Scientist--Privacy-and-De-identification_R1569257"><strong>Apply</strong></a> | <!--id:321631-->
@@ -173,8 +172,8 @@
 | Stantec | NEW Junior Civil Engineering Designer | London, ON, Canada | - | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008573"><strong>Apply</strong></a> | <!--id:322616-->
 | AlgaeCal | NEW Junior Legal Counsel | Vancouver, British Columbia, Canada | - | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://apply.workable.com/algaecal/j/2B995FBC60/"><strong>Apply</strong></a> | <!--id:310924-->
 | Akkodis | NEW Validation Engineer (ITV Specialist - Jr) | Toronto, Ontario, Canada | 12 month term - Hybrid / on-site | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4483893082"><strong>Apply</strong></a> | <!--id:0-->
-| SII Canada | NEW Specialiste Verification Processus Outille (IMA) (Junior) | Montreal, Quebec, Canada | - | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4458259881"><strong>Apply</strong></a> | <!--id:0-->
 | Hunter Bond | NEW Junior React Engineer - Montreal - Up to $145,000 CAD Starting Base + Exceptional Bonuses/Benefits | Montreal, Quebec, Canada | $145K/yr - Hybrid / on-site | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4482538934"><strong>Apply</strong></a> | <!--id:0-->
+| SII Canada | NEW Specialiste Verification Processus Outille (IMA) (Junior) | Montreal, Quebec, Canada | - | Oct 28, 2026<br><sub>5 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4458259881"><strong>Apply</strong></a> | <!--id:0-->
 | AtkinsRealis | NEW Ingenieur junior en geotechnique | CA.QC.Montreal.455 boul. Rene-Levesque Ouest | - | Oct 27, 2026<br><sub>6 days old</sub> | <a href="https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Ingnieur-e--junior-en-gotechnique_R-166352"><strong>Apply</strong></a> | <!--id:322461-->
 | Semtech | NEW Associate Applications Engineer | CAN - Burlington, ON | $70K-$75K/yr - Co-op enrollment - Hybrid / on-site - Assessment likely | Oct 27, 2026<br><sub>6 days old</sub> | <a href="https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Associate-Applications-Engineer_REQ3682"><strong>Apply</strong></a> | <!--id:322454-->
 | Veolia | NEW Associate EI&amp;C Engineer | Oakville, ON, Canada | - | Oct 27, 2026<br><sub>6 days old</sub> | <a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158074090"><strong>Apply</strong></a> | <!--id:322513-->
@@ -187,7 +186,7 @@
 | Linamar | Engineer - Manufacturing (EIT) | Winnipeg, MB, Canada | - | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14717"><strong>Apply</strong></a> | <!--id:322432-->
 | Stantec | Junior Architectural Technologist | Dartmouth, NS, Canada | - | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008518"><strong>Apply</strong></a> | <!--id:322409-->
 | EXP | Mechanical EIT or Designer | Markham, ON, Canada | - | Oct 26, 2026<br><sub>7 days old</sub> | <a href="https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/113372"><strong>Apply</strong></a> | <!--id:322406-->
-| Stingray | Project Coordinator (Entry-Level) | Montreal | - | Oct 23, 2026<br><sub>10 days old</sub> | <a href="https://jobs.stingray.com/job/project-coordinator-entry-level/"><strong>Apply</strong></a> | <!--id:322312-->
+| Stingray | Project Coordinator (Entry-Level) | Montreal | - | - | <a href="https://jobs.stingray.com/job/project-coordinator-entry-level/"><strong>Apply</strong></a> | <!--id:322312-->
 | Sun Life | Advisor Trainee- Advisor Development Program -Future Opportunities | Calgary, Alberta, Calgary Chinook financial centre (044) | Hybrid / on-site - Talent pool | Oct 23, 2026<br><sub>10 days old</sub> | <a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Calgary-Alberta/Advisor-Trainee--Advisor-Development-Program_JR00122674"><strong>Apply</strong></a> | <!--id:322294-->
 | Sun Life | Advisor Trainee- Advisor Development Program -Future Opportunities | Scarborough, Ontario, Scarborough financial centre (014) | Hybrid / on-site - Talent pool | Oct 23, 2026<br><sub>10 days old</sub> | <a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Scarborough-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00121848"><strong>Apply</strong></a> | <!--id:318143-->
 | Sun Life | Advisor Trainee- Advisor Development Program -Future Opportunities | Toronto, Ontario, Toronto Harbourfront financial centre (027) | Hybrid / on-site - Talent pool | Oct 23, 2026<br><sub>10 days old</sub> | <a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Advisor-Trainee--Advisor-Development-Program_JR00123093"><strong>Apply</strong></a> | <!--id:317446-->
@@ -508,7 +507,7 @@
 | ~~Capital Automotive Group~~ | ~~Junior Parts Person/Parts Runner~~ | ~~Calgary, AB, Crowfoot Chrysler Dodge Jeep Ram~~ | Possible repost | Oct 23, 2026<br><sub>10 days old</sub> | Closed | <!--id:322306-->
 | ~~CCI Group of Companies~~ | ~~Junior Project Controller~~ | ~~CCI Inc., 520 5 Avenue SW, Calgary, Alberta, Canada~~ | - | Oct 1, 2026<br><sub>32 days old</sub> | Closed | <!--id:322100-->
 | ~~TD Bank~~ | ~~Software Engineer I (Java)~~ | ~~2 Locations, London Ontario~~ | - | Sep 16, 2026<br><sub>47 days old</sub> | Closed | <!--id:319733-->
-| ~~BNP Paribas~~ | ~~Corporate Banking Graduate Analyst~~ | ~~Quebec-Montreal, Canada~~ | - | Oct 10, 2026<br><sub>23 days old</sub> | Closed | <!--id:321052-->
+| ~~BNP Paribas~~ | ~~Corporate Banking Graduate Analyst~~ | ~~Quebec-Montreal, Canada~~ | - | - | Closed | <!--id:321052-->
 | ~~SLR Consulting~~ | ~~Environmental Planner - Early Career~~ | ~~Winnipeg, Canada, Winnipeg~~ | Student status - Assessment likely | Sep 14, 2026<br><sub>49 days old</sub> | Closed | <!--id:320209-->
 | ~~General Dynamics Mission Systems~~ | ~~Systems Engineering Analysts (SoS), Junior~~ | ~~Calgary, AB, Canada~~ | - | Sep 4, 2026<br><sub>59 days old</sub> | Closed | <!--id:317533-->
 | ~~Ciena~~ | ~~Hardware Power Engineer - New Grad~~ | ~~Ottawa~~ | - | May 15, 2026<br><sub>171 days old</sub> | Closed | <!--id:44079-->
