@@ -7,12 +7,12 @@
 <p align="center"><strong>Canada-only internships, co-ops, and early-career roles - one overview, two focused lists.</strong></p>
 
 <p align="center">
-  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>546 open</sub>
+  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>542 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>113 open</sub><br>
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1919 open</sub>
+  <a href="NEW_GRAD.md#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>112 open</sub><br>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1896 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>486 open</sub>
+  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>484 open</sub>
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_internships-1919-238636" alt="1919 open internships">
-  <img src="https://img.shields.io/badge/open_new_grad-486-8250df" alt="486 open new-grad roles">
-  <img src="https://img.shields.io/badge/new_last_7_days-359-d97706" alt="359 new roles in the last 7 days">
-  <img src="https://img.shields.io/badge/hiring_companies-509-0969da" alt="509 hiring companies">
+  <img src="https://img.shields.io/badge/open_internships-1896-238636" alt="1896 open internships">
+  <img src="https://img.shields.io/badge/open_new_grad-484-8250df" alt="484 open new-grad roles">
+  <img src="https://img.shields.io/badge/new_last_7_days-356-d97706" alt="356 new roles in the last 7 days">
+  <img src="https://img.shields.io/badge/hiring_companies-508-0969da" alt="508 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--11--11-6e7781" alt="Updated November 11, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Nov 11, 2026 at 20:08 UTC</sub></p>
+<p align="center"><sub>Last refreshed Nov 11, 2026 at 20:13 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Pick a list, then start with what changed.</strong> NEW marks roles posted in the last 7 days, and roles posted more than 180 days ago are hidden automatically. Every row is re-checked for a Canadian location before it is published.</div>
@@ -39,20 +39,20 @@
 
 | | Internships & co-ops | New grad & early career |
 |---|---:|---:|
-| Open roles | [1919](INTERNSHIPS.md) | [486](NEW_GRAD.md) |
-| Tech roles | [546](INTERNSHIPS.md#tech-internships) | [113](NEW_GRAD.md#tech-new-grad-roles) |
-| Other roles | [1373](INTERNSHIPS.md#other-internships) | [373](NEW_GRAD.md#other-early-career-roles) |
-| Posted in the last 7 days | 282 | 77 |
-| Hiring companies | 417 | 191 |
+| Open roles | [1896](INTERNSHIPS.md) | [484](NEW_GRAD.md) |
+| Tech roles | [542](INTERNSHIPS.md#tech-internships) | [112](NEW_GRAD.md#tech-new-grad-roles) |
+| Other roles | [1354](INTERNSHIPS.md#other-internships) | [372](NEW_GRAD.md#other-early-career-roles) |
+| Posted in the last 7 days | 280 | 76 |
+| Hiring companies | 416 | 191 |
 | Pay disclosed | 24% | 28% |
 | Remote-friendly | 15 | 4 |
-| Closed in the last 7 days | 173 | 38 |
+| Closed in the last 7 days | 195 | 40 |
 
 ## Newest roles
 
 ### Newest tech internships
 
-**The 50 newest of 546 open tech internships**
+**The 50 newest of 542 open tech internships**
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
@@ -61,7 +61,7 @@
 | Ciena | NEW AI/ML Layout Engineering Intern (Winter 2027) | Ottawa, Canada- Ottawa- 383 Terry Fox- Bldg C | Winter 2027 - $25.5-$43/hr - 4 month term - Student status | Nov 11, 2026<br><sub>today</sub> | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102"><strong>Apply</strong></a> | <!--id:323598-->
 | ATS Traffic | NEW IT Support Technician - Co-op Student | Edmonton, AB, Canada | Co-op enrollment | Nov 11, 2026<br><sub>today</sub> | <a href="https://recruiting.ultipro.ca/ATS5000ATST/JobBoard/03d98946-77ea-45a1-9048-411ce7965d53/OpportunityDetail?opportunityId=b0ed39a7-7b68-4466-a65e-2a33c0d37c6a"><strong>Apply</strong></a> | <!--id:323627-->
 | Magnet Forensics | NEW Information Security Analyst Co-op (Winter 2027) | Waterloo / Ottawa / Ontario | Winter 2027 - Co-op enrollment | Nov 10, 2026<br><sub>1 day old</sub> | <a href="https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483"><strong>Apply</strong></a> | <!--id:323588-->
-| SAP | NEW SAP iXp Intern - Agile Developer, Business Data Cloud | Vancouver, Canada | 8 month term - Hybrid / on-site - Student status | Nov 10, 2026<br><sub>1 day old</sub> | <a href="https://career5.successfactors.eu/career?career_job_req_id=457050&amp;career_ns=job_listing&amp;company=SAP&amp;navBarLevel=JOB_SEARCH"><strong>Apply</strong></a> | <!--id:323490-->
+| Sonova | NEW Regulatory Systems Analyst Co-op | Kitchener (ON), Canada | Co-op enrollment - Hybrid / on-site | Nov 10, 2026<br><sub>1 day old</sub> | <a href="https://career5.successfactors.eu/career?career_job_req_id=165489&amp;career_ns=job_listing&amp;company=Sonova&amp;navBarLevel=JOB_SEARCH"><strong>Apply</strong></a> | <!--id:323566-->
 | GSK | NEW QA Student Intern | Mississauga Milverton Drive | $31.98K/yr - Hybrid / on-site - Portfolio / GitHub | Nov 10, 2026<br><sub>1 day old</sub> | <a href="https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Mississauga-Milverton-Drive/QA-Student-Intern_451338"><strong>Apply</strong></a> | <!--id:323448-->
 | SOTI | NEW Software Developer Intern (May 2027 - 12 months) | Mississauga, Canada - Meadowvale Office (HQ) | 12 month term - Co-op enrollment - Hybrid / on-site | Nov 10, 2026<br><sub>1 day old</sub> | <a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027---12-months-_R10677"><strong>Apply</strong></a> | <!--id:323447-->
 | BMO | NEW Data Analyst, Winter 2027 (Co-o/Internship) - 8 months | Toronto, ON, CAN, YNG | Winter 2027 - $35.5K-$65K/yr - 8 month term - Student status | Nov 10, 2026<br><sub>1 day old</sub> | <a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973"><strong>Apply</strong></a> | <!--id:323421-->
@@ -99,19 +99,19 @@
 | Rivian and Volkswagen Group Technologies | NEW Mechatronics Lab Engineering Intern (January - August 2027) | Vancouver, British Columbia | Winter 2027 - CA$30.00 - CA$33.75 per hour - Eligible for housing stipend | Nov 6, 2026<br><sub>5 days old</sub> | <a href="https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8"><strong>Apply</strong></a> | <!--id:323153-->
 | Royal Bank of Canada | NEW 2027 Winter Capital Markets QTS, Software Developer (Montreal), 4 Months | MONTREAL, Quebec, Canada, 1 PLACE VILLE MARIE:MONTREAL | Winter 2027 - 4 month term - Co-op enrollment - Talent pool | Nov 6, 2026<br><sub>5 days old</sub> | <a href="https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3"><strong>Apply</strong></a> | <!--id:323114-->
 | Qualcomm | NEW FY27 Intern - Software Validation Engineering Internship - Canada (16 months) | Markham, Ontario, Canada, Markham, ON, CA | 16 month term - Graduating 2028 - Portfolio / GitHub | Nov 6, 2026<br><sub>5 days old</sub> | <a href="https://qualcomm.eightfold.ai/careers/job/446722003454"><strong>Apply</strong></a> | <!--id:323162-->
-| SOTI | NEW Quality Assurance Specialist Intern - Android (May 2027 - 12 Months) | Mississauga, Canada - Meadowvale Office (HQ) | 12 month term - Co-op enrollment | Nov 5, 2026<br><sub>6 days old</sub> | <a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Quality-Assurance-Specialist-Intern---Android--May-2027---12-Months-_R10651"><strong>Apply</strong></a> | <!--id:323092-->
 | SOTI | NEW Software Developer Intern - Android (May 2027 - 12 Months) | Mississauga, Canada - Meadowvale Office (HQ) | 12 month term - Co-op enrollment - Hybrid / on-site | Nov 5, 2026<br><sub>6 days old</sub> | <a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10650"><strong>Apply</strong></a> | <!--id:323091-->
 | SOTI | NEW Performance Test Engineer Intern (May 2027 12 Months) | Mississauga, Canada - Meadowvale Office (HQ) | 12 month term - Co-op enrollment - Hybrid / on-site | Nov 5, 2026<br><sub>6 days old</sub> | <a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--May-2027-12-Months-_R10626"><strong>Apply</strong></a> | <!--id:323090-->
+| SOTI | NEW Quality Assurance Specialist Intern - Android (May 2027 - 12 Months) | Mississauga, Canada - Meadowvale Office (HQ) | 12 month term - Co-op enrollment | Nov 5, 2026<br><sub>6 days old</sub> | <a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Quality-Assurance-Specialist-Intern---Android--May-2027---12-Months-_R10651"><strong>Apply</strong></a> | <!--id:323092-->
 | SOTI | NEW Performance Test Engineer Intern (January 2027 - 12 months) | Mississauga, Canada - Meadowvale Office (HQ) | 12 month term - Co-op enrollment - Hybrid / on-site | Nov 5, 2026<br><sub>6 days old</sub> | <a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Performance-Test-Engineer-Intern--January-2027---12-months-_R10639"><strong>Apply</strong></a> | <!--id:323089-->
 | SOTI | NEW Software Developer Intern (May 2027 12 Months) | Mississauga, Canada - Meadowvale Office (HQ) | 12 month term - Co-op enrollment - Hybrid / on-site | Nov 5, 2026<br><sub>6 days old</sub> | <a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-12-Months-_R10655"><strong>Apply</strong></a> | <!--id:323088-->
 | Magna | NEW IT Co-op Student | Brampton, Ontario, CA, 26 KENVIEW BLVD, BRAMPTON, ON L6T 5S8, CANADA | Co-op enrollment - Portfolio / GitHub | Nov 5, 2026<br><sub>6 days old</sub> | <a href="https://magna.wd3.myworkdayjobs.com/magna/job/Brampton-Ontario-CA/IT-Co-op-Student_R00268028-1"><strong>Apply</strong></a> | <!--id:323087-->
 | Acumatica | NEW Intern Developer/ Stagiaire developpeur | Montreal, QC, Canada | - | Nov 5, 2026<br><sub>6 days old</sub> | <a href="https://jobs.smartrecruiters.com/Acumatica/744000159911799"><strong>Apply</strong></a> | <!--id:323230-->
 
-<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 546 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1919 open</sub></p>
+<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 542 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1896 open</sub></p>
 
 ### Newest tech new-grad roles
 
-**The 50 newest of 113 open tech new-grad roles**
+**The 50 newest of 112 open tech new-grad roles**
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
@@ -140,7 +140,6 @@
 | Victaulic | NEW Jr. Infrastructure Sales Representative - GTA | Brampton, Ontario, Ontario - Toronto | $60K/yr - Talent pool - Possible repost | Nov 4, 2026<br><sub>7 days old</sub> | <a href="https://victaulic.wd1.myworkdayjobs.com/victaulic_careers/job/Brampton-Ontario/Jr-Infrastructure-Sales-Representative---GTA_R0006394"><strong>Apply</strong></a> | <!--id:322993-->
 | Sun Life | NEW ServiceNow Associate Software Engineer | 2 Locations, Waterloo Ontario | - | Nov 4, 2026<br><sub>7 days old</sub> | <a href="https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Waterloo-Ontario/ServiceNow-Associate-Software-Engineer_JR00129490"><strong>Apply</strong></a> | <!--id:322991-->
 | General Dynamics Mission Systems | Junior Systems Engineer - ISTAR | Ottawa, ON, Canada | - | Nov 4, 2026<br><sub>7 days old</sub> | <a href="https://jobs.smartrecruiters.com/GDMSI/744000159681119"><strong>Apply</strong></a> | <!--id:322986-->
-| AlgaeCal | Associate Data Scientist | Vancouver, British Columbia, Canada | - | Nov 4, 2026<br><sub>7 days old</sub> | <a href="https://apply.workable.com/algaecal/j/3D3DB70B37/"><strong>Apply</strong></a> | <!--id:322983-->
 | Gravity IT Resources | Junior Dotnet Developer | Mississauga, Ontario, Canada | $28-$30/yr - 6 month term - Citizenship required - Hybrid / on-site | Nov 4, 2026<br><sub>7 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4487534096"><strong>Apply</strong></a> | <!--id:0-->
 | Robert Half | Junior Full-Stack .NET Developer | Mississauga, Ontario, Canada | $22-$24/hr - Possible repost | Nov 4, 2026<br><sub>7 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4486504973"><strong>Apply</strong></a> | <!--id:0-->
 | Sunlife | ServiceNow Associate Software Engineer | Waterloo, Ontario, Canada | Co-op enrollment - Hybrid / on-site | Nov 4, 2026<br><sub>7 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4486505818"><strong>Apply</strong></a> | <!--id:0-->
@@ -148,8 +147,8 @@
 | Citco | Junior IT Support Analyst | Halifax, NS, Canada | - | Nov 3, 2026<br><sub>8 days old</sub> | <a href="https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21470"><strong>Apply</strong></a> | <!--id:322931-->
 | Ericsson | Junior AI Developer | Ottawa,Ontario,Canada, Ottawa, ON, CA | $69K-$90.3K/yr | Nov 2, 2026<br><sub>9 days old</sub> | <a href="https://jobs.ericsson.com/careers/job/563121776993233"><strong>Apply</strong></a> | <!--id:322867-->
 | Unity | U-Accelerate : Developpeur(euse) de logiciels, nouveau(elle) diplome(e) // U-Accelerate: Software Developer, New Grad | Montreal, Canada, CAN-Montreal | - | Nov 2, 2026<br><sub>9 days old</sub> | <a href="https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768"><strong>Apply</strong></a> | <!--id:322765-->
-| March Networks | Junior QA Specialist | Ottawa, Ontario, Canada | - | Nov 2, 2026<br><sub>9 days old</sub> | <a href="https://apply.workable.com/march-networks/j/58A7F11E4E/"><strong>Apply</strong></a> | <!--id:322868-->
 | March Networks | Junior Cloud QA Specialist (SDET) - 13-month term contract (maternity leave) | Ottawa, Ontario, Canada | 13 month term | Nov 2, 2026<br><sub>9 days old</sub> | <a href="https://apply.workable.com/march-networks/j/F6CA4DC903/"><strong>Apply</strong></a> | <!--id:322869-->
+| March Networks | Junior QA Specialist | Ottawa, Ontario, Canada | - | Nov 2, 2026<br><sub>9 days old</sub> | <a href="https://apply.workable.com/march-networks/j/58A7F11E4E/"><strong>Apply</strong></a> | <!--id:322868-->
 | mthree | Ingenieur(e) en soutien de production \| Programme diplomes Cloud, DevOps et SRE / Production Support Engineer \| Cloud, DevOps &amp; SRE Graduate Programme | Montreal, Quebec, Canada | - | Nov 2, 2026<br><sub>9 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4475788220"><strong>Apply</strong></a> | <!--id:0-->
 | Why Hiring | Jr. Data Scientist | Canada | - | Nov 2, 2026<br><sub>9 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4484324553"><strong>Apply</strong></a> | <!--id:0-->
 | DraftKings | Software Engineer (December 2026 Grads) | Remote - Canada | - | Oct 30, 2026<br><sub>12 days old</sub> | <a href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324-1"><strong>Apply</strong></a> | <!--id:322682-->
@@ -165,17 +164,18 @@
 | Valtech | Jr. AI Native Engineer | Canada | Portfolio / GitHub | Oct 29, 2026<br><sub>13 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4484782857"><strong>Apply</strong></a> | <!--id:0-->
 | Ciena | Routing/IP Software Engineer  - New Grad | Ottawa, Canada- Ottawa- 385 Terry Fox- Bldg B | $71.9K-$114.9K/yr - Co-op enrollment - Hybrid / on-site - Portfolio / GitHub | Oct 28, 2026<br><sub>14 days old</sub> | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006"><strong>Apply</strong></a> | <!--id:322517-->
 | Xsolla | Junior Frontend Developer, Custom Webshop Development | Montreal | - | Oct 28, 2026<br><sub>14 days old</sub> | <a href="https://jobs.lever.co/xsolla/a71646ad-6ac5-4103-b68c-3d399fc10b35"><strong>Apply</strong></a> | <!--id:323097-->
+| American Express | Campus Graduate Full-Time Engineer - 2027 AI Engineering, Enterprise Technology Services- Toronto, Ontario, CN | Toronto, ON, Canada | - | Oct 28, 2026<br><sub>14 days old</sub> | <a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465"><strong>Apply</strong></a> | <!--id:322551-->
 
-<p><a href="NEW_GRAD.md#tech-new-grad-roles"><strong>See all 113 tech new-grad roles</strong></a> - <a href="NEW_GRAD.md"><strong>Browse every new-grad &amp; early-career role</strong></a> <sub>486 open</sub></p>
+<p><a href="NEW_GRAD.md#tech-new-grad-roles"><strong>See all 112 tech new-grad roles</strong></a> - <a href="NEW_GRAD.md"><strong>Browse every new-grad &amp; early-career role</strong></a> <sub>484 open</sub></p>
 
 ## Where the roles are
 
 | City or region | Internships | New grad |
 |---|---:|---:|
-| Greater Toronto Area | 671 | 143 |
-| Greater Montreal | 302 | 56 |
-| Metro Vancouver | 140 | 38 |
+| Greater Toronto Area | 664 | 143 |
+| Greater Montreal | 295 | 56 |
 | Calgary | 133 | 45 |
+| Metro Vancouver | 138 | 37 |
 | Ottawa-Gatineau | 122 | 41 |
 | Waterloo Region | 59 | 12 |
 | Edmonton | 28 | 18 |
@@ -183,7 +183,7 @@
 | Winnipeg | 23 | 10 |
 | Quebec City | 6 | 0 |
 | Remote-friendly | 15 | 4 |
-| Other Canadian locations | 448 | 127 |
+| Other Canadian locations | 441 | 126 |
 
 <sub>A role that lists several places counts once in each.</sub>
 
@@ -191,14 +191,14 @@
 
 | Company | Internships | New grad | Total |
 |---|---:|---:|---:|
-| Bombardier | 155 | 3 | 158 |
+| Bombardier | 147 | 3 | 150 |
 | Stantec | 23 | 30 | 53 |
 | Canadian Natural | 44 | 0 | 44 |
 | PepsiCo Canada | 24 | 20 | 44 |
 | CIBC | 41 | 1 | 42 |
-| MNP | 40 | 2 | 42 |
-| Qualcomm | 42 | 0 | 42 |
+| Qualcomm | 41 | 0 | 41 |
 | MDA | 26 | 14 | 40 |
+| MNP | 38 | 2 | 40 |
 | Fleetway | 38 | 1 | 39 |
 | Kent Building Supplies | 38 | 1 | 39 |
 
@@ -208,11 +208,11 @@
 |---|---:|
 | Fall 2026 | 9 |
 | Fall/Winter 2026 | 1 |
-| Winter 2027 | 545 |
+| Winter 2027 | 535 |
 | Winter/Spring 2027 | 1 |
 | Winter/Summer 2027 | 6 |
 | Spring 2027 | 7 |
-| Summer 2027 | 248 |
+| Summer 2027 | 246 |
 | Fall 2027 | 6 |
 
 <details>
@@ -230,9 +230,9 @@
 </div>
 
 <p align="center">
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1919 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1896 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>486 open</sub>
+  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>484 open</sub>
 </p>
 
 ---
