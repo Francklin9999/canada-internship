@@ -10,7 +10,7 @@
   <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>534 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
   <a href="NEW_GRAD.md#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>107 open</sub><br>
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1831 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1827 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
   <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>470 open</sub>
 </p>
@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_internships-1831-238636" alt="1831 open internships">
+  <img src="https://img.shields.io/badge/open_internships-1827-238636" alt="1827 open internships">
   <img src="https://img.shields.io/badge/open_new_grad-470-8250df" alt="470 open new-grad roles">
-  <img src="https://img.shields.io/badge/new_last_7_days-274-d97706" alt="274 new roles in the last 7 days">
+  <img src="https://img.shields.io/badge/new_last_7_days-273-d97706" alt="273 new roles in the last 7 days">
   <img src="https://img.shields.io/badge/hiring_companies-501-0969da" alt="501 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--11--15-6e7781" alt="Updated November 15, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Nov 15, 2026 at 00:33 UTC</sub></p>
+<p align="center"><sub>Last refreshed Nov 15, 2026 at 20:06 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Pick a list, then start with what changed.</strong> NEW marks roles posted in the last 7 days, and roles posted more than 180 days ago are hidden automatically. Every row is re-checked for a Canadian location before it is published.</div>
@@ -39,14 +39,14 @@
 
 | | Internships & co-ops | New grad & early career |
 |---|---:|---:|
-| Open roles | [1831](INTERNSHIPS.md) | [470](NEW_GRAD.md) |
+| Open roles | [1827](INTERNSHIPS.md) | [470](NEW_GRAD.md) |
 | Tech roles | [534](INTERNSHIPS.md#tech-internships) | [107](NEW_GRAD.md#tech-new-grad-roles) |
-| Other roles | [1297](INTERNSHIPS.md#other-internships) | [363](NEW_GRAD.md#other-early-career-roles) |
-| Posted in the last 7 days | 232 | 42 |
+| Other roles | [1293](INTERNSHIPS.md#other-internships) | [363](NEW_GRAD.md#other-early-career-roles) |
+| Posted in the last 7 days | 231 | 42 |
 | Hiring companies | 407 | 187 |
 | Pay disclosed | 25% | 27% |
 | Remote-friendly | 14 | 5 |
-| Closed in the last 7 days | 229 | 35 |
+| Closed in the last 7 days | 208 | 33 |
 
 ## Newest roles
 
@@ -63,8 +63,8 @@
 | Seaspan | NEW Intern, Data Engineering (4 Months) | North Vancouver, BC, Canada | 4 month term | Nov 13, 2026<br><sub>2 days old</sub> | <a href="https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156"><strong>Apply</strong></a> | <!--id:323732-->
 | Almag Aluminum | NEW Quality Assurance Co-op | Brampton, Ontario, Canada | Co-op enrollment | Nov 13, 2026<br><sub>2 days old</sub> | <a href="https://apply.workable.com/almag-aluminum/j/7550430014/"><strong>Apply</strong></a> | <!--id:323733-->
 | TMX Group | NEW AI Engineering Intern | Toronto - 100 Adelaide St W | $25/hr - 4 month term - Co-op enrollment - Hybrid / on-site | Nov 12, 2026<br><sub>3 days old</sub> | <a href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680"><strong>Apply</strong></a> | <!--id:323682-->
-| Autodesk | NEW Intern, Software Developer, Stagiaire en Developpement Logiciel | Montreal, QC, CAN, AMER - Canada - Quebec - Montreal - 10 Rue Duke | 16 week term - Hybrid / on-site | Nov 12, 2026<br><sub>3 days old</sub> | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD102151-3"><strong>Apply</strong></a> | <!--id:323678-->
 | Autodesk | NEW Stagiaire en Developpement Cloud, Intern Cloud Developer | Montreal, QC, CAN, AMER - Canada - Quebec - Montreal - 10 Rue Duke | 16 week term - Hybrid / on-site | Nov 12, 2026<br><sub>3 days old</sub> | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD102147-2"><strong>Apply</strong></a> | <!--id:323677-->
+| Autodesk | NEW Intern, Software Developer, Stagiaire en Developpement Logiciel | Montreal, QC, CAN, AMER - Canada - Quebec - Montreal - 10 Rue Duke | 16 week term - Hybrid / on-site | Nov 12, 2026<br><sub>3 days old</sub> | <a href="https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD102151-3"><strong>Apply</strong></a> | <!--id:323678-->
 | SAP IT Business Systeme | NEW SAP iXp Intern - CIS Software / AI Developer | Montreal, QUEBEC, Canada | - | Nov 12, 2026<br><sub>3 days old</sub> | <a href="https://jobs.smartrecruiters.com/SAPITBusinessSysteme/744000161375795"><strong>Apply</strong></a> | <!--id:323688-->
 | Acumatica | NEW Intern Developer/ Stagiaire developpeur | Montreal, QC, Canada | - | Nov 12, 2026<br><sub>3 days old</sub> | <a href="https://jobs.smartrecruiters.com/Acumatica/744000161353959"><strong>Apply</strong></a> | <!--id:323690-->
 | BMO | NEW AI Developer, Winter 2027 (Co-op/Internship) - 4 months | Toronto, ON, CAN, YNG | Winter 2027 - $55.5K-$120K/yr - 4 month term - Co-op enrollment | Nov 12, 2026<br><sub>3 days old</sub> | <a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323"><strong>Apply</strong></a> | <!--id:323639-->
@@ -107,7 +107,7 @@
 | MDA Space | NEW Engineering Student - Automation - Winter 2027 | Sainte-Anne-de-Bellevue, Quebec, Canada | Winter 2027 - 8 month term - Security clearance - Assessment likely | Nov 9, 2026<br><sub>6 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4487696711"><strong>Apply</strong></a> | <!--id:0-->
 | MDA Space | NEW Engineering Student - FPGA Designer - Winter 2027 | Sainte-Anne-de-Bellevue, Quebec, Canada | Winter 2027 | Nov 9, 2026<br><sub>6 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4487903116"><strong>Apply</strong></a> | <!--id:0-->
 
-<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 534 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1831 open</sub></p>
+<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 534 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1827 open</sub></p>
 
 ### Newest tech new-grad roles
 
@@ -147,8 +147,8 @@
 | Citco | Junior IT Support Analyst | Halifax, NS, Canada | - | Nov 3, 2026<br><sub>12 days old</sub> | <a href="https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21470"><strong>Apply</strong></a> | <!--id:322931-->
 | Ericsson | Junior AI Developer | Ottawa,Ontario,Canada, Ottawa, ON, CA | $69K-$90.3K/yr | Nov 2, 2026<br><sub>13 days old</sub> | <a href="https://jobs.ericsson.com/careers/job/563121776993233"><strong>Apply</strong></a> | <!--id:322867-->
 | Unity | U-Accelerate : Developpeur(euse) de logiciels, nouveau(elle) diplome(e) // U-Accelerate: Software Developer, New Grad | Montreal, Canada, CAN-Montreal | - | Nov 2, 2026<br><sub>13 days old</sub> | <a href="https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768"><strong>Apply</strong></a> | <!--id:322765-->
-| March Networks | Junior QA Specialist | Ottawa, Ontario, Canada | - | Nov 2, 2026<br><sub>13 days old</sub> | <a href="https://apply.workable.com/march-networks/j/58A7F11E4E/"><strong>Apply</strong></a> | <!--id:322868-->
 | March Networks | Junior Cloud QA Specialist (SDET) - 13-month term contract (maternity leave) | Ottawa, Ontario, Canada | 13 month term | Nov 2, 2026<br><sub>13 days old</sub> | <a href="https://apply.workable.com/march-networks/j/F6CA4DC903/"><strong>Apply</strong></a> | <!--id:322869-->
+| March Networks | Junior QA Specialist | Ottawa, Ontario, Canada | - | Nov 2, 2026<br><sub>13 days old</sub> | <a href="https://apply.workable.com/march-networks/j/58A7F11E4E/"><strong>Apply</strong></a> | <!--id:322868-->
 | Why Hiring | Jr. Data Scientist | Canada | - | Nov 2, 2026<br><sub>13 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4484324553"><strong>Apply</strong></a> | <!--id:0-->
 | mthree | Ingenieur(e) en soutien de production \| Programme diplomes Cloud, DevOps et SRE / Production Support Engineer \| Cloud, DevOps &amp; SRE Graduate Programme | Montreal, Quebec, Canada | - | Nov 2, 2026<br><sub>13 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4475788220"><strong>Apply</strong></a> | <!--id:0-->
 | DraftKings | Software Engineer (December 2026 Grads) | Remote - Canada | - | Oct 30, 2026<br><sub>16 days old</sub> | <a href="https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324-1"><strong>Apply</strong></a> | <!--id:322682-->
@@ -173,9 +173,9 @@
 | City or region | Internships | New grad |
 |---|---:|---:|
 | Greater Toronto Area | 622 | 142 |
-| Greater Montreal | 296 | 52 |
-| Calgary | 127 | 42 |
-| Metro Vancouver | 132 | 35 |
+| Greater Montreal | 294 | 52 |
+| Calgary | 126 | 42 |
+| Metro Vancouver | 131 | 35 |
 | Ottawa-Gatineau | 121 | 42 |
 | Waterloo Region | 57 | 9 |
 | Edmonton | 28 | 19 |
@@ -206,14 +206,14 @@
 
 | Term | Open internships |
 |---|---:|
-| Fall 2026 | 9 |
+| Fall 2026 | 8 |
 | Fall/Winter 2026 | 1 |
-| Winter 2027 | 507 |
+| Winter 2027 | 504 |
 | Winter/Fall 2027 | 1 |
 | Winter/Spring 2027 | 1 |
 | Winter/Summer 2027 | 6 |
 | Spring 2027 | 7 |
-| Summer 2027 | 246 |
+| Summer 2027 | 245 |
 
 <details>
 <summary><strong>How Intern Radar keeps the list useful</strong></summary>
@@ -230,7 +230,7 @@
 </div>
 
 <p align="center">
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1831 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1827 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
   <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>470 open</sub>
 </p>
