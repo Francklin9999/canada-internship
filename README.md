@@ -7,12 +7,12 @@
 <p align="center"><strong>Canada-only internships, co-ops, and early-career roles - one overview, two focused lists.</strong></p>
 
 <p align="center">
-  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>478 open</sub>
+  <a href="INTERNSHIPS.md#tech-internships"><strong>Tech internships</strong></a> <sub>475 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>100 open</sub><br>
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1703 open</sub>
+  <a href="NEW_GRAD.md#tech-new-grad-roles"><strong>Tech new grad</strong></a> <sub>98 open</sub><br>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1687 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>457 open</sub>
+  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>444 open</sub>
 </p>
 
 <p align="center">
@@ -21,14 +21,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/open_internships-1703-238636" alt="1703 open internships">
-  <img src="https://img.shields.io/badge/open_new_grad-457-8250df" alt="457 open new-grad roles">
-  <img src="https://img.shields.io/badge/new_last_7_days-289-d97706" alt="289 new roles in the last 7 days">
-  <img src="https://img.shields.io/badge/hiring_companies-492-0969da" alt="492 hiring companies">
+  <img src="https://img.shields.io/badge/open_internships-1687-238636" alt="1687 open internships">
+  <img src="https://img.shields.io/badge/open_new_grad-444-8250df" alt="444 open new-grad roles">
+  <img src="https://img.shields.io/badge/new_last_7_days-290-d97706" alt="290 new roles in the last 7 days">
+  <img src="https://img.shields.io/badge/hiring_companies-490-0969da" alt="490 hiring companies">
   <img src="https://img.shields.io/badge/updated-2026--11--19-6e7781" alt="Updated November 19, 2026">
 </p>
 
-<p align="center"><sub>Last refreshed Nov 19, 2026 at 16:50 UTC</sub></p>
+<p align="center"><sub>Last refreshed Nov 19, 2026 at 21:23 UTC</sub></p>
 
 > [!TIP]
 > <div align="center"><strong>Pick a list, then start with what changed.</strong> NEW marks roles posted in the last 7 days, and roles posted more than 180 days ago are hidden automatically. Every row is re-checked for a Canadian location before it is published.</div>
@@ -39,20 +39,20 @@
 
 | | Internships & co-ops | New grad & early career |
 |---|---:|---:|
-| Open roles | [1703](INTERNSHIPS.md) | [457](NEW_GRAD.md) |
-| Tech roles | [478](INTERNSHIPS.md#tech-internships) | [100](NEW_GRAD.md#tech-new-grad-roles) |
-| Other roles | [1225](INTERNSHIPS.md#other-internships) | [357](NEW_GRAD.md#other-early-career-roles) |
-| Posted in the last 7 days | 236 | 53 |
-| Hiring companies | 391 | 185 |
-| Pay disclosed | 27% | 29% |
+| Open roles | [1687](INTERNSHIPS.md) | [444](NEW_GRAD.md) |
+| Tech roles | [475](INTERNSHIPS.md#tech-internships) | [98](NEW_GRAD.md#tech-new-grad-roles) |
+| Other roles | [1212](INTERNSHIPS.md#other-internships) | [346](NEW_GRAD.md#other-early-career-roles) |
+| Posted in the last 7 days | 236 | 54 |
+| Hiring companies | 390 | 183 |
+| Pay disclosed | 27% | 30% |
 | Remote-friendly | 8 | 5 |
-| Closed in the last 7 days | 245 | 44 |
+| Closed in the last 7 days | 265 | 60 |
 
 ## Newest roles
 
 ### Newest tech internships
 
-**The 50 newest of 478 open tech internships**
+**The 50 newest of 475 open tech internships**
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
@@ -107,11 +107,11 @@
 | Motorola Solutions | NEW Software Engineer Co-op | Gatineau, Quebec, Canada | Co-op enrollment | Nov 16, 2026<br><sub>3 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4489784718"><strong>Apply</strong></a> | <!--id:0-->
 | QSL Tailor-Made Success | NEW Stagiaire, Developpement logiciel et intelligence artificielle | Quebec, Quebec, Canada | Winter 2027 | Nov 16, 2026<br><sub>3 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4489762994"><strong>Apply</strong></a> | <!--id:0-->
 
-<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 478 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1703 open</sub></p>
+<p><a href="INTERNSHIPS.md#tech-internships"><strong>See all 475 tech internships</strong></a> - <a href="INTERNSHIPS.md"><strong>Browse every internship &amp; co-op</strong></a> <sub>1687 open</sub></p>
 
 ### Newest tech new-grad roles
 
-**The 50 newest of 100 open tech new-grad roles**
+**The 50 newest of 98 open tech new-grad roles**
 
 | Company | Role | Location | Details | Posted | Apply |
 |---|---|---|---|---:|---|
@@ -151,7 +151,6 @@
 | Zynga | Software Developer 1 | Toronto, Canada | $73.9K/yr - Portfolio / GitHub | Nov 4, 2026<br><sub>15 days old</sub> | <a href="https://job-boards.greenhouse.io/zyngacareers/jobs/6240735004"><strong>Apply</strong></a> | <!--id:323348-->
 | Victaulic | Jr. Infrastructure Sales Representative - GTA | Brampton, Ontario, Ontario - Toronto | $60K/yr - Talent pool - Possible repost | Nov 4, 2026<br><sub>15 days old</sub> | <a href="https://victaulic.wd1.myworkdayjobs.com/victaulic_careers/job/Brampton-Ontario/Jr-Infrastructure-Sales-Representative---GTA_R0006394"><strong>Apply</strong></a> | <!--id:322993-->
 | General Dynamics Mission Systems | Junior Systems Engineer - ISTAR | Ottawa, ON, Canada | - | Nov 4, 2026<br><sub>15 days old</sub> | <a href="https://jobs.smartrecruiters.com/GDMSI/744000159681119"><strong>Apply</strong></a> | <!--id:322986-->
-| NAV CANADA | Junior Systems Analyst (18-month term) | Ottawa | $91.278K-$114.668K/yr - 18 month term - Hybrid / on-site | Nov 3, 2026<br><sub>16 days old</sub> | <a href="https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Junior-Systems-Analyst--18-month-term-_JR-8484"><strong>Apply</strong></a> | <!--id:322909-->
 | Ericsson | Junior L1 Software Developer | Ottawa,Ontario,Canada, Ottawa, ON, CA | $85K-$111.3K/yr | Nov 3, 2026<br><sub>16 days old</sub> | <a href="https://jobs.ericsson.com/careers/job/563121777519326"><strong>Apply</strong></a> | <!--id:322929-->
 | Citco | Junior IT Support Analyst | Halifax, NS, Canada | - | Nov 3, 2026<br><sub>16 days old</sub> | <a href="https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21470"><strong>Apply</strong></a> | <!--id:322931-->
 | Ericsson | Junior AI Developer | Ottawa,Ontario,Canada, Ottawa, ON, CA | $69K-$90.3K/yr | Nov 2, 2026<br><sub>17 days old</sub> | <a href="https://jobs.ericsson.com/careers/job/563121776993233"><strong>Apply</strong></a> | <!--id:322867-->
@@ -165,25 +164,26 @@
 | SOTI | Associate Software Development Engineer in Test (SDET) | Mississauga, Canada - Meadowvale Office (HQ) | Hybrid / on-site - Portfolio / GitHub | Oct 29, 2026<br><sub>21 days old</sub> | <a href="https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Software-Development-Engineer-in-Test--SDET-_R10624"><strong>Apply</strong></a> | <!--id:322594-->
 | MDA | Junior Power Test Engineer | Sainte-Anne-de-Bellevue, QC, Canada | - | Oct 29, 2026<br><sub>21 days old</sub> | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=ea4a4f09-2a5c-4808-96a7-05dcab69b269"><strong>Apply</strong></a> | <!--id:322791-->
 | MDA | Junior Test Engineer - Payload, Platform and Spacecraft | Sainte-Anne-de-Bellevue, QC, Canada | - | Oct 29, 2026<br><sub>21 days old</sub> | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=626adb08-700c-4c84-b8b6-03d6e0ec3c13"><strong>Apply</strong></a> | <!--id:322792-->
+| Ciena | Routing/IP Software Engineer  - New Grad | Ottawa, Canada- Ottawa- 385 Terry Fox- Bldg B | $71.9K-$114.9K/yr - Co-op enrollment - Hybrid / on-site - Portfolio / GitHub | Oct 28, 2026<br><sub>22 days old</sub> | <a href="https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006"><strong>Apply</strong></a> | <!--id:322517-->
 
-<p><a href="NEW_GRAD.md#tech-new-grad-roles"><strong>See all 100 tech new-grad roles</strong></a> - <a href="NEW_GRAD.md"><strong>Browse every new-grad &amp; early-career role</strong></a> <sub>457 open</sub></p>
+<p><a href="NEW_GRAD.md#tech-new-grad-roles"><strong>See all 98 tech new-grad roles</strong></a> - <a href="NEW_GRAD.md"><strong>Browse every new-grad &amp; early-career role</strong></a> <sub>444 open</sub></p>
 
 ## Where the roles are
 
 | City or region | Internships | New grad |
 |---|---:|---:|
-| Greater Toronto Area | 568 | 133 |
-| Greater Montreal | 266 | 48 |
-| Metro Vancouver | 138 | 36 |
-| Ottawa-Gatineau | 109 | 43 |
-| Calgary | 94 | 37 |
-| Waterloo Region | 46 | 10 |
-| Edmonton | 38 | 15 |
-| Winnipeg | 26 | 9 |
-| Halifax | 13 | 15 |
-| Quebec City | 6 | 2 |
+| Greater Toronto Area | 557 | 125 |
+| Greater Montreal | 263 | 39 |
+| Metro Vancouver | 140 | 35 |
+| Ottawa-Gatineau | 108 | 38 |
+| Calgary | 89 | 37 |
+| Waterloo Region | 47 | 10 |
+| Edmonton | 40 | 16 |
+| Winnipeg | 27 | 9 |
+| Halifax | 14 | 15 |
+| Quebec City | 7 | 2 |
 | Remote-friendly | 8 | 5 |
-| Other Canadian locations | 437 | 129 |
+| Other Canadian locations | 436 | 128 |
 
 <sub>A role that lists several places counts once in each.</sub>
 
@@ -191,16 +191,16 @@
 
 | Company | Internships | New grad | Total |
 |---|---:|---:|---:|
-| Bombardier | 130 | 3 | 133 |
-| Stantec | 20 | 30 | 50 |
+| Bombardier | 128 | 3 | 131 |
+| Stantec | 20 | 31 | 51 |
 | PepsiCo Canada | 24 | 20 | 44 |
-| Canadian Natural | 43 | 0 | 43 |
 | Qualcomm | 42 | 0 | 42 |
 | Fleetway | 39 | 1 | 40 |
 | Kent Building Supplies | 39 | 1 | 40 |
-| MNP | 33 | 2 | 35 |
-| MDA | 19 | 14 | 33 |
+| Canadian Natural | 38 | 0 | 38 |
+| MNP | 32 | 2 | 34 |
 | AtkinsRealis | 18 | 14 | 32 |
+| MDA | 18 | 14 | 32 |
 
 ## Upcoming internship terms
 
@@ -208,12 +208,12 @@
 |---|---:|
 | Fall 2026 | 5 |
 | Fall/Winter 2026 | 1 |
-| Winter 2027 | 429 |
+| Winter 2027 | 426 |
 | Winter/Fall 2027 | 1 |
 | Winter/Spring 2027 | 1 |
 | Winter/Summer 2027 | 7 |
 | Spring 2027 | 7 |
-| Summer 2027 | 246 |
+| Summer 2027 | 247 |
 
 <details>
 <summary><strong>How Intern Radar keeps the list useful</strong></summary>
@@ -230,9 +230,9 @@
 </div>
 
 <p align="center">
-  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1703 open</sub>
+  <a href="INTERNSHIPS.md"><strong>All internships &amp; co-ops</strong></a> <sub>1687 open</sub>
   &nbsp;&nbsp;-&nbsp;&nbsp;
-  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>457 open</sub>
+  <a href="NEW_GRAD.md"><strong>All new grad &amp; early career</strong></a> <sub>444 open</sub>
 </p>
 
 ---
