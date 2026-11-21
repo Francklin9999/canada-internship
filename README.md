@@ -179,6 +179,27 @@
 | Autodesk | Stagiaire en Développement Cloud (Été), Cloud Developer Intern (Summer)– FCAP | Montréal, QC | [Apply](https://autodesk.eightfold.ai/careers/job/1443154572133) |
 | WSP | Law Student - Summer 2027 | Montréal, QC | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99799) |
 
+## More Canadian Summer 2027 internships
+
+| Employer | Role | Location | Timing |
+|---|---|---|---|
+| Saputo | [Intern, Payroll & Data Analytics](https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Saint-Laurent-QC/Stagiaire--Paie-et-Analyse-de-Donnes_JR68309) | Montréal, QC | May 10–Aug 13 |
+| Saputo | [Intern, Product and Category Management](https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Saint-Laurent-QC/Stagiaire--gestion-des-produits-et-des-catgories_JR68290) | Montréal, QC | May 10–Aug 13 |
+| Saputo | [Intern, Supply Planning](https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Saint-Laurent-QC/Stagiaire--Planification-de-l-approvisionnement_JR68587) | Montréal, QC | May 10–Aug 13 |
+| Marsh McLennan | [Marsh Risk Early Career Internship Program, Summer 2027 – Montreal](https://mmc.wd1.myworkdayjobs.com/MMC/job/Montreal---1-Place-Ville-Marie/Marsh-Risk-Early-Career-Internship-Program--Summer-2027---Montreal_R_373170) | Montréal, QC | Apply by Dec 9 |
+| Kiewit | [Stagiaire en ingénierie géotechnique - Kiewit Infrastructure Engineers - Été 2027](https://kiewitcareers.kiewit.com/job/Laval-Stagiaire-en-ing%C3%A9nierie-g%C3%A9otechnique-Kiewit-Infrastructure-Engineers-%C3%89t%C3%A9-2027-Queb/1449926500/) | Laval, QC | — |
+| Ryan | [Summer 2027 Intern, Software Engineering](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/North-York/Summer-2027-Intern--Software-Engineering_R0020807-1) | North York, ON | — |
+| Pason Systems | [Software Developer Intern (Datahub)](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=8fa0cb01-1a9f-4b41-9c7e-98649142f8e8) | Calgary, AB | 16 months starting in May |
+| Spartan Controls | [Co-op/Intern Computer Science or Engineering Student - Data & Software Specialist (May 2027)](https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Computer-Science-or-Engineering-Student-Data-&-Software-Specialist-%28May-2027%29-AB-T2A-7V2/607884717/) | Calgary or Edmonton, AB | 16 months starting in May. Apply by Dec 13 at 11:59 p.m. Mountain. |
+| Spartan Controls | [Co-op/Intern Engineering Student - Automation Specialist, Configuration & Design (May 2027)](https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Engineering-Student-Automation-Specialist%2C-Configuration-&-Design-%28May-2027%29-AB-T2A-7V2/607885317/) | Calgary, AB | Starts in May |
+| Marsh McLennan | [Marsh Risk Early Career Internship Program, Summer 2027 – Calgary](https://mmc.wd1.myworkdayjobs.com/MMC/job/Calgary---3rd-Avenue-SW/Marsh-Risk-Early-Career-Internship-Program--Summer-2027---Calgary_R_373167) | Calgary, AB | Apply by Dec 9 |
+| Marsh McLennan | [Marsh Risk Early Career Internship Program, Summer 2027 – Vancouver](https://mmc.wd1.myworkdayjobs.com/MMC/job/Vancouver---Burrard/Marsh-Risk-Early-Career-Internship-Program--Summer-2027---Vancouver_R_373162) | Vancouver, BC | Apply by Dec 9 |
+| Kiewit | [Geotechnical Engineering Intern - Kiewit Infrastructure Engineers - Summer 2027 - Burnaby, BC](https://kiewitcareers.kiewit.com/job/Burnaby-Geotechnical-Engineering-Intern-Kiewit-Infrastructure-Engineers-Summer-2027-Burnaby%2C-BC-Brit/1432644700/) | Burnaby, BC | — |
+| AECOM | [Transportation Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000162736176-transportation-engineering-intern) | Winnipeg, MB | — |
+| SaskPower | [Summer Student - Engineering](https://jobs.saskpower.com/job/MULTIPLE-Summer-Student-Engineering-SK/606151017/) | Various locations, SK | Apply by Dec 31 |
+| Kiewit | [Project Technician Intern -  McNally - Summer 2027](https://kiewitcareers.kiewit.com/McNally/job/Dartmouth-Project-Technician-Intern-McNally-Summer-2027-Nova/1440097400/) | Dartmouth, NS | — |
+| Kiewit | [Project Technician Intern -  McNally - Summer 2027](https://kiewitcareers.kiewit.com/McNally/job/St_-John's-Project-Technician-Intern-McNally-Summer-2027-Newf/1440097100/) | St. John’s or Argentia, NL | — |
+
 ## Where the roles are
 
 | City or region | Internships | New grad |
