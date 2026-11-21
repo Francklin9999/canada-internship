@@ -200,6 +200,79 @@
 | Kiewit | [Project Technician Intern -  McNally - Summer 2027](https://kiewitcareers.kiewit.com/McNally/job/Dartmouth-Project-Technician-Intern-McNally-Summer-2027-Nova/1440097400/) | Dartmouth, NS | — |
 | Kiewit | [Project Technician Intern -  McNally - Summer 2027](https://kiewitcareers.kiewit.com/McNally/job/St_-John's-Project-Technician-Intern-McNally-Summer-2027-Newf/1440097100/) | St. John’s or Argentia, NL | — |
 
+## Additional Canadian Summer 2027 internships
+
+Summer internships and longer co-ops with May 2027 starts.
+
+### Québec
+
+| Employer | Role | Location | Timing |
+|---|---|---|---|
+| Saputo | [Intern, Finance](https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Saint-Laurent-QC/Intern--Finance_JR68308) | Saint-Laurent, QC | May 10 to Aug 13, 2027 |
+| Saputo | [Intern, Marketing](https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Head-Office---Canadian-Division-35/Intern--Marketing_JR68288) | Montréal, QC | May 10 to Aug 13, 2027 |
+| Trane Technologies | [2027 Construction Project Management Intern](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Laval-Quebec/XMLNAME-2027-Construction-Project-Management-Intern_JR-15025-1) | Laval, QC | Summer 2027 · 12 weeks |
+| Trane Technologies | [2027 Stagiaire en vente technique - Équipement / Technical Sales Intern - Equipment](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Laval-Quebec/XMLNAME-2027-Stagiaire-en-vente-technique---quipement---Technical-Sales-Intern---Equipment_JR-16568) | Laval, QC | Summer 2027 · 12 weeks |
+| Trane Technologies | [2027 Technical Sales Intern - Equipment](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Quebec-Quebec/XMLNAME-2027-Technical-Sales-Intern---Equipment_JR-15014-1) | Québec City, QC | Summer 2027 · 12 weeks |
+| Trane Technologies | [2027 Technical Sales Intern - Services](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Laval-Quebec/XMLNAME-2027-Technical-Sales-Intern---Services_JR-13616-1) | Laval, QC | Summer 2027 · 12 weeks |
+
+### Ontario
+
+| Employer | Role | Location | Timing |
+|---|---|---|---|
+| AECOM | [Engineering Intern - Airport Projects](https://jobs.smartrecruiters.com/AECOM2/744000162369224-engineering-intern-airport-projects) | Mississauga, ON | Summer 2027 |
+| AECOM | [Geotechnical Engineering Intern](https://jobs.smartrecruiters.com/AECOM2/744000162583857-geotechnical-engineering-intern) | Mississauga, ON | Summer 2027 |
+| Grainger Canada | [GCAN Customer Experience Intern](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Customer-Experience-Intern-ON-L3T-7W8/1450621700/) | Thornhill, ON | Summer 2027 |
+| Grainger Canada | [GCAN Field Operations Analyst Intern](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Field-Operations-Analyst-Intern-ON-L3T-7W8/1450732300/) | Thornhill, ON | Summer 2027 |
+| Grainger Canada | [GCAN Finance Analyst Intern](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Finance-Analyst-Intern-ON-L3T-7W8/1450631500/) | Thornhill, ON | Summer 2027 |
+| Grainger Canada | [GCAN Inventory Analyst Intern](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Inventory-Analyst-Intern-ON-L3T-7W8/1450730400/) | Thornhill, ON | Summer 2027 |
+| Grainger Canada | [GCAN Supplier Performance Analyst Intern](https://jobs.grainger.com/Canada/job/THORNHILL-GCAN-Supplier-Performance-Analyst-Intern-ON-L3T-7W8/1450641700/) | Thornhill, ON | Summer 2027 |
+| Honeywell Aerospace | [Intern Bachelors Mech Eng](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/129350) | Mississauga, ON | May 2027 start |
+| Kiewit | [Field Coordinator Intern - MEC Transportation - Canada (Summer 2027)](https://kiewitcareers.kiewit.com/MEC/job/Ottawa-Field-Coordinator-Intern-MEC-Transportation-Canada-%28Summer-2027%29-ON/1449551300/) | Ottawa, ON or Toronto, ON | Summer 2027 |
+| Kiewit | [Geotechnical Engineering Intern - Kiewit Infrastructure Engineers - Summer 2027 - Oakville, ON](https://kiewitcareers.kiewit.com/job/Oakville-Geotechnical-Engineering-Intern-Kiewit-Infrastructure-Engineers-Summer-2027-Oakville%2C-ON-ON/1432643700/) | Oakville, ON | Summer 2027 |
+| Lumentum | [Project Manager Analyst – Co-op/Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Project-Manager-Analyst---Co-op-Intern_20261145) | Ottawa, ON | May 2027 · 16 months |
+| Marsh McLennan | [Marsh Risk Early Career Internship Program, Summer 2027 – Toronto](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Marsh-Risk-Early-Career-Internship-Program--Summer-2027---Toronto_R_373139) | Toronto, ON | Summer 2027 |
+| SOTI | [Associate Product Manager Intern (May 2027 - 12 Months)](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | Mississauga, ON | May 2027 · 12 months |
+| SOTI | [Associate Product Manager Intern (SOTI Connect) (May 2027 - 12 Months)](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-Connect---May-2027---12-Months-_R10615) | Mississauga, ON | May 2027 · 12 months |
+| SOTI | [Associate Product Manager Intern (SOTI XSight) (May 2027 - 12 Months)](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) | Mississauga, ON | May 2027 · 12 months |
+| Saputo | [Intern, CRM Implementation Analyst](https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Georgetown-ON/Intern--CRM-Implementation-Analyst_JR68378) | Georgetown, ON or Mississauga, ON | May 10 to Aug 13, 2027 |
+| Saputo | [Intern, Trade Promotion Management Business and Data Analyst](https://saputo.wd5.myworkdayjobs.com/Saputo_External_Careers/job/Georgetown-ON/Intern--Trade-Promotion-Management-Business-and-Data-Analyst_JR68377-1) | Georgetown, ON or Mississauga, ON | May 10 to Aug 13, 2027 |
+
+### Western Canada
+
+| Employer | Role | Location | Timing |
+|---|---|---|---|
+| ARC Resources | [Data Services Co-op Student](https://careers.arcresources.com/job/Calgary-Data-Services-Co-op-Student-Albe/606239017/) | Calgary, AB | May 2027 start |
+| ARC Resources | [Enablement and Reporting Summer Student](https://careers.arcresources.com/job/Calgary-Enablement-and-Reporting-Summer-Student-Albe/606242117/) | Calgary, AB | May 2027 start |
+| ARC Resources | [Information Management Summer Student](https://careers.arcresources.com/job/Calgary-Information-Management-Summer-Student-Albe/606071117/) | Calgary, AB | May 2027 start |
+| ARC Resources | [Information Systems Summer Student](https://careers.arcresources.com/job/Calgary-Information-Systems-Summer-Student-Albe/605972317/) | Calgary, AB | May 2027 start |
+| ARC Resources | [Information Technology Co-op Student (16-month term)](https://careers.arcresources.com/job/Calgary-Information-Technology-Co-op-Student-%2816-month-term%29-Albe/606027217/) | Calgary, AB | May 2027 start |
+| Electronic Arts | [AI Engineer Intern (Masters)](https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer-Intern-Masters/216223) | Vancouver, BC | Summer 2027 · 16 weeks |
+| Electronic Arts | [Animator Co-op (Summer 2027 - 8-months - Sports Tech )](https://jobs.ea.com/en_US/careers/JobDetail/Animator-Co-op-Sports-Tech/216233) | Vancouver, BC | May 2027 · 8 months |
+| Electronic Arts | [Brand Design Intern - Summer 2027](https://jobs.ea.com/en_US/careers/JobDetail/Brand-Design-Intern-Summer-2027/216217) | Vancouver, BC | Summer 2027 |
+| Electronic Arts | [Quality Designer Co-op (Summer 2027)](https://jobs.ea.com/en_US/careers/JobDetail/Quality-Designer-Co-op/216286) | Vancouver, BC | May 2027 · 8 months |
+| Kiewit | [Civil/Structural Intern (4-8 month co-op) - Western Canada Region - Summer 2027](https://kiewitcareers.kiewit.com/job/Burnaby-CivilStructural-Intern-%284-8-month-co-op%29-Western-Canada-Region-Summer-2027-Brit/1448095500/) | Burnaby, BC | May 2027 · 4 or 8 months |
+| Nutrien | [Co-op Student, Tax Transformation & Technology](https://jobs.nutrien.com/North-America/job/Saskatoon-Co-op-Student%2C-Tax-Transformation-&-Technology-SK-S7K-5R6/34241-en_US/) | Calgary, AB or Saskatoon, SK | January or May 2027 · 8 or 12 months |
+| Spartan Controls | [Co-op/Intern Engineering Student - Application Specialist (May 2027)](https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Engineering-Student-Application-Specialist-%28May-2027%29-AB-T2A-7V2/607888517/) | Calgary, AB | May 2027 · 16 months |
+| Spartan Controls | [Co-op/Intern Engineering Student - Electrical & CADD Specialist (May 2027)](https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Engineering-Student-Electrical-&-CADD-Specialist-%28May-2027%29-AB-T2A-7V2/607885117/) | Calgary, AB | May 2027 · 16 months |
+| Spartan Controls | [Co-op/Intern Engineering Student - Electrical Specialist (May 2027)](https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Engineering-Student-Electrical-Specialist-%28May-2027%29-AB-T3N-1A7/607885017/) | Calgary, AB | May 2027 · 16 months |
+| Spartan Controls | [Co-op/Intern Engineering Student - Engineering Practice (May 2027)](https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Engineering-Student-Engineering-Practice-%28May-2027%29-AB-T2A-7V2/607884617/) | Calgary, AB | May 2027 · 16 months |
+| Spartan Controls | [Co-op/Intern Engineering Student - Engineering Projects (May 2027)](https://careers.spartancontrols.com/job/Calgary-Co-opIntern-Engineering-Student-Engineering-Projects-%28May-2027%29-AB-T3N-1A7/607884817/) | Calgary, AB | May 2027 · 16 months |
+| Trane Technologies | [2027 Construction Project Management Intern](https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers/job/Calgary-Alberta/XMLNAME-2027-Construction-Project-Management-Intern_JR-15024-1) | Calgary, AB | Summer 2027 · 12 weeks |
+| Urban Systems | [Geomatics Engineering Co-Op Student](https://careers.urbansystems.ca/application-form/?gh_jid=8199170003) | Calgary, AB | May 2027 · 8, 12 or 16 months |
+
+### Atlantic Canada
+
+| Employer | Role | Location | Timing |
+|---|---|---|---|
+| Doane Grant Thornton | [Co-op, Assurance (Privately Held Business Group)](https://phh.tbe.taleo.net/phh01/ats/careers/v2/viewRequisition?cws=57&org=GRANTTHORNTON&rid=12381) | Yarmouth, NS | Summer 2027 |
+
+### Funded research internships
+
+| Institution | Program | Location | Application deadline |
+|---|---|---|---|
+| Trottier Institute for Research on Exoplanets | [Summer Internship Grants](https://exoplanetes.umontreal.ca/en/job/2027-summer-internship-grants) | Montréal or Sherbrooke, QC | Dec 15, 2026 at 11:59 p.m. ET |
+| Université de Montréal IRIC | [Next Generation Competition research internships](https://www.iric.ca/en/education/submit-your-application/soumettre-votre-candidature-pour-un-stage-concours-bourses-iric-scientifiques-de-demain) | Montréal, QC | Dec 1, 2026 at 10 a.m. ET |
+
 ## Where the roles are
 
 | City or region | Internships | New grad |
