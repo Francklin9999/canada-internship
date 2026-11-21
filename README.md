@@ -82,7 +82,7 @@
 | Guardian Capital Group | NEW Data Science Intern (Summer 2027) | Toronto, Ontario, Canada | Summer 2027 - $25-$35/hr - Student status - Portfolio / GitHub | Nov 18, 2026<br><sub>3 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4491337324"><strong>Apply</strong></a> | <!--id:0-->
 | Bell Flight | NEW Stage hiver 2027 - Technologie de l&#39;information des systemes de qualite / 2027 Winter Internship - Quality Systems Information Technology (Mirabel, QC) | Mirabel, Quebec, Canada | Winter 2027 - Co-op enrollment | Nov 18, 2026<br><sub>3 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4491864724"><strong>Apply</strong></a> | <!--id:0-->
 | CAE | NEW Stagiaire - Developpeur Full Stack-EN | Montreal, Quebec, Canada | - | Nov 18, 2026<br><sub>3 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4474089245"><strong>Apply</strong></a> | <!--id:0-->
-| Autodesk | NEW Stagiaire,en developpement IA (Ete 2027)/ Intern, AI Developer (Summer 2027) | Montreal, Quebec, Canada | Summer 2027 - 16 week term - Hybrid / on-site - Student status | Nov 18, 2026<br><sub>3 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4492107122"><strong>Apply</strong></a> | <!--id:0-->
+| Autodesk | NEW Stagiaire,en developpement IA (Ete 2027)/ Intern, AI Developer (Summer 2027) | Montreal, Quebec, Canada | Summer 2027 - 16 week term - Hybrid / on-site - Student status | Nov 18, 2026<br><sub>3 days old</sub> | <a href="https://autodesk.eightfold.ai/careers/job/1443154610714"><strong>Apply</strong></a> | <!--id:0-->
 | Textron | NEW Stage hiver 2027 - Technologie de l&#39;information des systemes de qualite / 2027 Winter Internship - Quality Systems Information Technology (Mirabel, QC) | Mirabel, Quebec, Canada | Winter 2027 - Co-op enrollment | Nov 18, 2026<br><sub>3 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4491310301"><strong>Apply</strong></a> | <!--id:0-->
 | CAE | NEW Stagiaire - Intelligence artificielle-EN | Montreal, Quebec, Canada | - | Nov 18, 2026<br><sub>3 days old</sub> | <a href="https://www.linkedin.com/jobs/view/4474089246"><strong>Apply</strong></a> | <!--id:0-->
 | TMX Group | NEW DevOps Analyst Intern | Montreal - 1190 av. des Canadiens-de-Montreal | 4 month term - Hybrid / on-site - Portfolio / GitHub | Nov 17, 2026<br><sub>4 days old</sub> | <a href="https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/DevOps-Analyst-Intern_R-6724"><strong>Apply</strong></a> | <!--id:323884-->
@@ -167,6 +167,17 @@
 | MDA | Junior Test Engineer - Payload, Platform and Spacecraft | Sainte-Anne-de-Bellevue, QC, Canada | - | Oct 29, 2026<br><sub>23 days old</sub> | <a href="https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=626adb08-700c-4c84-b8b6-03d6e0ec3c13"><strong>Apply</strong></a> | <!--id:322792-->
 
 <p><a href="NEW_GRAD.md#tech-new-grad-roles"><strong>See all 99 tech new-grad roles</strong></a> - <a href="NEW_GRAD.md"><strong>Browse every new-grad &amp; early-career role</strong></a> <sub>441 open</sub></p>
+
+## Montréal Summer 2027 internships
+
+| Company | Role | Location | Apply |
+|---|---|---|---|
+| Autodesk | Intern, DevOps - Stagiaire, DevOps | Montréal, QC | [Apply](https://autodesk.eightfold.ai/careers/job/1443154637901) |
+| Autodesk | Stagiaire,en développement IA (Été 2027)/ Intern, AI Developer (Summer 2027) | Montréal, QC | [Apply](https://autodesk.eightfold.ai/careers/job/1443154610714) |
+| Autodesk | Stagiaire, en développement Cloud (Été 2027) / Intern, Cloud Developer ( Summer 2027) | Montréal, QC | [Apply](https://autodesk.eightfold.ai/careers/job/1443154610713) |
+| Autodesk | Stagiaire en développement logiciels (Été 2027) / Software Developer Intern (Summer 2027) | Montréal, QC | [Apply](https://autodesk.eightfold.ai/careers/job/1443154605834) |
+| Autodesk | Stagiaire en Développement Cloud (Été), Cloud Developer Intern (Summer)– FCAP | Montréal, QC | [Apply](https://autodesk.eightfold.ai/careers/job/1443154572133) |
+| WSP | Law Student - Summer 2027 | Montréal, QC | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99799) |
 
 ## Where the roles are
 
